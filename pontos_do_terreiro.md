@@ -4,8 +4,8 @@
 
 ## 🎵 Playlists no YouTube
 
-- ▶️ **[Playlist Completa (Todos os 48 Pontos)](https://www.youtube.com/watch_videos?video_ids=DPOvYhxZ3Yk,XvJBdrUOZGA,Fs0RgblPAmc,XDBq6Q3_v_c,NQalF3uQfRg,iTDUqXi5gOY,fFKjyb-9sek,o4Vd15TNVyw,Ifoas48-9p8,Ljvv7xAou64,6MMfuHxls6I,IuuE0rItWps,WNXj9h0IIGs,q5QaHye5Q1g,zXXgb1Y-97k,Fqf8M-yxOiY,ha1CMHn7_rE,DMfjIpRSoiQ,dAiCTlJ0Loc,KZYlZOteyeI,KhPrYYfndYI,a4AWJAgDSoo,Ig1AG2v655w,eg9Py84-0B4,CoxjVFfvI7g,zPgBXoQ35t0,OJ4VV_5N0aQ,o0sMs5L2QUg,iKzl9w78kYk,t6MPG3bF0Lw,rf_pSwFqhzI,LOOmEN70ong,t1gqU4psYg0,hYq4kfUz_EM,UI08Mf1Madg,s-i_B-laQ84,MHvy2_n-ijY,jLAq8wmbKU0,iRkzFmkcb2M,iF-aKKxnink,G_V_HseQAyg,PzZxl533wtU,p7uSkXoy-Kk,Ac9hSXfLhps,Rre77wRHhL4,bBBsZBc-674,yYJNk5FiDfs,vhahDSgzG1s)**
-- 🚪 **[Playlist Abertura de Gira (Pontos 1 a 19)](https://www.youtube.com/watch_videos?video_ids=DPOvYhxZ3Yk,XvJBdrUOZGA,Fs0RgblPAmc,XDBq6Q3_v_c,NQalF3uQfRg,iTDUqXi5gOY,fFKjyb-9sek,o4Vd15TNVyw,Ifoas48-9p8,Ljvv7xAou64,6MMfuHxls6I,IuuE0rItWps,WNXj9h0IIGs,q5QaHye5Q1g,zXXgb1Y-97k,Fqf8M-yxOiY,ha1CMHn7_rE,DMfjIpRSoiQ,dAiCTlJ0Loc)**
+- ▶️ **[Playlist Completa (Todos os 48 Pontos)](https://www.youtube.com/watch_videos?video_ids=DPOvYhxZ3Yk,XvJBdrUOZGA,Fs0RgblPAmc,XDBq6Q3_v_c,NQalF3uQfRg,iTDUqXi5gOY,fFKjyb-9sek,o4Vd15TNVyw,Ifoas48-9p8,Ljvv7xAou64,6MMfuHxls6I,IuuE0rItWps,WNXj9h0IIGs,q5QaHye5Q1g,zXXgb1Y-97k,Fqf8M-yxOiY,ha1CMHn7_rE,eadNYgNxe6U,dAiCTlJ0Loc,KZYlZOteyeI,KhPrYYfndYI,a4AWJAgDSoo,Ig1AG2v655w,eg9Py84-0B4,CoxjVFfvI7g,zPgBXoQ35t0,OJ4VV_5N0aQ,o0sMs5L2QUg,iKzl9w78kYk,t6MPG3bF0Lw,rf_pSwFqhzI,LOOmEN70ong,t1gqU4psYg0,hYq4kfUz_EM,UI08Mf1Madg,s-i_B-laQ84,MHvy2_n-ijY,jLAq8wmbKU0,iRkzFmkcb2M,iF-aKKxnink,G_V_HseQAyg,PzZxl533wtU,p7uSkXoy-Kk,Ac9hSXfLhps,Rre77wRHhL4,bBBsZBc-674,yYJNk5FiDfs,vhahDSgzG1s)**
+- 🚪 **[Playlist Abertura de Gira (Pontos 1 a 19)](https://www.youtube.com/watch_videos?video_ids=DPOvYhxZ3Yk,XvJBdrUOZGA,Fs0RgblPAmc,XDBq6Q3_v_c,NQalF3uQfRg,iTDUqXi5gOY,fFKjyb-9sek,o4Vd15TNVyw,Ifoas48-9p8,Ljvv7xAou64,6MMfuHxls6I,IuuE0rItWps,WNXj9h0IIGs,q5QaHye5Q1g,zXXgb1Y-97k,Fqf8M-yxOiY,ha1CMHn7_rE,eadNYgNxe6U,dAiCTlJ0Loc)**
 - 🏹 **[Playlist Caboclos e Subida (Pontos 1 a 29)](https://www.youtube.com/watch_videos?video_ids=KZYlZOteyeI,KhPrYYfndYI,a4AWJAgDSoo,Ig1AG2v655w,eg9Py84-0B4,CoxjVFfvI7g,zPgBXoQ35t0,OJ4VV_5N0aQ,o0sMs5L2QUg,iKzl9w78kYk,t6MPG3bF0Lw,rf_pSwFqhzI,LOOmEN70ong,t1gqU4psYg0,hYq4kfUz_EM,UI08Mf1Madg,s-i_B-laQ84,MHvy2_n-ijY,jLAq8wmbKU0,iRkzFmkcb2M,iF-aKKxnink,G_V_HseQAyg,PzZxl533wtU,p7uSkXoy-Kk,Ac9hSXfLhps,Rre77wRHhL4,bBBsZBc-674,yYJNk5FiDfs,vhahDSgzG1s)**
 
 ---
@@ -218,7 +218,7 @@ De a benção a ele.
 ```
 
 ### Ponto 18: Ê, Iemanjá! Rainha das Ondas
-**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=DMfjIpRSoiQ) (IEMANJÁ - CANTO DE IEMANJÁ CON LETRA)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=eadNYgNxe6U) (Rainha das Ondas, Sereia do Mar (com letra) - Ponto cantado de Iemanjá)
 
 ```
 18 - Ê, Iemanjá! Ê, Iemanjá!
