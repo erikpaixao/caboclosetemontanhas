@@ -4,9 +4,10 @@
 
 ## 🎵 Playlists no YouTube (Atualizadas)
 
-- ▶️ **[Playlist Completa (Todos os 48 Pontos)](https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGGqrYfTfswDUQyODEwMjAyNg)** ([Link Alternativo](https://www.youtube.com/watch_videos?video_ids=DPOvYhxZ3Yk,XvJBdrUOZGA,Fs0RgblPAmc,XDBq6Q3_v_c,NQalF3uQfRg,iTDUqXi5gOY,fFKjyb-9sek,o4Vd15TNVyw,Ifoas48-9p8,Ljvv7xAou64,6MMfuHxls6I,IuuE0rItWps,WNXj9h0IIGs,q5QaHye5Q1g,zXXgb1Y-97k,Fqf8M-yxOiY,ha1CMHn7_rE,eadNYgNxe6U,dAiCTlJ0Loc,KZYlZOteyeI,KhPrYYfndYI,a4AWJAgDSoo,Ig1AG2v655w,eg9Py84-0B4,CoxjVFfvI7g,zPgBXoQ35t0,OJ4VV_5N0aQ,o0sMs5L2QUg,iKzl9w78kYk,t6MPG3bF0Lw,rf_pSwFqhzI,_dhIDkEh6OQ,t1gqU4psYg0,hYq4kfUz_EM,UI08Mf1Madg,s-i_B-laQ84,MHvy2_n-ijY,jLAq8wmbKU0,iRkzFmkcb2M,iF-aKKxnink,G_V_HseQAyg,PzZxl533wtU,p7uSkXoy-Kk,Ac9hSXfLhps,Rre77wRHhL4,bBBsZBc-674,yYJNk5FiDfs,vhahDSgzG1s))
+- ▶️ **[Playlist Completa (Todos os 69 Pontos)](https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG_ASvPHfT2NgwMzExMjAyNg)** ([Link Alternativo](https://www.youtube.com/watch_videos?video_ids=DPOvYhxZ3Yk,XvJBdrUOZGA,Fs0RgblPAmc,XDBq6Q3_v_c,NQalF3uQfRg,iTDUqXi5gOY,fFKjyb-9sek,o4Vd15TNVyw,Ifoas48-9p8,Ljvv7xAou64,6MMfuHxls6I,IuuE0rItWps,WNXj9h0IIGs,q5QaHye5Q1g,zXXgb1Y-97k,Fqf8M-yxOiY,ha1CMHn7_rE,eadNYgNxe6U,dAiCTlJ0Loc,KZYlZOteyeI,KhPrYYfndYI,a4AWJAgDSoo,Ig1AG2v655w,eg9Py84-0B4,CoxjVFfvI7g,zPgBXoQ35t0,OJ4VV_5N0aQ,o0sMs5L2QUg,iKzl9w78kYk,t6MPG3bF0Lw,rf_pSwFqhzI,_dhIDkEh6OQ,t1gqU4psYg0,hYq4kfUz_EM,UI08Mf1Madg,s-i_B-laQ84,MHvy2_n-ijY,jLAq8wmbKU0,iRkzFmkcb2M,iF-aKKxnink,G_V_HseQAyg,PzZxl533wtU,p7uSkXoy-Kk,Ac9hSXfLhps,Rre77wRHhL4,bBBsZBc-674,yYJNk5FiDfs,vhahDSgzG1s,rQDf1ZtG0r0,8bVILVAA8u8,raNlDcnieOw,ydmN0-_xvyU,TFqmhkRLPrQ,L_QhS4NTw8Q,zDNeLLEVQM4,UJqlkZWZf5o,QYFi8wyfkgU,2zndeGk2hxo,QH25xWNcsO4,ZSTgHWv_hmE,w0gPP5YN2-U,6uuTquh7tAM,Sl-kBq7ow-M,1JJvRRMjGbk,Q_ecoA-B8cM,qAouumw4Iok,MlIbaBvdqRs,8C6T9iMrUEE,D0MMAOB5PZs))
 - 🚪 **[Playlist Abertura de Gira (Pontos 1 a 19)](https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG2GJe2ZsujXEyODEwMjAyNg)** ([Link Alternativo](https://www.youtube.com/watch_videos?video_ids=DPOvYhxZ3Yk,XvJBdrUOZGA,Fs0RgblPAmc,XDBq6Q3_v_c,NQalF3uQfRg,iTDUqXi5gOY,fFKjyb-9sek,o4Vd15TNVyw,Ifoas48-9p8,Ljvv7xAou64,6MMfuHxls6I,IuuE0rItWps,WNXj9h0IIGs,q5QaHye5Q1g,zXXgb1Y-97k,Fqf8M-yxOiY,ha1CMHn7_rE,eadNYgNxe6U,dAiCTlJ0Loc))
 - 🏹 **[Playlist Caboclos e Subida (Pontos 1 a 29)](https://www.youtube.com/watch?v=KZYlZOteyeI&list=TLGGbbkwZont2u0yODEwMjAyNg)** ([Link Alternativo](https://www.youtube.com/watch_videos?video_ids=KZYlZOteyeI,KhPrYYfndYI,a4AWJAgDSoo,Ig1AG2v655w,eg9Py84-0B4,CoxjVFfvI7g,zPgBXoQ35t0,OJ4VV_5N0aQ,o0sMs5L2QUg,iKzl9w78kYk,t6MPG3bF0Lw,rf_pSwFqhzI,_dhIDkEh6OQ,t1gqU4psYg0,hYq4kfUz_EM,UI08Mf1Madg,s-i_B-laQ84,MHvy2_n-ijY,jLAq8wmbKU0,iRkzFmkcb2M,iF-aKKxnink,G_V_HseQAyg,PzZxl533wtU,p7uSkXoy-Kk,Ac9hSXfLhps,Rre77wRHhL4,bBBsZBc-674,yYJNk5FiDfs,vhahDSgzG1s))
+- 🤠 **[Playlist Boiadeiro (Pontos 1 a 21)](https://www.youtube.com/watch?v=rQDf1ZtG0r0&list=TLGGoIxLZgliTTUwMzExMjAyNg)** ([Link Alternativo](https://www.youtube.com/watch_videos?video_ids=rQDf1ZtG0r0,8bVILVAA8u8,raNlDcnieOw,ydmN0-_xvyU,TFqmhkRLPrQ,L_QhS4NTw8Q,zDNeLLEVQM4,UJqlkZWZf5o,QYFi8wyfkgU,2zndeGk2hxo,QH25xWNcsO4,ZSTgHWv_hmE,w0gPP5YN2-U,6uuTquh7tAM,Sl-kBq7ow-M,1JJvRRMjGbk,Q_ecoA-B8cM,qAouumw4Iok,MlIbaBvdqRs,8C6T9iMrUEE,D0MMAOB5PZs))
 
 ---
 
@@ -605,4 +606,250 @@ Mas ele vai ser coroado,
 Na cidade da Jurema,
 Na coroa de arerê,
 Na Cidade da Jurema
+```
+
+## ✨ PONTOS DE BOIADEIRO
+
+### Ponto 1: Boiadeiro quando vem, é no romper da madrugada
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=rQDf1ZtG0r0) (Lá vem Seu Boiadeiro, tocando sua boiada)
+
+```
+01 - Boiadeiro quando vem, é no romper da madrugada (BIS)
+Com seu laço na mão, tocando sua boiada (BIS)
+Oi ligeiro, ligeiro seu boiadeiro,
+O que trouxe de lá, seu boiadeiro.
+```
+
+### Ponto 2: Xô, Xô, passarinho, saia do meio da estrada
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=8bVILVAA8u8) (Ponto de Boiadeiro - Cho cho cho passarinho saia da beira da estrada)
+
+```
+02 – Xô, Xô, passarinho,
+Saia do meio da estrada,
+Xô, Xô, passarinho,
+Saia do meio da estrada,
+Ai vem seu boiadeiro tocando sua boiada.
+Ai vem seu boiadeiro tocando sua boiada.
+```
+
+### Ponto 3: Ele é o boiadeiro Navizala
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=raNlDcnieOw) (Ponto de Boiadeiro   ele é boiadeiro navizala)
+
+```
+03 – Ele é o boiadeiro Navizala,
+É o boiadeiro Navizala, oi cacique,
+É o boiadeiro Navizala, oi cacique,
+```
+
+### Ponto 4: Seu boiadeiro por aqui choveu
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=ydmN0-_xvyU) (Ponto de Boiadeiro - Seu boiadeiro por aqui choveu)
+
+```
+04 – Seu boiadeiro por aqui choveu (BIS)
+Choveu, choveu, que água rolou,
+Foi tanta água que seu boi nadou.
+Choveu, choveu, que água rolou,
+Foi tanta água que seu boi nadou.
+```
+
+### Ponto 5: Pedrinha miudinha de Aruanda auê
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=TFqmhkRLPrQ) (Ponto de Boiadeiros / Vaqueiros - Pedrinha Miudinha)
+
+```
+05 – Pedrinha miudinha de aruanda auê,
+Lagedo tão grande, tão grande de aruanda auê,
+Pedrinha de um lado, pedrinha do outro,
+Pedrinha lá no mato é,
+Quem pode mais é Deus no Céu,
+Jesus, Maria, José,
+Quem pode mais é Deus no Céu,
+Jesus, Maria, José,
+Só Deus, Só Deus, quem pode mais do que Deus,
+Só Deus, Só Deus, quem pode mais do que Deus,
+Ave Maria< meu Deus!
+```
+
+### Ponto 6: Bandeira branca, traz o meu pai forte (Casa Santa)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=L_QhS4NTw8Q) (BANDEIRA BRANCA - CANTIGA DE CABOCLO)
+
+```
+06 – Bandeira branca, traz o meu pai forte,
+Trago no peito uma estrela brilhante,
+Oh Deus lhe salve essa casa santa,
+Aonde Deus fez a morada,
+Aonde mora o cálice bento,
+E a hóstia consagrada,
+Eu disse camarada,
+Eu disse que nesta aldeia eu voltava um dia.
+```
+
+### Ponto 7: Getruá, getruá, corda de laçar meu boi
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=zDNeLLEVQM4) (Ponto de Boiadeiro - Getruá minha corda e de laçar)
+
+```
+07 – Getruá, getruá, corda de laçar meu boi,
+Getruá, Getruá, corda de meu boi laçar.
+```
+
+### Ponto 8: Quando matar esse boi, o mocotó é meu
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=UJqlkZWZf5o) (Ponto De Boiadeiro    Quando Matar o Boi o Mocoto é Meu ....)
+
+```
+08 – Quando matar esse boi, o mocotó é meu,
+Quando matar esse boi, o mocotó é meu,
+Só para pagar a carreira que esse malvado me deu.
+Só para pagar a carreira que esse malvado me deu.
+```
+
+### Ponto 9: Boi, boi, boi, boiá (Tira o tamanco do pé)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=QYFi8wyfkgU) (Ponto Boiadeiro - Boia Boiadeiro Boia (Legendado) @umbandacaboclotresestrelas)
+
+```
+09 – Boi, boi, boi, boiá,
+Boi, boi, boi, boiá,
+Oi tira o tamanco do pé camarada,
+Não deixa o boi te pegar.
+Oi tira o tamanco do pé camarada,
+Não deixa o boi te pegar.
+```
+
+### Ponto 10: Inhá, inhá, eu não sei ler (Cartilha da Jurema)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=2zndeGk2hxo) (Ponto de Boiadeiro   ogan eu não sei ler)
+
+```
+10 – Inhá, inhá, eu não sei ler,
+Inhá, inhá, eu não sei ler,
+Me empresta essa cartilha que também quero aprender,
+Foi na Jurema que eu aprendi a ler,
+Foi na Jurema que eu aprendi a ler,
+Meu professor foi Cosme e Damião,
+Meu professor foi Cosme e Damião,
+Eu sou um vaqueiro menino,
+Estudei tanto e não aprendi a lição.
+Eu sou um vaqueiro menino,
+Estudei tanto e não aprendi a lição.
+```
+
+### Ponto 11: Boiadeiro não é menino, que se engana com dinheiro
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=QH25xWNcsO4) (Ponto de Boiadeiro menino)
+
+```
+11 – Boiadeiro não é menino, que se engana com dinheiro,
+Boiadeiro não é menino, que se engana com dinheiro,
+Pega seu cavalo e vá buscar seu boiadeiro.
+Pega seu cavalo e vá buscar seu boiadeiro.
+Auê, auê, boiadeiro de ronda já chegou,
+Auê, auê, boiadeiro de ronda já chegou,
+```
+
+### Ponto 12: Nas tranças do seus cabelos boiadeiro (Água de Gravatá)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=ZSTgHWv_hmE) (Ponto de Boiadeiro - Nas tranças dos seus cabelos)
+
+```
+12 – Nas tranças do seus cabelos boiadeiro,
+Eu bebi água de gravatá,
+Eu bebi água de gravatá,
+Eu bebi água de gravatá,
+```
+
+### Ponto 13: Auê chapéu grande, é barra de ventania
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=w0gPP5YN2-U) (Ô CHAPEU GRANDE, BEIRADA DE VENTANIA (2X)
+
+```
+13 – Auê chapéu grande, é barra de ventania,
+Auê chapéu grande é barra de ventania,
+É barra de ventania,
+É barra de todo dia.
+```
+
+### Ponto 14: Eu só vim aqui para lhe ver (Cavalo empacou na ladeira)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=6uuTquh7tAM) (Eu Vim Aqui Pra Te Ver, Saber da Sua Saúde)
+
+```
+14 – Eu só vim aqui para lhe ver,
+E saber da sua saúde,
+Meu cavalo empacou na ladeira,
+Eu queria correr, mas não pude.
+```
+
+### Ponto 15: Sindorerê auê Cauisa (Sangue Real)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=Sl-kBq7ow-M) (Ponto de Caboclo - Sindorerê aue Cauiza)
+
+```
+15 – sindorerê auê Cauisa,
+Sindorerê é sangue real,
+Se ele é filho, eu sou neto da Jurema,
+Sindorerê,auê cauisa,
+Cauisa é o rei, é um orixá,
+Cauisa é o rei, é um orixá.
+```
+
+### Ponto 16: Me chamam de boiadeiro (Eu sou tangedor de gado)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=1JJvRRMjGbk) (Ponto de Umbanda - Boiadeiro - me chamam de boiadeiro não sou boiadeiro não)
+
+```
+16 – Me chamam de boiadeiro,
+Não sou boiadeiro não,
+Me chamam de boiadeiro,
+Não sou boiadeiro não,
+Eu sou tangedor de gado,
+Boiadeiro é meu Patrão.
+Eu sou tangedor de gado,
+Boiadeiro é meu Patrão.
+```
+
+### Ponto 17: Eu fui vaquejar meu gado (No prado de São Simão)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=Q_ecoA-B8cM) (Caboclo Boiadeiro - Bom Vaqueiro - Família Jipanji)
+
+```
+17 – Eu fui vaquejar meu gado,
+No prado de São Simão,
+Eu fui vaquejar meu gado,
+No prado de São Simão,
+São Simão é um preto velho
+Não é boiadeiro não.
+São Simão é um preto velho
+Não é boiadeiro não.
+```
+
+### Ponto 18: Eu ia embora, já não vou mais
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=qAouumw4Iok) (Eu ia embora e não vou mais)
+
+```
+18 – Eu ia embora, já não vou mais,
+Cheguei no caminho, voltei para traz.
+Eu ia embora, já não vou mais,
+Cheguei no caminho, voltei para traz.
+```
+
+### Ponto 19: Boiada boa, boiada de São Vicente
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=MlIbaBvdqRs) (BOIADEIRO - BOIADA BOA)
+
+```
+19 – Boiada boa, boiada de são Vicente,
+Boiada boa, boiada de são Vicente,
+Com tanto boi bom,
+Só me mandaram boi doente.
+Com tanto boi bom,
+Só me mandaram boi doente.
+```
+
+### Ponto 20: Ele vai embora, nessa embalada
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=8C6T9iMrUEE) (Boiadeiro "Tupá me chama" (subida) SUBTITULADO Y CON LETRA)
+
+```
+20 – Ele vai embora, nessa embalada,
+Casa dos outros não é sua morada.
+Ele vai embora, nessa embalada,
+Casa dos outros não é sua morada.
+```
+
+### Ponto 21: Boiadeiro vai embora auê (No balanço que veio)
+**Link:** [▶️ Ouvir no YouTube](https://www.youtube.com/watch?v=D0MMAOB5PZs) (BOIADEIRO VAI EMBORA)
+
+```
+21 – Boiadeiro vai embora auê,
+No balanço que veio auê,
+Se precisar de boiadeiro auê,
+É só mandar chamas auê.
 ```
