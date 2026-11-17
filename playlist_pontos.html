@@ -814,8 +814,6 @@
         </div>
         <div class="filter-tabs">
           <button class="tab-btn active" data-filter="all">Todos (543)</button>
-          <button class="tab-btn" data-filter="patrik">🥁 Patrik na Voz (144)</button>
-          <button class="tab-btn" data-filter="pdu">🎶 Pontos de Umbanda (351)</button>
           <button class="tab-btn" data-filter="defumacao">🌿 Defumação (8)</button>
           <button class="tab-btn" data-filter="abertura">🚪 Abertura (19)</button>
           <button class="tab-btn" data-filter="descarrego">⚡ Descarrego (2)</button>
@@ -839,6 +837,8 @@
           <button class="tab-btn" data-filter="exu">🔱 Exu (92)</button>
           <button class="tab-btn" data-filter="pombagira">🌹 Pombagira (59)</button>
           <button class="tab-btn" data-filter="capoeira">🪘 Capoeira (6)</button>
+          <button class="tab-btn" data-filter="patrik">🥁 Patrik na Voz (144)</button>
+          <button class="tab-btn" data-filter="pdu">🎶 Pontos de Umbanda (351)</button>
         </div>
       </div>
 
@@ -1167,11 +1167,27 @@
       });
     }
 
+    // Atualiza os contadores das abas a partir dos dados carregados
+    function updateTabCounts() {
+      tabs.forEach(tab => {
+        const f = tab.dataset.filter;
+        const n = pontosData.filter(p => {
+          const ch = (p.video && p.video.channel) ? p.video.channel : '';
+          if (f === 'all') return true;
+          if (f === 'patrik') return ch.toLowerCase().includes('patrik');
+          if (f === 'pdu') return ch === 'Pontos de Umbanda';
+          const m = categoryMeta[p.category];
+          return !!m && m.filterKey === f;
+        }).length;
+        tab.textContent = tab.textContent.replace(/\(\d+\)\s*$/, '(' + n + ')');
+      });
+    }
     // Initialize: carrega os dados do JSON único
     fetch('pontos_com_videos.json')
       .then(r => { if (!r.ok) throw new Error(r.status); return r.json(); })
       .then(data => {
         pontosData = data;
+        updateTabCounts();
         filteredIndices = pontosData.map((_, i) => i);
         renderList();
         selectPonto(0, false);
