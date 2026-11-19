@@ -195,6 +195,7 @@ Defuma eu babá
 ```
 
 ### 12. ABERTURA DA GIRA
+- **Toque:** Nagô
 - **Vídeo:** [Péricles - Quem é ela / Pra São Jorge / Minha Fé (DVD NOS ARCOS DA LAPA) | Oficial HD](https://www.youtube.com/watch?v=i8C2NxZSEA0) (*pagodepontocom*)
 
 ```text
@@ -219,9 +220,12 @@ Encontra em deus perdão
 Lá, lá, lá, laia, laia, laia, lá
 Vamos saudar são Jorge
 cavaleiro
+
+(Toque: Nagô)
 ```
 
 ### 13. SAUDAÇÃO À ENGOMA DO PAI JACÓ
+- **Toque:** Congo
 - **Vídeo:** [A FUMAÇA CONHECE O CAMINHO 🌿 | Ponto de Defumação para Limpeza Espiritual e Proteção #umbanda](https://www.youtube.com/watch?v=1q8aq6sI5pM) (*No Silencio Do Conga*)
 
 ```text
@@ -243,9 +247,12 @@ Eu quero ver ogan eu quero
 ver>
 O couro do atabaque
 estremecer>2x
+
+(Toque: Congo)
 ```
 
 ### 14. SAUDAÇÃO À ENGOMA DO PAI SERAFIM
+- **Toque:** Nagô
 - **Vídeo:** [SAUDAÇÃO 1 A CURIMBA](https://www.youtube.com/watch?v=yStu4Yd3kGE) (*Pai Thiago Pugliesi*)
 
 ```text
@@ -268,6 +275,8 @@ Som do atabaque
 impulsiona a vibração>
 O Ogã passa pro couro>
 As batidas do coração>2x
+
+(Toque: Nagô)
 ```
 
 ### 15. ABERTURA DA GIRA
@@ -340,6 +349,7 @@ Almas
 ```
 
 ### 18. SAUDAÇÃO ÀS SETE LINHAS
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de 7 Linhas de Umbanda. "Rei da demanda é Ogum, megê! Quem rola a pedra é Xangô, Kaô..."](https://www.youtube.com/watch?v=lPaqMtp3R5I) (*Ogan Renato*)
 
 ```text
@@ -356,6 +366,8 @@ Tem Oxum na cachoeira
 Iemanjá Deusa do mar
 Iansã pra defender
 Pai Ogum pra demandar
+
+(Toque: Samba Cabula)
 ```
 
 ### 19. DEFUMAÇÃO
@@ -417,6 +429,7 @@ E me feche a rua >7x
 ## 🚪 PONTOS DE ABERTURA DE GIRA (51 pontos)
 
 ### 1. Deu meia-noite (Vir serrar madeira)
+- **Toque:** Nagô
 - **Vídeo:** [Ponto de M. Padilha - Vem serrar Madeira...](https://www.youtube.com/watch?v=XDBq6Q3_v_c) (*Caio Morais*)
 
 ```text
@@ -424,6 +437,8 @@ E me feche a rua >7x
 Mandaram lhe chamar,
 Exu.........., mandaram lhe chamar para vir serrar madeira,
 Mandaram lhe chamar.
+
+(Toque: Nagô)
 ```
 
 ### 2. Salve todos os Exús
@@ -504,15 +519,19 @@ A bandeira de Oxalá
 ```
 
 ### 7. Vocês que são filhos de pemba
+- **Toque:** Ijexá
 - **Vídeo:** [Pra você que é filho de Pemba](https://www.youtube.com/watch?v=Ifoas48-9p8) (*Raízes de Umbanda - Sandro Mattos*)
 
 ```text
 7 - Vocês que são filhos de pemba,
 Vocês que são filhos de fé,
 Bate com a cabeça e peça a Zambi o que quiser.
+
+(Toque: Ijexá)
 ```
 
 ### 8. Eparrey Iansã (Segura o seu arerê)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Iansã - Segura seu Êrere Iansã](https://www.youtube.com/watch?v=6MMfuHxls6I) (*S.S.D.7777*)
 
 ```text
@@ -521,15 +540,20 @@ Iansã, Iansã, segura o seu arerê, Iansã;
 Oh Iansã, Oh Iansã, segura o seu arerê;
 Iansã, Iansã, segura o seu arerê, Iansã;
 Oh Iansã, Oh Iansã, segura o seu arerê.
+
+(Toque: Samba Cabula)
 ```
 
 ### 9. Ogunhê! Patacury Ogum (Coroa de Ouro é o Mariwô)
+- **Toque:** Ijexá
 - **Vídeo:** [Ogum é Mariwô](https://www.youtube.com/watch?v=IuuE0rItWps) (*YouTube*)
 
 ```text
 9 - Ogunhê!!!! Patacury Ogum!!!
 Se a sua coroa de ouro é o Mariwô,
 É um tato, é um tato, é um tato, a coroa de ouro é o Mariwô.
+
+(Toque: Ijexá)
 ```
 
 ### 10. Se a minha mãe é saluba (Nanã Buruquê)
@@ -547,15 +571,19 @@ Olha seus filhos, agora que eu quero ver,
 ```
 
 ### 11. Se encontrar um velho aí (Omolú)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Obaluaê - Se ver um velho pede a bênção](https://www.youtube.com/watch?v=ha1CMHn7_rE) (*YouTube*)
 
 ```text
 11 - Se encontrar um velho aí,
 Dê a bênção a ele, ele se chama Omolu,
 Dê a bênção a ele (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 12. Eu abro a nossa gira
+- **Toque:** Ijexá
 - **Vídeo:** [Ponto de abertura dos trabalhos - Eu abro a nossa gira com Deus](https://www.youtube.com/watch?v=dAiCTlJ0Loc) (*Escola de Curimba Ogum de Lei e Baiano da Mandinga*)
 
 ```text
@@ -567,17 +595,23 @@ Eu abro a nossa gira
 Com Deus e Nossa Senhora
 Eu abro a nossa gira
 Sambolê pemba de angola
+
+(Toque: Ijexá)
 ```
 
 ### 13. Você quer ver a macumba ficar boa
+- **Toque:** Samba de Angola
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=1486s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 13 - Você quer ver a macumba ficar boa
 É só cantar e bater palma que a macumba fica boa (2x)
+
+(Toque: Samba de Angola)
 ```
 
 ### 14. Vamos bater a cabeça em nome de Pai Oxalá
+- **Toque:** Ijexá
 - **Vídeo:** [📿LINDOS PONTOS ANTIGOS DE BATER CABEÇA E FAZER PEDIDOS 🔥 Patrik na Voz](https://www.youtube.com/watch?v=-Ixi8vPQEfg) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -585,6 +619,8 @@ Sambolê pemba de angola
 Em nome de Pai Oxalá (2x)
 Para saudar o nosso terreiro,
 Para saudar o nosso congá (2x)
+
+(Toque: Ijexá)
 ```
 
 ### 15. Ô bate cabeça, filhos de Umbanda
@@ -607,15 +643,19 @@ Vai bater cabeça, iaô, que Oxalá mandou (2x)
 ```
 
 ### 17. Ô lhe corre gira, meu Deus do céu (A gente pede perdão)
+- **Toque:** Congo de Ouro
 - **Vídeo:** [📿LINDOS PONTOS ANTIGOS DE BATER CABEÇA E FAZER PEDIDOS 🔥 Patrik na Voz](https://www.youtube.com/watch?v=-Ixi8vPQEfg&t=384s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 17 - Ô lhe corre gira, meu Deus do céu, ô lhe corre gira (2x)
 A gente pede perdão, as almas pedem misericórdia,
 Os santos pedem a Deus a caridade (2x)
+
+(Toque: Congo de Ouro)
 ```
 
 ### 18. Meus irmãos de outro mundo (Pedido à Virgem da Conceição)
+- **Toque:** Samba Cabula
 - **Vídeo:** [📿LINDOS PONTOS ANTIGOS DE BATER CABEÇA E FAZER PEDIDOS 🔥 Patrik na Voz](https://www.youtube.com/watch?v=-Ixi8vPQEfg&t=545s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -623,9 +663,12 @@ Os santos pedem a Deus a caridade (2x)
 Tenham por mim compaixão,
 Eu vou fazer um pedido
 À Virgem da Conceição (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 19. Babá de Orixá, aê Babá (Palavra Divina)
+- **Toque:** Samba Cabula
 - **Vídeo:** [📿LINDOS PONTOS ANTIGOS DE BATER CABEÇA E FAZER PEDIDOS 🔥 Patrik na Voz](https://www.youtube.com/watch?v=-Ixi8vPQEfg&t=699s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -633,6 +676,8 @@ Eu vou fazer um pedido
 Aê Babalaô, Babalaô é de Orixá (2x)
 Ele é Babá, mantém a palavra,
 Palavra divina, mantém a palavra (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 20. jetuê , jetuá
@@ -885,6 +930,7 @@ eu já vou embora !
 ```
 
 ### 34. Adeus povo bom, Adeus
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Adeus povo bom Adeus / chant Capoeira / avec couplet](https://www.youtube.com/watch?v=DiSQz0Xe6go) (*Professor Gaviao Branco - Arte Capoeira*)
 
 ```text
@@ -893,6 +939,8 @@ Adeus que eu já vou embora
 Pelas ondas do mar eu vim
 Pelas ondas do mar que eu vou embora
 2x
+
+(Toque: Congo de Ouro)
 ```
 
 ### 35. Quando cheguei da bahia
@@ -937,6 +985,7 @@ Que é de nosso Zambi é maior
 ```
 
 ### 38. REZA A CURA
+- **Toque:** Congo
 - **Vídeo:** [Ponto de Defumação - Defuma com as ervas da Jurema](https://www.youtube.com/watch?v=L9te8G-QEbY) (*Pontos de Umbanda*)
 
 ```text
@@ -984,9 +1033,12 @@ tem força
 Tem força para me curar
 Tem força e proteção pra
 dar
+
+(Toque: Congo)
 ```
 
 ### 39. HOJE TEM DENDÊ TEM FAROFA ATARÊ
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Exú - Caldeirão vai ferver](https://www.youtube.com/watch?v=_Lcp4t34omk) (*Cantando pra Umbanda*)
 
 ```text
@@ -1004,6 +1056,8 @@ RODA A SAIA NA CALUNGA FAZ TODO MUNDO DANÇAR
 É O AXÉ DAS POMBOGIRAS QUE PROTEGE ESTE LUGAR
 { HOJE TEM DENDÊ TEM FAROFA ATARÊ
 NA ENCRUZILHADA O CALDEIRÃO VAI FERVER }
+
+(Toque: Samba Cabula)
 ```
 
 ### 40. BENZEDEIRAS E CURANDEIRAS
@@ -1045,6 +1099,7 @@ ancorar>2x
 ```
 
 ### 41. QUE GARGALHADA É ESSA NA PORTA DO CEMITÉRIO É CATACUMBA AVISANDO
+- **Toque:** Samba Cabula
 - **Vídeo:** [Quando passar na porta do cemitério / Cemitério é praça linda / Abre a Roda (Áudio oficial)](https://www.youtube.com/watch?v=okcYYWENHXA) (*Aldeia de Caboclos*)
 
 ```text
@@ -1054,9 +1109,12 @@ PRA NA CALUNGA ENTRAR COM AS FORÇAS DE IANSÃ OS EGUNS CARREGAR
 ELA É GUARDIÃ ELA É QUIMBANDEIRA PROTEGE A CALUNGA
 E NÃO É DE BRINCADEIRA QUERO VER NA CALUNGA VOCÊ ENTRAR
 SEM PELA SETE CATACUMBA PASSAR
+
+(Toque: Samba Cabula)
 ```
 
 ### 42. ABERTURA DA GIRA
+- **Toque:** Congo
 - **Vídeo:** [Com a licença da Umbanda (Folk) - Chamada da Quimbanda - Umbanda](https://www.youtube.com/watch?v=86KA0XHtUJ4) (*Umbanda & Daime*)
 
 ```text
@@ -1076,9 +1134,12 @@ me chamou >2x
 Na minha banda sou maior
 >
 Oxalá ainda é maior >2x
+
+(Toque: Congo)
 ```
 
 ### 43. FIRMEZA DO ORIENTE
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Povo Cigano ( Linha do Oriente) Com Letra](https://www.youtube.com/watch?v=u2jS8xlEpkI) (*Pontos de Umbanda*)
 
 ```text
@@ -1095,9 +1156,12 @@ Vem Mestres de cura,
 sabedoria e clarividência.
 Manipulam os elementos
 Em sua alma, fé e essência
+
+(Toque: Samba Cabula)
 ```
 
 ### 44. ANJO DA GUARDA
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Lá no Céu Uma Luz Brilhou 🕊️ | Ponto de Umbanda para o Anjo da Guarda ✨](https://www.youtube.com/watch?v=PS8-EMGBI70) (*Portal do Axé*)
 
 ```text
@@ -1115,9 +1179,12 @@ Meu anjo da guarda
 Me guarde meu anjo
 Me abençoe meu anjo
 Meu anjo de luz
+
+(Toque: Congo de Ouro)
 ```
 
 ### 45. PISA NA UMBANDA, PISA DEVAGAR
+- **Toque:** Samba Cabula
 - **Vídeo:** [Pisa na Umbanda -  Ponto de Yemanjá](https://www.youtube.com/watch?v=vQVOEZw8J1I) (*AUMOPA - Aldeia de Umbanda Mamãe Oxum e Pai André*)
 
 ```text
@@ -1126,9 +1193,12 @@ AFIRMA O PENSAMENTO QUE É PRA NÃO TOMBAR
 PORQUE MÃE SEREIA RAINHA DO MAR
 ELA PEGA OS PENSAMENTOS EM QUALQUER LUGAR
 JESUS CRISTO TAMBÉM FOI TRAÍDO PRATICANDO A CARIDADE NO MUNDO PERDIDO
+
+(Toque: Samba Cabula)
 ```
 
 ### 46. ESSA CASA TEM QUATRO CANTOS, CADA CANTO TEM UM SANTO
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Preto velho (Nessa casa tem quatro cantos)](https://www.youtube.com/watch?v=YebLk6mXGNY) (*O Som da Minha Fé - Ogã Caio*)
 
 ```text
@@ -1136,9 +1206,12 @@ JESUS CRISTO TAMBÉM FOI TRAÍDO PRATICANDO A CARIDADE NO MUNDO PERDIDO
 ONDE MORA O CÁLICE BENTO E O DIVINO ESPÍRITO SANTO }
 { TUM, TUM, TUM, OLHA LÁ JESUS QUEM É
 EU JURO POR DEUS E AS ALMAS O INIMIGO CAI E EU FICO EM PÉ }
+
+(Toque: Samba Cabula)
 ```
 
 ### 47. BAIXAI, BAIXAI, OH! VIRGEM DA CONCEIÇÃO
+- **Toque:** Samba Cabula
 - **Vídeo:** [Baixai baixai óh virgem da Conceição](https://www.youtube.com/watch?v=FVXvp5lBLiY) (*nilo machado*)
 
 ```text
@@ -1146,9 +1219,12 @@ EU JURO POR DEUS E AS ALMAS O INIMIGO CAI E EU FICO EM PÉ }
 MARIA IMACULADA PRA RETIRAR AS PERTURBAÇÕES
 SE TIVERES MÁGOAS DE ALGUÉM DESDE JÁ SEJA RETIRADA
 LEVANDO PRO MAR ADENTRO, PARA AS ONDAS DO MAR SAGRADO
+
+(Toque: Samba Cabula)
 ```
 
 ### 48. BATE A CABEÇA
+- **Toque:** Samba Cabula
 - **Vídeo:** [Bate cabeça filhos de Umbanda](https://www.youtube.com/watch?v=rwy5hdsSDiA) (*Robert Allas*)
 
 ```text
@@ -1163,9 +1239,12 @@ Pra você que é filho de fé
 Então bata essa cabeça >
 E peça a Deus o que quiser
 >2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 49. DESCARREGA DESCARREGA ESSE FILHO TEM PRECISÃO
+- **Toque:** Samba Cabula
 - **Vídeo:** [DESCARREGA, DESCARREGA - DIVERSOS 09 (Descarrêgo) {com letra na legenda & na descrição}](https://www.youtube.com/watch?v=1UkhgEkGQ5o) (*Hugo d'Ogum*)
 
 ```text
@@ -1173,9 +1252,12 @@ E peça a Deus o que quiser
 MADALENA VEM EM SOCORRO LIMPAR TODA OBCESSÃO
 OGUM JÁ ESTÁ DE RONDA EXU DE PRONTIDÃO
 { LEVA PRO MAR PROFUNDO TODA DOR E AFLIÇÃO }
+
+(Toque: Samba Cabula)
 ```
 
 ### 50. FILHO DO UNIVERSO
+- **Toque:** Samba Cabula
 - **Vídeo:** [Você é filho do universo, você merece estar aqui!!!](https://www.youtube.com/watch?v=pYdjY9Ph9E0) (*Léo Veimrober*)
 
 ```text
@@ -1187,14 +1269,19 @@ Não possa compreender
 A Terra e o Universo vão
 cumprindo
 O seu destino
+
+(Toque: Samba Cabula)
 ```
 
 ### 51. A LUZ DO CRISTO CLAREOU O MUNDO INTEIRO } (3 VEZES
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Abertura de Gira - Quando a Luz do Sol clareou](https://www.youtube.com/watch?v=432O2xKn1Ao) (*Pontos de Gira Umbanda Cantada*)
 
 ```text
 51 - { A LUZ DO CRISTO CLAREOU O MUNDO INTEIRO } (3 VEZES)
 MEU FILHO AFIRMA NO CRISTO PORQUE O CRISTO É VERDADEIRO
+
+(Toque: Samba Cabula)
 ```
 
 ---
@@ -1321,6 +1408,7 @@ ela faz o bem e desfaz o mal (2x)
 ```
 
 ### 8. Ogum bateu na terra, num
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Descarrego na Força dos Orixás](https://www.youtube.com/watch?v=M70uKp6W0-A) (* 7 Tronos Divinos*)
 
 ```text
@@ -1335,6 +1423,8 @@ Na onda de Iemanjá
 Iansã pro barravento de
 Oxalá
 Tudo levou, levou, levou.
+
+(Toque: Samba Cabula)
 ```
 
 ---
@@ -1547,6 +1637,7 @@ Mas era ele meu pai Oxalá
 ```
 
 ### 10. Oxalá, seus filhos lhe
+- **Toque:** Congo de Ouro
 - **Vídeo:** [O Ponto De Umbanda Mais Lindo De Oxalá Para Seus Filhos Sofridos - OXALÁ SABE TUDO! | DJ Sander 🔥](https://www.youtube.com/watch?v=X9Bgij80hJI) (*DJ Sander 77*)
 
 ```text
@@ -1556,6 +1647,8 @@ Vinde a eles ajudar
 Derramai vossos olhos
 piedosos A estes filhos de
 fé
+
+(Toque: Congo de Ouro)
 ```
 
 ---
@@ -1588,6 +1681,7 @@ Pisa na linha de Umbanda que eu quero ver Ogum quebrar mironga
 ```
 
 ### 3. Ogum cavaleiro da lua (Só ele navega no mar)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=1147s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -1595,6 +1689,8 @@ Pisa na linha de Umbanda que eu quero ver Ogum quebrar mironga
 Só ele navega no mar
 Só ele navega no mar (2x)
 Só ele navega no mar, sereia
+
+(Toque: Samba Cabula)
 ```
 
 ### 4. Filho de pemba bebe água no rochedo (Filho de Ogum)
@@ -2460,6 +2556,7 @@ Ele trabalha no mar
 ```
 
 ### 48. Eu sou descendente zulu
+- **Toque:** Congo
 - **Vídeo:** [Ponto de Ogum - Eu sou descendente Zulu](https://www.youtube.com/watch?v=CA5U62s_p2w) (*Nossa Espiritualidade | Pontos de Umbanda*)
 
 ```text
@@ -2504,6 +2601,8 @@ esperança
 Que traz a bonança pro
 meu coração
 Ogum
+
+(Toque: Congo)
 ```
 
 ### 49. Eu pedi um abraço e ela me
@@ -2554,6 +2653,7 @@ Refrão
 ```
 
 ### 50. Eu escrevi um pedido na
+- **Toque:** Samba de Angola
 - **Vídeo:** [Eu escrevi um pedido na areia - Ponto de Iemanjá💙💙](https://www.youtube.com/watch?v=5SSouGpbPcs) (*Ikaro Ogãn OFC*)
 
 ```text
@@ -2582,6 +2682,8 @@ Eu abri meu coração>
 Ela me estendeu a mão>
 E entreguei meu caminhar
 a Iemanjá>2x
+
+(Toque: Samba de Angola)
 ```
 
 ### 51. O seu colar é de concha
@@ -2615,6 +2717,7 @@ no seu colo?>2x
 ```
 
 ### 52. Saravá São Jorge, Ogum
+- **Toque:** Samba de Angola
 - **Vídeo:** [Saudação Ogum de Ronda - São Jorge Umbanda](https://www.youtube.com/watch?v=qzk2n7cDVK0) (*umbandabrazil*)
 
 ```text
@@ -2641,6 +2744,8 @@ nhê-ô
 E seu Matinata, Ogum-nhê-
 ô
 Ô-ô, ô-ô, Ogum-nhê-ô >4x
+
+(Toque: Samba de Angola)
 ```
 
 ### 53. PONTOS DE QUEBRA DE DEMANDA
@@ -2671,6 +2776,7 @@ caminhar>2x
 ```
 
 ### 54. O Sol brilha na cachoeira
+- **Toque:** Congo de Ouro
 - **Vídeo:** [A LUA E O SOL - CANTO PARA OXUM - SANDRO LUIZ LIMA](https://www.youtube.com/watch?v=dj8Zt7Xh7eM) (*Wagner Cardoso Sigim*)
 
 ```text
@@ -2691,9 +2797,12 @@ Iemanjá
 Oraieieu, Adociá, salve a
 sereia mãe Oxum do
 cantuá!
+
+(Toque: Congo de Ouro)
 ```
 
 ### 55. OGUM DO ORIENTE
+- **Toque:** Samba Cabula
 - **Vídeo:** [20-  Estrela D'Alva Clareou - Tomé com o Coral Vozes de  - Hugo De Oxossi - con letra](https://www.youtube.com/watch?v=mfwlangtshA) (*hugo de oxossi*)
 
 ```text
@@ -2712,6 +2821,8 @@ E aqui estão os seus filhos
 da corrente, meu Pai >
 Trabalhando para o bem
 deste Congá >2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 56. A minha guia é dourada
@@ -2832,6 +2943,7 @@ Umbanda
 ```
 
 ### 62. Quando eu não tinha mais
+- **Toque:** Samba Cabula
 - **Vídeo:** [ponto de Exu Tranca Ruas  quando eu não tinha mais nada #exu #trancaruas](https://www.youtube.com/watch?v=jPNYhlBpXOo) (*Angelo Miguel *)
 
 ```text
@@ -2846,6 +2958,8 @@ Clareia sobre mim>
 Eu sou filho de Ogum >
 E não posso viver
 assim>2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 63. OGUM MATINATA
@@ -2867,6 +2981,7 @@ Cruzeiro do sul
 ```
 
 ### 64. OGUM NARUÊ
+- **Toque:** Samba de Angola
 - **Vídeo:** [MAGIA, MAGIA QUE FAZ O MEU CORPO TREMER - OGUM 10 (Ogum Naruê) {com letra na legenda & na descrição}](https://www.youtube.com/watch?v=usjw7oer7i8) (*Hugo d'Ogum*)
 
 ```text
@@ -2881,9 +2996,12 @@ nos socorrer
 É o Senhor Ogum
 Quem vence a magia é
 Ogum Naruê Ogunhê
+
+(Toque: Samba de Angola)
 ```
 
 ### 65. OGUM DE CARIRI
+- **Toque:** Samba de Angola
 - **Vídeo:** [13 - Ogum de Cariri COM LETRA - Umbanda Maria Bonita Volume 1](https://www.youtube.com/watch?v=CvZ-dKAJls4) (*Música de Terreiro*)
 
 ```text
@@ -2897,6 +3015,8 @@ Sete velas acendi
 Rezei e fiz meu pedido
 Ao Ogum de Cariri
 É Ogum de Cariri >4x
+
+(Toque: Samba de Angola)
 ```
 
 ### 66. OGUM IARA
@@ -4079,6 +4199,7 @@ no seu reino saravou.
 ```
 
 ### 13. IANSÃ DE BALE
+- **Toque:** Barravento
 - **Vídeo:** [Ponto de Iansã - Meu pai que barulho é esse](https://www.youtube.com/watch?v=JjOJm7pbPxk) (*Pontos Cantados*)
 
 ```text
@@ -4119,6 +4240,8 @@ Quem traz a força e nos dá
 axé
 Vamos todos cantar juntos
 Para saudar Iansã com fé
+
+(Toque: Barravento)
 ```
 
 ### 14. Ô Iansã Menina
@@ -4318,6 +4441,7 @@ Sua luz é minha lei >2x
 ```
 
 ### 21. Em sete linhas de Umbanda
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Sete Linhas da Umbanda | 15 Minutos de Força e Proteção Espiritual](https://www.youtube.com/watch?v=IekmUaCIZnc) (*Tambor & Reza*)
 
 ```text
@@ -4334,6 +4458,8 @@ Oxalá meu pai, Oxalá meu
 pai
 A sua força é maior
 Filho de Umbanda não cai
+
+(Toque: Congo de Ouro)
 ```
 
 ### 22. Divino é viver no céu
@@ -4424,6 +4550,7 @@ Não é Oxóssi, não é Xangô
 ```
 
 ### 28. Mas olha o vento
+- **Toque:** Samba Cabula
 - **Vídeo:** [Umbanda - Ponto de Iansã - olha o vento](https://www.youtube.com/watch?v=CS3VuIrWnck) (*Terreiro Zé Pelintra e Marabô - TZPM*)
 
 ```text
@@ -4434,6 +4561,8 @@ Ventou, ai que ventania
 Iansã é a virgem mãe >
 Santa Bárbara é a nossa
 guia >2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 29. Eram duas ventarolas
@@ -4447,6 +4576,7 @@ A outra era Iemanjá, odociá
 ```
 
 ### 30. Oiá tete oiá tete Oiá  2x
+- **Toque:** Congo
 - **Vídeo:** [Oya te te - Ponto de Iansã Iansã](https://www.youtube.com/watch?v=buLr-_V5w40) (*Tenda Tavep*)
 
 ```text
@@ -4455,9 +4585,12 @@ O que é que eu dou pra
 Iansã
 O que é que eu dou pra
 minha Oiá
+
+(Toque: Congo)
 ```
 
 ### 31. Deim, deim, mas elas vão
+- **Toque:** Barra
 - **Vídeo:** [Ponto de Iansã - Leque que venta//Ô Iansã olha Deim](https://www.youtube.com/watch?v=Zwkl6yKUqO0) (*Ikaro Ogãn OFC*)
 
 ```text
@@ -4465,9 +4598,12 @@ minha Oiá
 beirando mar >2x
 Iansã já vai embora
 E elas vão beirando mar
+
+(Toque: Barra)
 ```
 
 ### 32. Oh, Iansã menina
+- **Toque:** Samba Cabula
 - **Vídeo:** [Yansã - Menina](https://www.youtube.com/watch?v=R8ofsRUqmnQ) (*Mensageiros Da Luz Estudos De Umbanda (Estudo)*)
 
 ```text
@@ -4475,9 +4611,12 @@ E elas vão beirando mar
 É do cabelo longos
 Sua espada é de prata
 Sua coroa é de ouro
+
+(Toque: Samba Cabula)
 ```
 
 ### 33. O vento que te trouxe
+- **Toque:** Samba Cabula
 - **Vídeo:** [Yansã — Vento Que Leva, Vento Que Guia](https://www.youtube.com/watch?v=tNzCfXPN7Jg) (*Sagrada Umbanda*)
 
 ```text
@@ -4485,6 +4624,8 @@ Sua coroa é de ouro
 É que te leva para o mar
 Auê, auê, auê
 Mamãe Iansã
+
+(Toque: Samba Cabula)
 ```
 
 ---
@@ -4897,6 +5038,7 @@ aieiê Oxum aieiê
 ```
 
 ### 19. Nuvem de poeira d’água
+- **Toque:** Ijexá
 - **Vídeo:** [Oxum - Nuvem de Poeira D'água](https://www.youtube.com/watch?v=57HxdXlxAtc) (*Tungra Tenda de Umbanda Nossa Sra das Graças*)
 
 ```text
@@ -4917,6 +5059,8 @@ e calor Dona do ouro
 Deusa poderosa
 Pedra preciosa cheia de
 esplendor, ora aieiêo
+
+(Toque: Ijexá)
 ```
 
 ### 20. Nhem-nhem-nhem
@@ -4942,6 +5086,7 @@ Fé-fé xorodô
 ```
 
 ### 21. PONTOS INDIVIDUAIS OXUM MENINA
+- **Toque:** Ijexá
 - **Vídeo:** [Ponto de Oxum - Brilhou uma estrela matutina, rolaram pedras de xango - David da Curimba](https://www.youtube.com/watch?v=XwcdBSN4Ecw) (*David da Curimba - Pontos Cantados*)
 
 ```text
@@ -4959,6 +5104,8 @@ Oxum é mãe maior
 Saravá
 Ô, Ô
 Oxum aiêiêô>4x
+
+(Toque: Ijexá)
 ```
 
 ### 22. A sua luz é luz dos
@@ -4998,6 +5145,7 @@ aiêiê>2x
 ```
 
 ### 24. Mãe d’água sereia odoiá
+- **Toque:** Samba Cabula
 - **Vídeo:** [MÃES DAS ÁGUAS - Sereia venha nos valer](https://www.youtube.com/watch?v=YXdaM-3EAy8) (*Fran Oliveira*)
 
 ```text
@@ -5010,9 +5158,12 @@ Onde fica o outro lado >
 Ora aieieô >
 Onde é o lado de lá >
 Ora aieieô> 2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 25. O sobrado de mamãe é de
+- **Toque:** Samba Cabula
 - **Vídeo:** [Música que Gosto - Sobrado de Mamãe - M. Marrom](https://www.youtube.com/watch?v=fNrYmerQu94) (*Capoeira, História & Musicalidade - S.A*)
 
 ```text
@@ -5023,9 +5174,12 @@ cima da areia
 Têm ouro, tem prata>
 Tem diamante que nos
 alumêia>2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 26. Cinda mamãe o cindé
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Oxum - Cinda Ôh Cindé!](https://www.youtube.com/watch?v=2p90kDFZpqM) (*Gira da Cabocla Jaciara*)
 
 ```text
@@ -5035,9 +5189,12 @@ coral>
 Cinda o mamãe o cindé>
 Olha cinda como cinda
 é>2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 27. Mamãe Oxum
+- **Toque:** Samba Cabula
 - **Vídeo:** [Oxum 07 Pontos (beira do rio,flor de maio, cachoeira,Minha Senhora, mãe de Aruanda)](https://www.youtube.com/watch?v=PZgm4Hitx-Q) (*Templo Escola Filhos do Mar*)
 
 ```text
@@ -5045,6 +5202,8 @@ Olha cinda como cinda
 Salve a banda da senhora
 Mamãe Oxum
 Aieiê já vai embora
+
+(Toque: Samba Cabula)
 ```
 
 ---
@@ -5052,6 +5211,7 @@ Aieiê já vai embora
 ## 🌊 PONTOS DE IEMANJÁ (26 pontos)
 
 ### 1. No fundo do mar tem pedra (Onde mora Iemanjá)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=401s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -5059,9 +5219,12 @@ Aieiê já vai embora
 Debaixo da pedra tem areia
 Onde mora Iemanjá, minha mãe, minha sereia
 Tem areia, tem areia, tem areia, no fundo do mar tem areia
+
+(Toque: Samba Cabula)
 ```
 
 ### 2. Oh é mamãe quem cuida de mim (Sereia dança na areia)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=171s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -5071,9 +5234,12 @@ Oh é mamãe que dança na areia, que dança
 E mora no fundo do mar
 Sereia, sereia, dança na areia, mora no fundo do mar
 (Autoral Mestre Marisco)
+
+(Toque: Samba Cabula)
 ```
 
 ### 3. Eu estava na beira da praia vendo o balanço do mar (Iemanjá)
+- **Toque:** Ijexá
 - **Vídeo:** [EU ESTAVA NA BEIRA DA PRAIA VENDO O BALANÇO DO MAR - PONTOS DE IEMANJÁ - Ogam Patrik de Aruanda](https://www.youtube.com/watch?v=vpzsggd5lkg) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -5081,6 +5247,8 @@ Sereia, sereia, dança na areia, mora no fundo do mar
 Vendo o balanço do mar (2x)
 Vi o retrato de Iemanjá na areia,
 Como é lindo o canto da Mamãe Sereia
+
+(Toque: Ijexá)
 ```
 
 ### 4. É no mar onde mora Iemanjá
@@ -5377,6 +5545,7 @@ IEMANJÁ
 ```
 
 ### 20. PENA BRANCA
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Caboclo Pena Branca - Que lindo brado eu ouvi naquela aldeia](https://www.youtube.com/watch?v=1hGvTRSV8QE) (*Matheus Castro*)
 
 ```text
@@ -5396,9 +5565,12 @@ Ele é caboclo, ele é
 guerreiro
 Ele é Pena Branca
 Ele é o rei do panaiá
+
+(Toque: Samba Cabula)
 ```
 
 ### 21. MATA VIRGEM
+- **Toque:** Ijexá
 - **Vídeo:** [PONTO DE CABOCLO MATA VIRGEM   SEU MATA VIRGEM VEM CHEGANDO AGORA](https://www.youtube.com/watch?v=XB2cFzx62bc) (*VEM NA FÉ*)
 
 ```text
@@ -5415,9 +5587,12 @@ Ele vem do seu Juremá
 Seu Mata Virgem chegou
 agora>
 E vai a todos abençoar>2x
+
+(Toque: Ijexá)
 ```
 
 ### 22. MATA VIRGEM
+- **Toque:** Samba Cabula
 - **Vídeo:** [Caboclo da Mata Virgem](https://www.youtube.com/watch?v=gOwjqu8_pbg) (*Coro Federação de Umbanda Nossa Senhora Aparecida - Topic*)
 
 ```text
@@ -5432,9 +5607,12 @@ Okê, caboclo, quero ver
 girar>
 Quero ver caboclo de
 Umbanda arriar>2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 23. FOLHA VERDE
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Caboclo Folha Verde - Como É Tão Lindo Assistir Festa na Mata](https://www.youtube.com/watch?v=-RFLznR2ee8) (*Nossa Espiritualidade | Pontos de Umbanda*)
 
 ```text
@@ -5446,9 +5624,12 @@ Seu Folha Verde com seu
 capacete
 Na Aruanda, oi pisa na
 Umbanda ê ê
+
+(Toque: Samba Cabula)
 ```
 
 ### 24. PONTOS INDIVIDUAIS FLECHA DE OURO
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Caboclo Flecha Dourada - Caboclo vai, caboclo vem](https://www.youtube.com/watch?v=o08tWDO8l8k) (*Nossa Espiritualidade | Pontos de Umbanda*)
 
 ```text
@@ -5460,9 +5641,12 @@ Mas ele é o caboclo da
 mata >
 É Flecha de Ouro que vem
 >2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 25. PENA BRANCA
+- **Toque:** Samba Cabula
 - **Vídeo:** [Saravá Seu Pena Branca](https://www.youtube.com/watch?v=-ZxmwWBOrHQ) (*Sete Flechas*)
 
 ```text
@@ -5472,9 +5656,12 @@ Sua banda mandou chamar
 Trabalha Seu Pena Branca
 Pra todo o mal de seus
 filhos levar
+
+(Toque: Samba Cabula)
 ```
 
 ### 26. A onda do mar rolou
+- **Toque:** Ijexá
 - **Vídeo:** [A onda do mar rolou - versão 02](https://www.youtube.com/watch?v=8u90J1IzZ7M) (*Templo Escola Filhos do Mar*)
 
 ```text
@@ -5482,11 +5669,13 @@ filhos levar
 A onda do mar rolou>2x
 Os filhos de Iemanjá>
 A onda do mar levou>2x
+
+(Toque: Ijexá)
 ```
 
 ---
 
-## 💜 PONTOS DE NANÃ (13 pontos)
+## 💜 PONTOS DE NANÃ (14 pontos)
 
 ### 1. São flores Nanã, são flores
 - **Toque:** Congo
@@ -5669,6 +5858,7 @@ Na aruanda auá auá
 ```
 
 ### 10. NANÃ BURUQUE
+- **Toque:** Samba Cabula
 - **Vídeo:** [NANÃ - ÁGUAS SAGRADAS (ME LAVA NANÃ, ME LAVA) - Leo Batuke](https://www.youtube.com/watch?v=dLKRyS8uNO8) (*Leo Batuke*)
 
 ```text
@@ -5696,6 +5886,8 @@ forças pra vencer
 O Nanã Buruquê
 Quero em sua águas uma
 benção receber
+
+(Toque: Samba Cabula)
 ```
 
 ### 11. NANÃ BURUQUE
@@ -5734,6 +5926,54 @@ Quem vem na onda é Nanã
 É Nana, é Oxum , é a
 Rainha do Mar >
 Êa >2x
+```
+
+### 14. Sou de Nanã Ewá (Cordeiro de Nanã)
+- **Toque:** Ijexá
+- **Vídeo:** [Sou de Nanã Ewá](https://www.youtube.com/watch?v=l5A2VCcjql4) (*Vitorinha de Oxum*)
+
+```text
+14 - [refrão]
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+[/refrão]
+
+Fui chamado de cordeiro, mas não sou cordeiro não
+Preferi ficar calado que falar e levar não
+O meu silêncio é uma singela oração
+A minha santa de fé
+
+Meu cantar (meu cantar)
+Vibram as forças que sustentam o meu viver (meu viver)
+Meu cantar (meu cantar)
+É um apelo que eu faço a Nanã ê
+
+[refrão]
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+[/refrão]
+
+O que peço no momento é silêncio e atenção
+Quero contar o sofrimento que eu passei sem razão
+O meu lamento se criou na escravidão
+Que forçado passei
+
+Eu chorei (eu chorei)
+Sofri as duras dores da humilhação (humilhação)
+Mas ganhei, pois eu trazia Nanã ê no coração
+
+[refrão]
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+Sou de Nanã, euá, euá, euá, ê
+[/refrão]
+
+(Toque: Ijexá)
 ```
 
 ---
@@ -6094,6 +6334,7 @@ Palha seca no Ilê
 ```
 
 ### 18. PONTO DO SEU OMOLU
+- **Toque:** Samba Cabula
 - **Vídeo:** [PONTO DE OMULU   Ele é velho é muito velho](https://www.youtube.com/watch?v=F8hqSR5e0cE) (*Canal 01*)
 
 ```text
@@ -6124,9 +6365,12 @@ Ele é um velho, é muito
 velho>
 Ele carrega as palhas na
 mão>2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 19. Um passarinho cantava
+- **Toque:** Ijexá
 - **Vídeo:** [O Passarinho Cantava - Ponto de Omulu](https://www.youtube.com/watch?v=GQOcsPphHEI) (*Ogan Saboya Mirim*)
 
 ```text
@@ -6135,6 +6379,8 @@ E de repente ele voou, voou
 Mas era um velho
 caminhando pela estrada >
 Seu Omolu, atotô >2x
+
+(Toque: Ijexá)
 ```
 
 ### 20. PONTO DO SEU OMOLU
@@ -6152,6 +6398,7 @@ Obaluaê Atotô > 4x
 ## 🪶 PONTOS DE CABOCLOS (325 pontos)
 
 ### 1. Eu vou chamar os meus caboclos na aldeia pra trabalhar
+- **Toque:** Samba Cabula
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=137s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6159,9 +6406,12 @@ Obaluaê Atotô > 4x
 Janaína canta na areia e a sereia no fundo do mar,
 Macumba êêêê,
 Macumba êêêá (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 2. Chamei minha Cabocla de Pena (Força da Jurema)
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Chamei minha cabocla de pena - Saravá cabocla Jurema #umbanda](https://www.youtube.com/watch?v=8z7I-07JdUk) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6169,23 +6419,31 @@ Macumba êêêá (2x)
 Chamei lá das matas pra ela trabalhar
 Pra ver a força que a Jurema tem
 Pra ver a força que a Jurema dá
+
+(Toque: Congo de Ouro)
 ```
 
 ### 3. Ô caboclo tô chamando, que demora é essa
+- **Toque:** Samba Cabula
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=844s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 3 - Caboclo tô chamando, que demora é essa?
 Tava lá no mato atirando flecha (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 4. Aê terra boa, terra de São Benedito
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de caboclo para giras e festas - 10 pontos de arrepiar | 2024](https://www.youtube.com/watch?v=doc0ge_ThGo&t=429s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 4 - Aê terra boa, terra de São Benedito,
 Terra onde eu sambei nela,
 Chamei os caboclos comigo
+
+(Toque: Samba Cabula)
 ```
 
 ### 5. Okê Caboclo, chama seu Cobra Coral
@@ -6257,6 +6515,7 @@ Okê, Okê, Okê, meu pai Oxossi é São Sebastião.
 ```
 
 ### 9. Eu fui ao mar levar presente a mamãe sereia
+- **Toque:** Samba Cabula
 - **Vídeo:** [Iemanjá "Pedido na areia" SUBTITULADO Y CON LETRA](https://www.youtube.com/watch?v=a4AWJAgDSoo) (*Fanhy Omio*)
 
 ```text
@@ -6269,6 +6528,8 @@ Tivessem paz e harmonia.
 Ele implorava, ele pedia,
 Para que todos seus filhos,
 Tivessem paz e harmonia.
+
+(Toque: Samba Cabula)
 ```
 
 ### 10. Sucuris, jibóia (Cobra Coral)
@@ -6319,6 +6580,7 @@ Okê Caboclo!
 ```
 
 ### 13. Rompe Mato quando brada
+- **Toque:** Nagô
 - **Vídeo:** [Ponto de caboclo rompe mato](https://www.youtube.com/watch?v=zPgBXoQ35t0) (*pontos de umbanda*)
 
 ```text
@@ -6332,6 +6594,8 @@ Na aldeia.
 Na aldeia, na aldeia,
 Na aldeia de seu Rompe mato,
 Na aldeia.
+
+(Toque: Nagô)
 ```
 
 ### 14. Vestimenta de caboclo é samambaia
@@ -6387,6 +6651,7 @@ Foi no romper da madrugada, caçador.
 ```
 
 ### 18. Caça, caça no Canindé (Mutalambô)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Xire de Oxóssi/Caça caça no caindé/na aruanda ê orêrê](https://www.youtube.com/watch?v=rf_pSwFqhzI) (*Josue Lopes *)
 
 ```text
@@ -6394,9 +6659,12 @@ Foi no romper da madrugada, caçador.
 Ula ê, ula ô,
 Caça, caça no Canindé,
 Oxóssi é Mutalambô.
+
+(Toque: Samba Cabula)
 ```
 
 ### 19. Tambor, ê tambor, ô vai buscar
+- **Toque:** Samba Cabula
 - **Vídeo:** [Tambor, tambor - Ponto de Saudação ao Atabaque](https://www.youtube.com/watch?v=_dhIDkEh6OQ) (*YouTube*)
 
 ```text
@@ -6407,9 +6675,12 @@ Quem mora longe tambor,
 Lá nas matas da Jurema,
 Onde Oxossi, já bradou,
 Oh vai buscar quem mora longe tambor.
+
+(Toque: Samba Cabula)
 ```
 
 ### 20. Ele é caboclo, ele é flecheiro
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) - Ele é caboclo ele é flecheiro | Patrik na Voz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=814s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6419,9 +6690,12 @@ Se ele é caboclo, ele é flecheiro (Tumba na calunga)
 É laçador de feiticeiro (Tumba na calunga)
 Se o índio já chegou (Tumba na calunga)
 E seu congá já saravou (Tumba na calunga)
+
+(Toque: Samba Cabula)
 ```
 
 ### 21. Seu Mata virgem quando vem (Cobra Coral)
+- **Toque:** Nagô
 - **Vídeo:** [PONTO DO CABOCLO COBRA CORAL](https://www.youtube.com/watch?v=hYq4kfUz_EM) (*R. PINHEIRO*)
 
 ```text
@@ -6431,9 +6705,12 @@ Seu Mata virgem quando vem,
 Na aldeia, ele traz na cinta uma cobra coral,
 Ô é uma cobra coral,
 Ô é uma cobra coral,
+
+(Toque: Nagô)
 ```
 
 ### 22. Caboclo é sambangolê
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Jurema de Caboclos e Boiadeiros - Sambangolê](https://www.youtube.com/watch?v=UI08Mf1Madg) (*Lunda Kioko*)
 
 ```text
@@ -6442,15 +6719,20 @@ Caboclo é sambangolá,
 Caboclo é sambangolê,
 Caboclo é sambangolá,
 Auê, auê, auê, caboclo é sambangolá.
+
+(Toque: Congo de Ouro)
 ```
 
 ### 23. Caboclo, caboclo, ele é filho da Guiné
+- **Toque:** Samba Cabula
 - **Vídeo:** [Lindos pontos de caboclos - Caboclo ele é filho da Guiné | Patrik na Voz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=354s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 23 - Caboclo, caboclo, ele é filho da Guiné (2x)
 Mas se seu pai é rei,
 Príncipe ele é (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 24. Ele é caboclo da banda de lá
@@ -6472,12 +6754,15 @@ Mas quando vê a cobra corre para matar.
 ```
 
 ### 25. Olha a cobra coral caboclo (Arranca Toco)
+- **Toque:** Alujá
 - **Vídeo:** [Ponto de caboclo - cobra coral filho da jurema neto de arranca toco](https://www.youtube.com/watch?v=jLAq8wmbKU0) (*Tenda Espírita S. Jorge Pai Joaquim D'Angola *)
 
 ```text
 25 - Olha a cobra coral, caboclo (2x)
 Ele é filho da Jurema,
 Neto de Arranca Toco, caboclo.
+
+(Toque: Alujá)
 ```
 
 ### 26. Vermelho é a cor do sangue do meu pai (Mata Virgem)
@@ -6533,6 +6818,7 @@ Que Jurema mandou dar.
 ```
 
 ### 30. Oh índio, índio Aymoré (Mata Virgem)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Caboclo Aimoré - Ogã Marcelo](https://www.youtube.com/watch?v=p7uSkXoy-Kk) (*Ogã Marcelo*)
 
 ```text
@@ -6541,9 +6827,12 @@ oh índio, índio aymoré,
 seu mata virgem é um índio,
 índio aymoré
 oh índio, oh índio, índio aymoré,
+
+(Toque: Samba Cabula)
 ```
 
 ### 31. Tamandaré, Tamandaré odé
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Cabocla Tamandaré - Tamandaré, Guerreira](https://www.youtube.com/watch?v=Ac9hSXfLhps) (*Nossa Espiritualidade | Pontos de Umbanda*)
 
 ```text
@@ -6551,44 +6840,59 @@ oh índio, oh índio, índio aymoré,
 Tamandaré, Tamandaré Odé,
 Tamandaré é feiticeiro,
 Tamandaré Odé.
+
+(Toque: Samba Cabula)
 ```
 
 ### 32. Eu dei um tiro na sapucaia
+- **Toque:** Samba Cabula
 - **Vídeo:** [93 - Eu dei um tiro na Sapucaia - Caboclo](https://www.youtube.com/watch?v=bBBsZBc-674) (*Linha Das Águas*)
 
 ```text
 32 - Eu dei um tiro na sapucaia,
 Não há caboclo valente
 Que não caia (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 33. Seu Pena Verde chegou com a caça na ponta da flecha
+- **Toque:** Samba Cabula
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 33 - Seu Pena Verde chegou com a caça na ponta da flecha
 Ele é caçador, guerreiro bravo caçador
 Na fé do Pai Maior, Seu Pena Verde por aqui chegou
+
+(Toque: Samba Cabula)
 ```
 
 ### 34. Caboclinho da Mata Virgem, manda força aqui pra nós
+- **Toque:** Samba Cabula
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=84s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 34 - Caboclinho da Mata Virgem, manda força aqui pra nós (2x)
 Se ele é caboclo bom, êêêê,
 Manda força aqui pra nós (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 35. A Jurema mandou perguntar se na mata não tem caboclo
+- **Toque:** Samba Cabula
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=279s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 35 - A Jurema mandou perguntar se na mata não tem caboclo
 Sai, sai, sai Seu Caboclo, saia de cima do toco
+
+(Toque: Samba Cabula)
 ```
 
 ### 36. Seu Cobra Coral plantou um pé de aroeira
+- **Toque:** Congo
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=420s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6596,9 +6900,12 @@ Sai, sai, sai Seu Caboclo, saia de cima do toco
 Um pé de aroeira, um pé de aroeira,
 Pra firmar seu ponto no clarão da lua cheia,
 Um pé de aroeira, um pé de aroeira.
+
+(Toque: Congo)
 ```
 
 ### 37. Entrei na mata pra ver Sultão (Sultão das Matas)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de caboclo para giras e festas - 10 pontos de arrepiar | 2024](https://www.youtube.com/watch?v=doc0ge_ThGo&t=183s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6606,9 +6913,12 @@ Um pé de aroeira, um pé de aroeira.
 Me deparei com o caboclo valentão
 Sultão das Matas êêêêêê
 Seu Juremeiro êêêêááá
+
+(Toque: Samba Cabula)
 ```
 
 ### 38. Lá na mata kiô kiô (Oxóssi é o Rei das Matas)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=620s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6618,9 +6928,12 @@ Lá na mata kiô kiô
 Oxóssi é o rei das matas
 É vencedor de demanda
 É orixá consagrado e coroado na nossa Umbanda
+
+(Toque: Samba Cabula)
 ```
 
 ### 39. Eu fui pra mata caçar (Senhor Oxóssi foi quem me ajudou)
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=686s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6628,17 +6941,23 @@ Oxóssi é o rei das matas
 A caça me enganou
 Fiquei perdido nas matas
 Senhor Oxóssi foi quem me ajudou
+
+(Toque: Congo de Ouro)
 ```
 
 ### 40. O senhor caçador não atire em mim
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de caboclo para giras e festas - 10 pontos de arrepiar | 2024](https://www.youtube.com/watch?v=doc0ge_ThGo&t=148s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 40 - O senhor caçador não atire em mim,
 Não atire em mim, não atire no homem (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 41. Meu tambor bateu na aldeia (Reino do Sete Flechas)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de caboclo para giras e festas - 10 pontos de arrepiar | 2024](https://www.youtube.com/watch?v=doc0ge_ThGo) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6647,9 +6966,12 @@ Bateu nas ondas do mar
 Eu venho atirando a minha flecha
 Do reino do Sete Flechas
 Sou índio, sou Jurema
+
+(Toque: Samba Cabula)
 ```
 
 ### 42. Seu Sete Flechas lá na mata ele é o rei
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de caboclo para giras e festas - 10 pontos de arrepiar | 2024](https://www.youtube.com/watch?v=doc0ge_ThGo&t=96s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6657,9 +6979,12 @@ Sou índio, sou Jurema
 É o rei lá na mata, ele é o Tatá (2x)
 Lá na mata sua flecha zoa (2x)
 Zoa quando sobe, quando desce ela mata (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 43. Sultão das Matas coroou Araribóia na floresta
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Os melhores pontos de caboclo para giras e festas - 10 pontos de arrepiar | 2024](https://www.youtube.com/watch?v=doc0ge_ThGo&t=259s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6667,9 +6992,12 @@ Zoa quando sobe, quando desce ela mata (2x)
 Araribóia na floresta,
 Ele é caboclo, ele é guerreiro (flecheiro)
 E toda mata está em festa (2x)
+
+(Toque: Congo de Ouro)
 ```
 
 ### 44. Meu caboclo que mora na beira da praia (Caboclo Beira-Mar)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de caboclo para giras e festas - 10 pontos de arrepiar | 2024](https://www.youtube.com/watch?v=doc0ge_ThGo&t=307s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6677,6 +7005,8 @@ E toda mata está em festa (2x)
 Se banha na água salgada pra purificar
 É o Caboclo Beira-Mar
 É o Caboclo a Beira-Mar
+
+(Toque: Samba Cabula)
 ```
 
 ### 45. Quanto tempo que eu não bambeio (Caboclo Samambaia)
@@ -6693,32 +7023,42 @@ Sou Caboclo Samambaia, vim aqui pra trabalhar (2x)
 ```
 
 ### 46. Eu flechei lá na mata (Onça perigosa)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de caboclo para giras e festas - 10 pontos de arrepiar | 2024](https://www.youtube.com/watch?v=doc0ge_ThGo&t=596s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 46 - Eu flechei, flechei lá na mata, flechei
 Uma onça perigosa lá na mata flechei
+
+(Toque: Samba Cabula)
 ```
 
 ### 47. Debaixo da samambaia, perto do pé de ipê
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=30s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 47 - Debaixo da samambaia, perto do pé de ipê
 Eu vi o caboclo atirando, mas ele atirava sem ninguém ver
 Voou, voou, voou, a sua flecha voou
+
+(Toque: Samba Cabula)
 ```
 
 ### 48. Eu sou forte como o vento (Rouxinol)
+- **Toque:** Congo
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=114s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 48 - Eu sou forte como o vento
 Sou pesado como as águas
 Sou eu Rouxinol, ando pela madrugada
+
+(Toque: Congo)
 ```
 
 ### 49. Tava no mato caçando meu passarinho
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=552s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6726,15 +7066,20 @@ Sou eu Rouxinol, ando pela madrugada
 Tava no mato, tava bem escondidinho
 Tava no mato, tava no mato caçando meu passarinho
 Vem ver caboclo, vem caboclo, a sua aldeia não bambeia
+
+(Toque: Samba Cabula)
 ```
 
 ### 50. Mata, ô mata medonha
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=608s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 50 - Mata, ôôô mata medonha,
 Mata, ôôô mata medonha,
 Mata medonha, meu Deus, eu vou passar nela (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 51. Estrela d'Alva é sua guia (Caboclo Ubirajara)
@@ -6751,6 +7096,7 @@ Lá na grota funda, lá no fim do mundo
 ```
 
 ### 52. Caboclo índio eu sou peregrino (Seu Avaré)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=724s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6758,9 +7104,12 @@ Lá na grota funda, lá no fim do mundo
 Seu Avaré, eu sou filho dele,
 Que haja força na terra e no mar,
 Prepara o terreiro que eu quero trabalhar (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 53. Zum zum zum, não bota fogo na mata
+- **Toque:** Samba Cabula
 - **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=1755s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6768,9 +7117,12 @@ Prepara o terreiro que eu quero trabalhar (2x)
 Não bota fogo na mata, que na mata tem morador,
 Risca o ponto, firma o ponto, Seu Folha Seca chegou!
 Ôôôô, zuuuu!
+
+(Toque: Samba Cabula)
 ```
 
 ### 54. Eu convidei a Cabocla Jurema
+- **Toque:** Samba Cabula
 - **Vídeo:** [EU CONVIDEI A CABOCLA JUREMA - Ogan Patrik de Aruanda | Saravá cabocla Jurema](https://www.youtube.com/watch?v=EEwrNPyZm8w) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -6778,6 +7130,8 @@ Risca o ponto, firma o ponto, Seu Folha Seca chegou!
 Pra comigo ir passear (lá no Juremá),
 Mas ela veio colhendo lírio,
 Só para ver a volta que o mundo dá (2x)
+
+(Toque: Samba Cabula)
 ```
 
 ### 55. No alto da serra
@@ -7364,6 +7718,7 @@ Seu capacete é feito [2x]
 ```
 
 ### 81. Ho! Que lindo laranjal (Subida)
+- **Toque:** Congo
 - **Vídeo:** [Lindo Arraial](https://www.youtube.com/watch?v=yYJNk5FiDfs) (*Morro da Crioula - Topic*)
 
 ```text
@@ -7375,9 +7730,12 @@ Até os passarinhos choram,
 Seu Oxossi o rei das matas se despede e vai embora.
 Até os passarinhos choram,
 Seu Oxossi o rei das matas se despede e vai embora.
+
+(Toque: Congo)
 ```
 
 ### 82. Os caboclos vão embora (Cidade da Jurema) (Subida)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Umbanda Subida de Caboclo - Amor e Caridade ( Cidade da Jurema )](https://www.youtube.com/watch?v=vhahDSgzG1s) (*UMBANDA FÉ*)
 
 ```text
@@ -7389,9 +7747,12 @@ Mas eles vão ser coroados,
 Na cidade da Jurema,
 Com a coroa de Arerê,
 Na cidade da Jurema.
+
+(Toque: Samba Cabula)
 ```
 
 ### 83. Olha os caboclos passou por aqui (Aruanda de Nossa Senhora da Glória) (Subida)
+- **Toque:** Congo
 - **Vídeo:** [Esses pontos de subida dos caboclos é de emocionar o coração 🌿💚🌱🏹](https://www.youtube.com/watch?v=lLQFaRelfZ8) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -7399,18 +7760,24 @@ Na cidade da Jurema.
 E sua bênção aqui deixou,
 Eles vão embora, meu Deus, eles vão embora,
 Vão pra Aruanda com Nossa Senhora da Glória (2x)
+
+(Toque: Congo)
 ```
 
 ### 84. Vai caboclo, vai pra sua aldeia (Subida)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Esses pontos de subida dos caboclos é de emocionar o coração 🌿💚🌱🏹](https://www.youtube.com/watch?v=lLQFaRelfZ8&t=89s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 84 - Vai caboclo, vai pra sua aldeia, caboclo vai
 E os passarinhos vão cantando alegre
 Vão pra mata virgem para ver seus pais
+
+(Toque: Samba Cabula)
 ```
 
 ### 85. Olha os caboclos vão embora (Quando eles voltar) (Subida)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Esses pontos de subida dos caboclos é de emocionar o coração 🌿💚🌱🏹](https://www.youtube.com/watch?v=lLQFaRelfZ8&t=188s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -7419,9 +7786,12 @@ Vão pra sua cidade lá no Juremá
 A bênção pra seus filhos deixa, embora com saudades eles vão ao lar
 Adeus, adeus, até o dia quando eles voltar
 Adeus, adeus, até o dia quando volta os Orixás
+
+(Toque: Samba Cabula)
 ```
 
 ### 86. O vento ventou lá nas matas (Folhas caíram no chão) (Subida)
+- **Toque:** Congo
 - **Vídeo:** [Esses pontos de subida dos caboclos é de emocionar o coração 🌿💚🌱🏹](https://www.youtube.com/watch?v=lLQFaRelfZ8&t=341s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -7429,9 +7799,12 @@ Adeus, adeus, até o dia quando volta os Orixás
 As folhas caíram no chão (2x)
 O vento ventou, as folhas caíram,
 Caboclo vai pegar folha do chão (2x)
+
+(Toque: Congo)
 ```
 
 ### 87. Caboclo pega sua flecha, pega seu bodoque, o galo já cantou (Subida)
+- **Toque:** Congo
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=908s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
@@ -7439,15 +7812,20 @@ Caboclo vai pegar folha do chão (2x)
 Pega o seu bodoque, o galo já cantou,
 Se o galo já cantou na Aruanda,
 Oxalá te chama, vai pra sua banda (2x)
+
+(Toque: Congo)
 ```
 
 ### 88. Quando o atabaque zoa, filhos de Umbanda choram (Subida)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Lindos pontos de caboclos chamada e subida #caboclo #patriknavoz](https://www.youtube.com/watch?v=j0AeBXFEzL4&t=1088s) (*Patrik na Voz (Tambor do Meu Povo)*)
 
 ```text
 88 - Quando o atabaque zoa, filhos de Umbanda choram
 Adeus, adeus meus filhos,
 Todos os caboclos vão embora
+
+(Toque: Samba Cabula)
 ```
 
 ### 89. Já vai já vai meu caboclo já vai (Subida)
@@ -7725,6 +8103,7 @@ BATE CABEÇA MEU PAI XANGÔ PEDI A ELE PARA GUIAR MEU PROTETOR
 ```
 
 ### 101. A lua ilumina o meu caminhar
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Ponto de Subida do Caboclo do Sol e da Lua](https://www.youtube.com/watch?v=74075U3A1CQ) (*O Som da Minha Fé - Ogã Caio*)
 
 ```text
@@ -7742,6 +8121,8 @@ O seu canto de fé
 Clareia o caxambú clareia
 Clareia o candongueiro a lua.
 2x
+
+(Toque: Congo de Ouro)
 ```
 
 ### 102. Onde está a Jurema?
@@ -7994,6 +8375,7 @@ Arranca-Toco sou eu
 ```
 
 ### 115. Levanta Nego quero ver seu corpo inteiro
+- **Toque:** Samba Cabula
 - **Vídeo:** [NO TEMPO DO CATIVEIRO - Preto Velho (Legendado)](https://www.youtube.com/watch?v=XdXlFjLj_Vg) (*Lyrics Umbanda*)
 
 ```text
@@ -8013,6 +8395,8 @@ Lae Lae Lae La Lae
 La la ilá
 (2x)
 JONGO
+
+(Toque: Samba Cabula)
 ```
 
 ### 116. Com licença de zambi
@@ -8621,6 +9005,7 @@ JONGO
 ```
 
 ### 153. Eu vou abrir meu jongo ê
+- **Toque:** Samba
 - **Vídeo:** [Eu vou abrir minha jurema + Saudação aos Orixás (versão Umbandaime) - Ponto de Umbanda](https://www.youtube.com/watch?v=On9w2MyFK9c) (*Umbanda & Daime*)
 
 ```text
@@ -8631,6 +9016,8 @@ Primeiro eu peço a licença
 Pra rainha lá do mar
 Pra saudar a Romaria
 Eu vou abrir meu jongo ê
+
+(Toque: Samba)
 ```
 
 ### 154. CABOCLO APANHA A SUA FLECHA PEGUE O SEU BODOQUE O GALO JÁ CANTOU
@@ -8688,6 +9075,7 @@ Le le le le...
 ```
 
 ### 158. Já plantei café de meia
+- **Toque:** Samba Cabula
 - **Vídeo:** [Deixa umbanda melhorar](https://www.youtube.com/watch?v=SDc8fk6lHwY) (*cantos e fundamentos*)
 
 ```text
@@ -8697,6 +9085,8 @@ Café de meia não dá lucro ai meu Deus do céu
 Canavial cachaça dá
 (Quantas vezes quiser)
 JONGO
+
+(Toque: Samba Cabula)
 ```
 
 ### 159. CABOCLO VAI EMBORA PRA CIDADE DE JUREMÁ
@@ -8712,6 +9102,7 @@ OXALÁ ESTÁ LHE CHAMANDO, PRA CIDADE DE JUREMÁ
 ```
 
 ### 160. Oh gente nasci na Angola
+- **Toque:** Samba Cabula
 - **Vídeo:** [Eu sou um índio - Tombo de Caboclo - Candomblé de Angola - Danilo Reis Mulundeuanda](https://www.youtube.com/watch?v=irxXEgMi3lc) (*Danilo Reis Mulundeuanda*)
 
 ```text
@@ -8721,6 +9112,8 @@ Eu sou nego de Moçambique
 ai meu Deus do céu
 Eu sou nego sim senhor
 (Quantas vezes quiser)
+
+(Toque: Samba Cabula)
 ```
 
 ### 161. Quem não acredita na Umbanda
@@ -8826,6 +9219,7 @@ OI IANSÃ, OI IEMANJÁ!
 ```
 
 ### 168. Pisei na pedra lisa
+- **Toque:** Congo de Ouro
 - **Vídeo:** [Caboclo das 7 Encruzilhadas / Eu Pisei na Pedra](https://www.youtube.com/watch?v=cCtw5nKTHyk) (*Release - Topic*)
 
 ```text
@@ -8837,6 +9231,8 @@ Le le le le…
 2x
 Le le le le…
 2x
+
+(Toque: Congo de Ouro)
 ```
 
 ### 169. OLHA QUE CABOCLO LINDO QUE BEIRA MAR MANDOU SARAVAR
@@ -9029,6 +9425,7 @@ IEMANJÁ
 ```
 
 ### 183. Com tanto pau no mato Embaúba e Coronel
+- **Toque:** Samba Cabula
 - **Vídeo:** [Com tanto pau no Mato - Lira da Aruanda [26]](https://www.youtube.com/watch?v=jyDLRGpM2N0) (*Templo dos Três Caminhos*)
 
 ```text
@@ -9037,6 +9434,8 @@ A Embaúba é Coronel
 Aeee
 A Embaúba é Coronel
 (Quantas vezes quiser)
+
+(Toque: Samba Cabula)
 ```
 
 ### 184. Seu Arranca Toco é de Aruanda
@@ -9122,6 +9521,7 @@ Se ele é filho de nagô seu padrinho São José
 ```
 
 ### 190. CABOCLO LANCEIRO (Doce perfume do mel de)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Caboclo Lanceiro - Legendado - Doce perfume do mel de abelha, Vamos saldar caboclo da pele vermelha](https://www.youtube.com/watch?v=2DmJJqjFTnY) (*Ogan Renato*)
 
 ```text
@@ -9181,9 +9581,12 @@ Mensageiro de Oxossí,
 firma seu ponto aqui
 São Sebastião Guerreiro
 venha cá nos acudir
+
+(Toque: Samba Cabula)
 ```
 
 ### 191. HOMENAGEM AOS ORIXÁS
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Orixás - Tantas batalhas venci, muitas ainda vou enfrentar...](https://www.youtube.com/watch?v=wxGMN5Cod7o) (*Axé no Ponto*)
 
 ```text
@@ -9239,9 +9642,12 @@ redentor
 Porque a Umbanda é a
 coisa mais bonita
 Que Oxalá Criou
+
+(Toque: Samba Cabula)
 ```
 
 ### 192. HOMENAGEM AOS ORIXÁS
+- **Toque:** Samba Cabula
 - **Vídeo:** [HINO AOS ORIXÁS | PENSO NO DIA QUE LOGO VAI NASCER](https://www.youtube.com/watch?v=a_g6i-4F5wQ) (*Sagrado Som da Floresta*)
 
 ```text
@@ -9298,9 +9704,12 @@ E essa luz que vem de
 Oxalá
 Tenho certeza, vai me
 iluminar!
+
+(Toque: Samba Cabula)
 ```
 
 ### 193. MARIA, MARIA
+- **Toque:** Samba Cabula
 - **Vídeo:** [Elis Regina - Maria, Maria](https://www.youtube.com/watch?v=ZoILq0KdgZc) (*abreosolhos*)
 
 ```text
@@ -9345,9 +9754,12 @@ Quem traz na pele essa
 marca
 Possui a estranha mania de
 ter fé na vida
+
+(Toque: Samba Cabula)
 ```
 
 ### 194. A GRANDE LUZ
+- **Toque:** Samba Cabula
 - **Vídeo:** [6 - A Grande Luz COM LETRA - Umbanda Maria Bonita Volume 1](https://www.youtube.com/watch?v=md9T3PWue7o) (*Música de Terreiro*)
 
 ```text
@@ -9387,9 +9799,12 @@ Essa força superior
 É a grande luz que nos guia
 >
 É o nosso Criador >2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 195. REZA DO VENTO
+- **Toque:** Samba Cabula
 - **Vídeo:** [Caboclo do Vento](https://www.youtube.com/watch?v=eHGoSaFh2jk) (*Tenda de Umbanda Luz e Verdade - Topic*)
 
 ```text
@@ -9423,9 +9838,12 @@ Esse vento reza a lua
 Que balança o céu azul
 Esse vento vem lembrando
 Que nós todos somos um
+
+(Toque: Samba Cabula)
 ```
 
 ### 196. Quando os caboclos
+- **Toque:** Samba Cabula
 - **Vídeo:** [Ponto de Umbanda - Quando os caboclos trazem as folhas da jurema](https://www.youtube.com/watch?v=mv59BzoCloI) (*Matheus Castro*)
 
 ```text
@@ -9459,9 +9877,12 @@ Pai Oxalá abençoe o
 mundo inteiro
 Iluminai esse terreiro
 Para os trabalhos começar
+
+(Toque: Samba Cabula)
 ```
 
 ### 197. Quando a lua dormiu
+- **Toque:** Samba Cabula
 - **Vídeo:** [CABOCLO VENTANIA - EU VÍ O SOL EU VÍ A LUA](https://www.youtube.com/watch?v=R6MkN-Lh_Tg) (*Ogã Moisés D'Oxalá*)
 
 ```text
@@ -9492,9 +9913,12 @@ Com a noite que chegou
 Eu chorei >
 Quando seu Guará me
 abençoou >2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 198. SOL DO ORIENTE
+- **Toque:** Samba Cabula
 - **Vídeo:** [O Sol do Oriente - Ponto do Oriente](https://www.youtube.com/watch?v=-LOR7PBbVDM) (*Beatriz Schneider*)
 
 ```text
@@ -9526,9 +9950,12 @@ Rio Jordão
 Ogum e Ares juntam suas
 espadas
 Magia divina está na união
+
+(Toque: Samba Cabula)
 ```
 
 ### 199. PONTOS INDIVIDUAIS CABOCLO SETE PEDREIRAS
+- **Toque:** Barra
 - **Vídeo:** [Ponto de Xangô - Por detrás daquela serra (com letra)](https://www.youtube.com/watch?v=5Xh5XDpDxmA) (*Mãe Umbanda*)
 
 ```text
@@ -9556,9 +9983,12 @@ amargo do suor
 E fez do próprio bem, de
 todos os males, talvez o
 menor!
+
+(Toque: Barra)
 ```
 
 ### 200. CABOCLA INDAIÁ (Indaiá, o Indaiá)
+- **Toque:** Samba Cabula
 - **Vídeo:** [Cabocla Indaiá "Mãe das caboclinhas" SUBTITULADO Y CON LETRA](https://www.youtube.com/watch?v=5BQFiVsvwG4) (*Fanhy Omio*)
 
 ```text
@@ -9585,6 +10015,8 @@ Da família encantada
 Na estrela que se vê >
 Ao romper da madrugada
 >2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 201. FOGUEIRA
@@ -9617,6 +10049,7 @@ aonde vou>2x
 ```
 
 ### 202. CABOCLO SETE CACHOEIRAS (A pedra rola)
+- **Toque:** Samba Cabula
 - **Vídeo:** [PEDRA ROLA DA PEDREIRA EM CIMA DE QUEM ERROU | Ponto](https://www.youtube.com/watch?v=QOAOWm5xTCk) (*Agostinho Neto*)
 
 ```text
@@ -9640,9 +10073,12 @@ Ele é caboclo>
 Justiceiro de Aruanda >
 Vem trazendo a sua banda>
 Para firmar seu jacutá> 2x
+
+(Toque: Samba Cabula)
 ```
 
 ### 203. CABOCLA RAIO DE SOL (Aquela linda moça, aquela)
+- **Toque:** Samba Cabula
 - **Vídeo:** [A Que Noite Linda - Ponto de Caboclo](https://www.youtube.com/watch?v=J-SGXIrmyt0) (*Umbanda Musicas*)
 
 ```text
@@ -9667,9 +10103,12 @@ com sua flecha>
 E todo mal no seu vento vai
 levar>2x
 Eparrei ôô Bela Oya>4x
+
+(Toque: Samba Cabula)
 ```
 
 ### 204. PONTOS DE LINHA DAS CABOCLAS
+- **Toque:** Samba Cabula
 - **Vídeo:** [PONTO DE CABOCLA JUREMA - EU VI NO ALTO DA SERRA CABOCLA JUREMA DANDO O SEU BRADO DE GUERRA](https://www.youtube.com/watch?v=VrEpO292l18) (*VEM NA FÉ*)
 
 ```text
@@ -9694,9 +10133,12 @@ Cantou em seu louvor
 Ooo Jurema >
 Linda caçadora
 Bela cabocla de pena
+
+(Toque: Samba Cabula)
 ```
 
 ### 205. GUARACI
+- **Toque:** Samba Cabula
 - **Vídeo:** [Eu Vi Brilhar](https://www.youtube.com/watch?v=_lCJ2X7Rg-s) (*Aldeia de Caboclos*)
 
 ```text
@@ -9717,6 +10159,8 @@ E licor de Jurema
 Quiô, quiô, quiô, quiera
 Seu Guaraci vigia a mata
 Seu Guaraci domina a fera
+
+(Toque: Samba Cabula)
 ```
 
 ### 206. CABOCLO PEDRA ROXA (Meu pai Xangô nos dê agô)
@@ -20590,7 +21034,7 @@ também>2x
 
 ---
 
-## 🎲 PONTOS DE MALANDRO (ZÉ PILINTRA) (96 pontos)
+## 🎲 PONTOS DE MALANDRO (ZÉ PILINTRA) (95 pontos)
 
 ### 1. Tava sentado numa mesa da Jurema (Seu José Pelintra dê um tombo e venha cá)
 - **Toque:** Alujá
@@ -20617,7 +21061,7 @@ Zé Pilintra aqui chegou!
 
 ### 3. Ô Zé, quando vem de Alagoas (Balanço da canoa)
 - **Toque:** Samba de Angola
-- **Vídeo:** [Os melhores pontos de umbanda raiz (parte 2) 🌿📿 #umbanda #patriknavoz](https://www.youtube.com/watch?v=TpuKkNkCX1I&t=1705s) (*Patrik na Voz (Tambor do Meu Povo)*)
+- **Vídeo:** [Ponto de Malandros - Quando Vem de Alagoas - Com Letra](https://www.youtube.com/watch?v=6TIS7bKXaac) (*Pontos Letrados de Umbanda*)
 
 ```text
 3 - Ô Zé, quando vem de Alagoas, tome cuidado com o balanço da canoa
@@ -21579,35 +22023,12 @@ rodeado de mulher.
 (Toque: Samba)
 ```
 
-### 42. O Zé quando vem la de alagoas
-- **Toque:** Samba
-- **Vídeo:** [Ponto De Zé Pelintra: Seu Zé Pelintra Quando Vem De Alagoas Toma Cuidado Com Balanço...(Legendado)](https://www.youtube.com/watch?v=9bYqi4EMGVs) (*Maria Mulambo Rainha*)
-
-```text
-42 - O Zé quando vem la de alagoas
-Toma cuidado com o balanço da canoa (2x)
-O zé faça tudo que quiser o zé
-Só não maltrate o coração dessa mulher (2x)
-Foi o zé que cortou o pau
-Foi o zé que fez a jangada
-Foi o zé que roubou a moça
-E se casou na encruzilhada (2x)
-Zé zé zé, zé enganador (2x)
-Oi enganou a sinhazinha
-Com histórias de amor (2x)
-Zé zé zé, zé da brilhantina (2x)
-Querido dos mais velhos
-Namorado das meninas (2x)
-
-(Toque: Samba)
-```
-
-### 43. Saravá sr. zé pelintra
+### 42. Saravá sr. zé pelintra
 - **Toque:** Samba
 - **Vídeo:** [02- Moço do chapeu virado - Genimar - Hugo De Oxossi - con letra](https://www.youtube.com/watch?v=5oGpGmXx9_4) (*hugo de oxossi*)
 
 ```text
-43 - Saravá sr. zé pelintra
+42 - Saravá sr. zé pelintra
 moço do chapéu virado
 na direita ele é maneiro
 Na esquerda ele é pesado (2x)
@@ -21625,12 +22046,12 @@ Carrego meu patuá (2x)
 (Toque: Samba)
 ```
 
-### 44. Sr. Doutor, Sr. Doutor
+### 43. Sr. Doutor, Sr. Doutor
 - **Toque:** Nagô
 - **Vídeo:** [PONTO DE ZÉ PELINTRA ( SEU DOUTOR BRAVO SENHOR )](https://www.youtube.com/watch?v=9hPtfrKi198) (*Wenderson🖐️D🏹 Oxóssi 💚D🌻Oxum💛*)
 
 ```text
-44 - Sr. Doutor, Sr. Doutor
+43 - Sr. Doutor, Sr. Doutor
 Bravo senhor !
 Zé pelintra chegou !
 Bravo senhor!
@@ -21652,12 +22073,12 @@ Bravo Senhor!
 (Toque: Nagô)
 ```
 
-### 45. Zé pelintra, zé pelintra
+### 44. Zé pelintra, zé pelintra
 - **Toque:** Samba
 - **Vídeo:** [Ze pilintra Ze pilintra, Boêmio da Madrugada](https://www.youtube.com/watch?v=YDsUiiBT0os) (*Mr1bnd*)
 
 ```text
-45 - Zé pelintra, zé pelintra
+44 - Zé pelintra, zé pelintra
 Boêmio da madrugada, vem na linha das almas
 E também na encruzilhada (2x)
 Mas o amigo zé pelintra
@@ -21676,12 +22097,12 @@ o amigo verdadeiro
 (Toque: Samba)
 ```
 
-### 46. Sr.doutor, sr. Doutor
+### 45. Sr.doutor, sr. Doutor
 - **Toque:** Samba
 - **Vídeo:** [Zé Pelintra   Seu Doutor, Bravo Senhor, Zé Pelintra Chegou](https://www.youtube.com/watch?v=0SL5Dpq5VW4) (*Caboclo Tupinamba*)
 
 ```text
-46 - Sr.doutor, sr. Doutor
+45 - Sr.doutor, sr. Doutor
 Zé pelintra chegou
 Com os poderes de Deus
 zé pelintra sou eu
@@ -21701,12 +22122,12 @@ ou ta doido oi da danado
 (Toque: Samba)
 ```
 
-### 47. Não mexa com ela que ela nunca anda só
+### 46. Não mexa com ela que ela nunca anda só
 - **Toque:** Nagô
 - **Vídeo:** [Pontos de Maria Navalha: Ai Anália/ Não mexa com ela, Que ela nunca anda só...#umbanda #marianavalha](https://www.youtube.com/watch?v=fwqxL4QvGzw) (*Rainha da Malandragem *)
 
 ```text
-47 - Não mexa com ela que ela nunca anda só
+46 - Não mexa com ela que ela nunca anda só
 Não mexa com ela que ela nunca anda só
 Carrega sete navalhas, em malandro ela dá nó
 Seu nome é maria navalha guardiã da lei maior (2x)
@@ -21722,12 +22143,12 @@ no terreiro ela chegou
 (Toque: Nagô)
 ```
 
-### 48. Acarajé, caruru e vatapá
+### 47. Acarajé, caruru e vatapá
 - **Toque:** Samba
 - **Vídeo:** [Pontos de Maria Navalha - Malandro Se na Minha Cara der//Pode me Chamar de Covarde](https://www.youtube.com/watch?v=35QhAHAyUlI) (*Ikaro Ogãn OFC*)
 
 ```text
-48 - Acarajé, caruru e vatapá
+47 - Acarajé, caruru e vatapá
 vou chamar maria navalha
 que pra gira começar (2x)
 quando ela vem
@@ -21746,12 +22167,12 @@ o cachecol vai no pescoço
 (Toque: Samba)
 ```
 
-### 49. As 7 vidas do malandro
+### 48. As 7 vidas do malandro
 - **Toque:** Samba
 - **Vídeo:** [PONTO CANTADO DE MALANDRO- 7 VIDAS DE UM MALANDRO](https://www.youtube.com/watch?v=AMECcM1abgA) (*Traços de Umbanda *)
 
 ```text
-49 - Na primeira vida fui Boêmio
+48 - Na primeira vida fui Boêmio
 Na segunda vida um galã
 Na terceira vida fui um gênio
 E na quarta vida um bom vivã
@@ -21765,12 +22186,12 @@ Passei por 7 vidas não esqueci da madrugada (2x)
 (Toque: Samba)
 ```
 
-### 50. Zé Pilintra cadê você cadê você
+### 49. Zé Pilintra cadê você cadê você
 - **Toque:** Samba de Angola
 - **Vídeo:** [Zé Pilintra "Cadê seu Zé Pilintra" SUBTITULADO Y CON LETRA](https://www.youtube.com/watch?v=5cBA5s_mPy4) (*Fanhy Omio*)
 
 ```text
-50 - Zé Pilintra cadê você cadê você
+49 - Zé Pilintra cadê você cadê você
 Cadê você Zé Pelintra cadê você
 2x
 Zé Pelintra dono da noite
@@ -21788,12 +22209,12 @@ Do Angico ao vajucá
 (Toque: Samba de Angola)
 ```
 
-### 51. Zé Pretinho
+### 50. Zé Pretinho
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Exu e Pomba Gira - Faca no Peito (Demanda)🔥](https://www.youtube.com/watch?v=2oKJioogr3s) (*Ikaro Ogãn OFC*)
 
 ```text
-51 - FOI você que falou
+50 - FOI você que falou
 que me conhecia e eu não ia aguentar.
 mas foi você
 foi você quem foi falou
@@ -21811,12 +22232,12 @@ eu tô aqui pra provar
 (Toque: Samba)
 ```
 
-### 52. Passei lá no cemitério as 11 horas do dia
+### 51. Passei lá no cemitério as 11 horas do dia
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Exu - Passei no cemitério às onze horas do dia](https://www.youtube.com/watch?v=2u1jJRoqSYk) (*Juliana D Passos*)
 
 ```text
-52 - Passei lá no cemitério as 11 horas do dia
+51 - Passei lá no cemitério as 11 horas do dia
 6 defunto levantaram e me deram bom dia
 então eu chamei um padre pra rezar uma ave maria
 quanto mais ele rezava, mais defunto aparecia
@@ -21826,12 +22247,12 @@ cruz credo ave maria, sai pra la “defuntaria”
 (Toque: Samba)
 ```
 
-### 53. Eu hoje vou subir a colina
+### 52. Eu hoje vou subir a colina
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Ze Pilintra - Eu hoje vou subir na colina](https://www.youtube.com/watch?v=-hcXBYYqGZY) (*Canal Caboclo Três Estrelas*)
 
 ```text
-53 - Eu hoje vou subir a colina
+52 - Eu hoje vou subir a colina
 Só para ver o que tem la em cima(2x)
 La em cima tem moça bonita pra namora, Tem sim!
 Lá em cima o coro come e ninguém vê (2x)
@@ -21843,12 +22264,12 @@ eu trato todo mundo bem (2x)
 (Toque: Samba)
 ```
 
-### 54. Eu fui pro antigo Recife
+### 53. Eu fui pro antigo Recife
 - **Toque:** Nagô
 - **Vídeo:** [Samba de Malandro: Fui Acusado / Na Porta da Delegacia](https://www.youtube.com/watch?v=oW12wwQLYXo) (*Ikaro Ogãn OFC*)
 
 ```text
-54 - Eu fui pro antigo Recife
+53 - Eu fui pro antigo Recife
 Fui conhecer o mercado São José 2x
 Chegando lá, conheci rua da guia, rua do Apollo e a rua dos judeus 2x
 Mas lá conheci uma mulher
@@ -21859,12 +22280,12 @@ Ela é conhecida por Maria navalha 2x
 (Toque: Nagô)
 ```
 
-### 55. Vocês tão vendo aquela casa pequenina
+### 54. Vocês tão vendo aquela casa pequenina
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Zé Pelintra - Vocês tão vendo aquela casa pequenina.](https://www.youtube.com/watch?v=0KWFLMVzRBo) (*Pontos [LEGENDADO]*)
 
 ```text
-55 - Vocês tão vendo aquela casa pequenina
+54 - Vocês tão vendo aquela casa pequenina
 Lá no alto da colina que eu mandei fazer (2x)
 E lá, que malandro mora
 e otário não tem moradia (2x)
@@ -21876,12 +22297,12 @@ e otário não tem moradia (2x)
 (Toque: Samba)
 ```
 
-### 56. Sr. Zé pelintra quem chegou agora
+### 55. Sr. Zé pelintra quem chegou agora
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Zé Pilintra - Foi quem chegou agora](https://www.youtube.com/watch?v=qBevzlqtMuA) (*Pontos e Musicas De Umbanda*)
 
 ```text
-56 - Sr. Zé pelintra quem chegou agora
+55 - Sr. Zé pelintra quem chegou agora
 Sr. Zé pelintra vem pra trabalhar
 Sr, zé pelintra mestre de aruanda
 afirma seu ponto nesse congá (2x)
@@ -21893,12 +22314,12 @@ Afirma-i seu ponto nesse congá (2x)
 (Toque: Samba)
 ```
 
-### 57. Eu vi seu Zé Pilintra na Lapa
+### 56. Eu vi seu Zé Pilintra na Lapa
 - **Toque:** Samba de Angola
 - **Vídeo:** [Sete Saia-Eu Vi Seu Zé Pilintra Falando Com Sete Saia](https://www.youtube.com/watch?v=FY-TAHc9agg) (*Philipe Marquete*)
 
 ```text
-57 - Eu vi seu Zé Pilintra na Lapa
+56 - Eu vi seu Zé Pilintra na Lapa
 Eu vi seu Zé Pilintra no barracão
 2x
 Todo vestido de branco
@@ -21914,12 +22335,12 @@ Bate o pé e dá um nó
 (Toque: Samba de Angola)
 ```
 
-### 58. Malandro, te digo meu irmão
+### 57. Malandro, te digo meu irmão
 - **Toque:** Samba
 - **Vídeo:** [Zé Pilintra - Malandro, te digo meu irmão](https://www.youtube.com/watch?v=BhdsR6BAj-g) (*Cristiano Umbanda*)
 
 ```text
-58 - Malandro, te digo meu irmão
+57 - Malandro, te digo meu irmão
 que essa nega mexeu com meu coração (2x)
 Eu hoje vou subir la na favela
 vou dizer ao marido dela, que eu me apaixonei por ela
@@ -21929,12 +22350,12 @@ mas se eu descer do morro, a nega desce comigo
 (Toque: Samba)
 ```
 
-### 59. Mulher o mulher
+### 58. Mulher o mulher
 - **Toque:** Nagô
 - **Vídeo:** [Ponto de seu Zé Pilintra - Mulher não tenha medo do seu marido💖](https://www.youtube.com/watch?v=8XxT88qTc9U) (*Ikaro Ogãn OFC*)
 
 ```text
-59 - Mulher o mulher
+58 - Mulher o mulher
 não tenha medo do seu marido
 oh mulher (2x)
 se ele é bom na faca!?
@@ -21949,12 +22370,12 @@ Eu sou Lampião!
 (Toque: Nagô)
 ```
 
-### 60. Tava jogando sinuca
+### 59. Tava jogando sinuca
 - **Toque:** Samba
 - **Vídeo:** [Ponto Ze Pilintra - Tava jogando sinuca uma nega maluca](https://www.youtube.com/watch?v=bbnbx0oOUGQ) (*Ecos del Terreiro*)
 
 ```text
-60 - Tava jogando sinuca
+59 - Tava jogando sinuca
 uma nega maluca me apareceu
 Com um menino no colo e dizendo:
 toma que o filho é seu (2x)
@@ -21966,12 +22387,12 @@ toma que o filho é seu !
 (Toque: Samba)
 ```
 
-### 61. Minha casa é la no morro, só malandro chega lá
+### 60. Minha casa é la no morro, só malandro chega lá
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Zé Pelintra - Pegaram Zé Pelintra lá no morro… 🥃🎲](https://www.youtube.com/watch?v=-6qxA7HHiek) (*Ikaro Ogãn OFC*)
 
 ```text
-61 - Minha casa é la no morro, só malandro chega lá
+60 - Minha casa é la no morro, só malandro chega lá
 Sou amigo de zé pilintra e de todos orixás (2x)
 Zé pelintra é condutor, oi ele é condutor
 Da magia e do amor, oi do amor
@@ -21980,12 +22401,12 @@ Seu zé pelintra, sempre mostrou o seu valor
 (Toque: Samba)
 ```
 
-### 62. Houve uma tragédia no morro
+### 61. Houve uma tragédia no morro
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Zé pilintra ouve a tragédia No morro](https://www.youtube.com/watch?v=6pbKRL8sBqE) (*cantigas da umbanda Leonardo de omulu*)
 
 ```text
-62 - Houve uma tragédia no morro
+61 - Houve uma tragédia no morro
 Uma gota de sangue e um pedido de socorro (2x)
 Olha meu amor, não me diga não
 Também sou da lei do cão
@@ -21996,12 +22417,12 @@ Eu que teria morrido
 (Toque: Samba)
 ```
 
-### 63. Seu zé olha o beco
+### 62. Seu zé olha o beco
 - **Toque:** Barravento
 - **Vídeo:** [Zé do Beco](https://www.youtube.com/watch?v=5ZrhgXzs6v4) (*O Mensageiro do Som - Topic*)
 
 ```text
-63 - Seu zé olha o beco
+62 - Seu zé olha o beco
 o beco virou
 na virada do beco
 seu zé te pegou (2x)
@@ -22013,12 +22434,12 @@ Sou eu zé pelintra sou eu (2x)
 (Toque: Barravento)
 ```
 
-### 64. Levei chumbo de espingarda
+### 63. Levei chumbo de espingarda
 - **Toque:** Samba
 - **Vídeo:** [Zé Pilintra - Levei chumbo de espingarda](https://www.youtube.com/watch?v=oKCOif9k9cQ) (*Cristiano Umbanda*)
 
 ```text
-64 - Levei chumbo de espingarda
+63 - Levei chumbo de espingarda
 Navalhada de outro zé
 Muita paulada de guarda
 Mas o que mata é a mulher
@@ -22030,12 +22451,12 @@ E a mulher no coração.
 (Toque: Samba)
 ```
 
-### 65. Hoje eu acordei com o pé esquerdo
+### 64. Hoje eu acordei com o pé esquerdo
 - **Toque:** Samba
 - **Vídeo:** [PONTO DE MALANDRO - HOJE EU ACORDEI COM O PÉ  ESQUERDO](https://www.youtube.com/watch?v=OP7MR9a27-0) (*Raízes de Umbanda*)
 
 ```text
-65 - Hoje eu acordei com o pé esquerdo
+64 - Hoje eu acordei com o pé esquerdo
 Nada deu Certo pra mim (2x)
 Eleonor rasgou meu chapéu
 Até da minha cachaça bebeu
@@ -22045,12 +22466,12 @@ Foi nesse dia que a polícia me pegou (2x)
 (Toque: Samba)
 ```
 
-### 66. Tava sentado no muro
+### 65. Tava sentado no muro
 - **Toque:** Samba
 - **Vídeo:** [Ponto de malandro " tava sentado no muro"](https://www.youtube.com/watch?v=fWNaVnosHuQ) (*ponto das almas*)
 
 ```text
-66 - Tava sentado no muro
+65 - Tava sentado no muro
 fumando um bagulho a polícia chegou
 Joguei o bagulho pro alto
 sai no pinote ninguém me pegou (2x)
@@ -22060,12 +22481,12 @@ Parou na porta o camburão (2x)
 (Toque: Samba)
 ```
 
-### 67. Zé pelintra
+### 66. Zé pelintra
 - **Toque:** Nagô
 - **Vídeo:** [Zé Pilintra   Seu terno Branco Seu Punhal De Aço puro♪](https://www.youtube.com/watch?v=JgaQSEmnZq8) (*pilintras bohemios*)
 
 ```text
-67 - De terno branco
+66 - De terno branco
 seu punhal de aço puro
 o seu ponto é seguro
 quando vem pra trabalhar (2x)
@@ -22075,12 +22496,12 @@ na descida do morro, ele vem trabalhar (2x)
 (Toque: Nagô)
 ```
 
-### 68. Malandro bom não é aquele que engana os outros
+### 67. Malandro bom não é aquele que engana os outros
 - **Toque:** Samba
 - **Vídeo:** [Malandro bom não é aquele que engana os outros](https://www.youtube.com/watch?v=6vtDLHCrtRA) (*Tenda de Umbanda Vovó Maria Conga*)
 
 ```text
-68 - Malandro bom não é aquele que engana os outros
+67 - Malandro bom não é aquele que engana os outros
 E sim a quele que finge ser enganado
 Mas um velho ditado que malandro vem dizendo
 Em festa de cobra, só entra quem tem veneno
@@ -22088,12 +22509,12 @@ Em festa de cobra, só entra quem tem veneno
 (Toque: Samba)
 ```
 
-### 69. Eu encontrei pela alta madrugada
+### 68. Eu encontrei pela alta madrugada
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Zé Pelintra - Chorava por uma mulher](https://www.youtube.com/watch?v=OAFxpcs6qRI) (*Ikaro Ogãn OFC*)
 
 ```text
-69 - Eu encontrei pela alta madrugada
+68 - Eu encontrei pela alta madrugada
 Chorando pelo amor de sua amada (2x)
 Sr. Zé chorava por uma mulher
 Ele chorava por uma mulher
@@ -22103,12 +22524,12 @@ Que não lhe amava
 (Toque: Samba)
 ```
 
-### 70. Sr. Zé pelintra quando vem la de aruanda
+### 69. Sr. Zé pelintra quando vem la de aruanda
 - **Toque:** Samba
 - **Vídeo:** [PONTOS DE SEU ZÉ PILINTRA - ZÉ PILINTRA QUANDO VEM DE ARUANDA](https://www.youtube.com/watch?v=V7p4sQhNEIM) (*MACUFÉYAXÉ*)
 
 ```text
-70 - Sr. Zé pelintra quando vem la de aruanda
+69 - Sr. Zé pelintra quando vem la de aruanda
 Vem vencer toda demanda
 Vem abrir seu jacutá (2x)
 Saudando o sol, saudando o mar
@@ -22117,12 +22538,12 @@ A estrela guia que clareia esse congá (2x)
 (Toque: Samba)
 ```
 
-### 71. Sr. Zé pelintra com sua ternura
+### 70. Sr. Zé pelintra com sua ternura
 - **Toque:** Samba
 - **Vídeo:** [Zé pilintra - Seu Zé Pilintra Com Sua Ternura ♪](https://www.youtube.com/watch?v=eAT_V0p48fA) (*pilintras bohemios*)
 
 ```text
-71 - Sr. Zé pelintra com sua ternura
+70 - Sr. Zé pelintra com sua ternura
 Sentado no trono ele reza as criaturas(2x)
 A estrela de oxalá seu povo iluminou
 Ele é Sr. Zé pelintra, ele é nosso protetor (2x)
@@ -22130,12 +22551,12 @@ Ele é Sr. Zé pelintra, ele é nosso protetor (2x)
 (Toque: Samba)
 ```
 
-### 72. O morro de Santa Tereza está em luto
+### 71. O morro de Santa Tereza está em luto
 - **Toque:** Samba
 - **Vídeo:** [O MORRO DE SANTA TEREZA ESTA DE LUTO PORQUE ZÉ PELINTRA MORREU PONTO](https://www.youtube.com/watch?v=8uwPP_6gBjs) (*mundo dos orixas axe*)
 
 ```text
-72 - O morro de Santa Tereza está em luto.
+71 - O morro de Santa Tereza está em luto.
 porque Zé Pelintra morreu
 ele chorava por uma mulher
 ele chorava por uma mulher
@@ -22145,12 +22566,12 @@ que não lhe amava
 (Toque: Samba)
 ```
 
-### 73. O malandro desce o morro
+### 72. O malandro desce o morro
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Malandro - Malandro desce o morro para dar o seu recado - Ogan Tonny Santiago](https://www.youtube.com/watch?v=-_pXvvbl3Uo) (*Ogan Tonny Santiago*)
 
 ```text
-73 - O malandro desce o morro
+72 - O malandro desce o morro
 para dar o seu recado
 é melhor andar sozinho
 do que mau acompanhado
@@ -22161,12 +22582,12 @@ a Malandragem tá chegando aqui agora.
 (Toque: Samba)
 ```
 
-### 74. Se a radio patrulha chegasse aqui agora
+### 73. Se a radio patrulha chegasse aqui agora
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Malandro: Se a rádio patrulha chegasse aqui agora.. Com letra](https://www.youtube.com/watch?v=PGMUFhGAEPE) (*Cantigas De Umbanda*)
 
 ```text
-74 - Se a radio patrulha chegasse aqui agora
+73 - Se a radio patrulha chegasse aqui agora
 Seria uma grande vitória, ninguém poderia correr (2x)
 Agora que eu quero ver
 Quem é malandro não pode correr (2x)
@@ -22174,12 +22595,12 @@ Quem é malandro não pode correr (2x)
 (Toque: Samba)
 ```
 
-### 75. Sentado na delegacia
+### 74. Sentado na delegacia
 - **Toque:** Samba
 - **Vídeo:** [Ponto de malandro    sentado na delegacia](https://www.youtube.com/watch?v=gkWNjSzgZFQ) (*Tenda Espírita S. Jorge Pai Joaquim D'Angola *)
 
 ```text
-75 - Sentado na delegacia
+74 - Sentado na delegacia
 Seu delegado eu não matei minha pretinha (2x)
 Mas ela é preta, pretinha minha
 Ela preta cachaceira, macubeira mas é minha (2x)
@@ -22187,12 +22608,12 @@ Ela preta cachaceira, macubeira mas é minha (2x)
 (Toque: Samba)
 ```
 
-### 76. Malandro perigoso era seu nome
+### 75. Malandro perigoso era seu nome
 - **Toque:** Samba
 - **Vídeo:** [Malandro perigoso era meu nome](https://www.youtube.com/watch?v=aQU3VZkwccc) (*Jose Marques o seresteiro da viola*)
 
 ```text
-76 - Malandro perigoso era seu nome
+75 - Malandro perigoso era seu nome
 Na carta de um baralho me criei
 Por causa da mulher Deus fez o homem
 Por causa de uma mulher eu me passei (2x)
@@ -22200,12 +22621,12 @@ Por causa de uma mulher eu me passei (2x)
 (Toque: Samba)
 ```
 
-### 77. Seu Zé Pilintra não teve pai
+### 76. Seu Zé Pilintra não teve pai
 - **Toque:** Samba de Angola
 - **Vídeo:** [Zé Pelintra   Seu Zé pelintra não teve pai](https://www.youtube.com/watch?v=xGe6vG5hGSE) (*Caboclo Tupinamba*)
 
 ```text
-77 - Seu Zé Pilintra não teve pai
+76 - Seu Zé Pilintra não teve pai
 Seu Zé Pilintra não teve mãe
 2x
 Ele foi criado por Ogum Beira Mar
@@ -22215,12 +22636,12 @@ Em nome de Deus e de todos os Orixás
 (Toque: Samba de Angola)
 ```
 
-### 78. Na lapa, foi no cabaré da lapa
+### 77. Na lapa, foi no cabaré da lapa
 - **Toque:** Samba
 - **Vídeo:** [Eu Ando Triste Oi Zé / Na Lapa Onde Malandro Se Criou](https://www.youtube.com/watch?v=jFHYLCOCP1M) (*Ogã Fábio Passoni - Topic*)
 
 ```text
-78 - Na lapa, foi no cabaré da lapa
+77 - Na lapa, foi no cabaré da lapa
 Na lapa, que malandro se criou
 Na lapa, foi no cabaré da lapa
 Onde encontrei meu grande amor (2x)
@@ -22228,12 +22649,12 @@ Onde encontrei meu grande amor (2x)
 (Toque: Samba)
 ```
 
-### 79. Na Baixa do Sapateiro
+### 78. Na Baixa do Sapateiro
 - **Toque:** Barravento
 - **Vídeo:** [Zé Pelintra   Na baixa do sapateiro](https://www.youtube.com/watch?v=VByPiNLRUmY) (*Caboclo Tupinamba*)
 
 ```text
-79 - Na baixa do Sapateiro
+78 - Na baixa do Sapateiro
 Houve uma confusão
 Era o baiano Zé Pilintra
 Sambando de pé no chão
@@ -22243,23 +22664,23 @@ Sambando de pé no chão
 (Toque: Barravento)
 ```
 
-### 80. Malandragem veio as santas almas deu sinal (bis
+### 79. Malandragem veio as santas almas deu sinal (bis
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Zé Pretinho - Roda da Malandragem...🎲](https://www.youtube.com/watch?v=ayM2fLNfs6s) (*Ikaro Ogãn OFC*)
 
 ```text
-80 - Malandragem veio as santas almas deu sinal (bis)
+79 - Malandragem veio as santas almas deu sinal (bis)
 É no chapéu de zé pretinho que faz o bem e desfaz o mal (2x)
 
 (Toque: Samba)
 ```
 
-### 81. Zé Pilintra meu amigo
+### 80. Zé Pilintra meu amigo
 - **Toque:** Samba de Angola
 - **Vídeo:** [Zé Pilintra "Meu amigo" Josimar de Oxossi SUBTITULADO Y CON LETRA](https://www.youtube.com/watch?v=20GprZ7Y9i4) (*Fanhy Omio*)
 
 ```text
-81 - Zé Pilintra meu amigo
+80 - Zé Pilintra meu amigo
 Tira o chapéu da cabeça
 2x
 Que tiver um que bote
@@ -22269,12 +22690,12 @@ Quem não tiver não se meta
 (Toque: Samba de Angola)
 ```
 
-### 82. Jurema Preta se conhece pela tinta
+### 81. Jurema Preta se conhece pela tinta
 - **Toque:** Nagô
 - **Vídeo:** [Estava sentado numa mesa da Jurema - Ponto de Zé pilintra](https://www.youtube.com/watch?v=hFEmbO2fomE) (*AdriCoon - Topic*)
 
 ```text
-82 - Jurema Preta se conhece pela tinta
+81 - Jurema Preta se conhece pela tinta
 2x
 Salve o dono da casa e o Congá de Zé Pilintra
 2x
@@ -22283,12 +22704,12 @@ ZÉ PILINTRA
 (Toque: Nagô)
 ```
 
-### 83. Boa noite zé pelintra
+### 82. Boa noite zé pelintra
 - **Toque:** Samba
 - **Vídeo:** [♣️♠️♥️♦️Ponto De Zé Pilintra: Boa Noite Zé Pilintra Ô Que Noite Enluarada(Legendado) ♣️♠️♥️♦️](https://www.youtube.com/watch?v=aUAVG3sfTX0) (*Maria Mulambo Rainha*)
 
 ```text
-83 - Boa noite zé pelintra
+82 - Boa noite zé pelintra
 Hoje é noite enluarada
 Tudo está se acertando
 Zé pelintra é camarada
@@ -22296,12 +22717,12 @@ Zé pelintra é camarada
 (Toque: Samba)
 ```
 
-### 84. Zé pelintra veio ao mundo
+### 83. Zé pelintra veio ao mundo
 - **Toque:** Samba
 - **Vídeo:** [♣️♠️♥️♦️Ponto De Zé Pilintra: Zé Pelintra Veio Ao Mundo, Veio Cumprir Sua Missão(Legendado) ♣️♠️♥️♦️](https://www.youtube.com/watch?v=tK-DxdwwVXg) (*Maria Mulambo Rainha*)
 
 ```text
-84 - Zé pelintra veio ao mundo
+83 - Zé pelintra veio ao mundo
 Vem cumprir sua missão
 Ajudar a quem precisa
 Tirar nossa aflição
@@ -22309,12 +22730,12 @@ Tirar nossa aflição
 (Toque: Samba)
 ```
 
-### 85. Cade sr. Zé pelintra ?
+### 84. Cade sr. Zé pelintra ?
 - **Toque:** Samba
 - **Vídeo:** [03-Cadê Seu Zé Pelintra de Chapéu Branco na Mão - Saravá Seu Zé Pilintra.](https://www.youtube.com/watch?v=Q2gg2iDnwqY) (*Casa de Axé Omolú-Oxalufã GF 7777*)
 
 ```text
-85 - Cade sr. Zé pelintra ?
+84 - Cade sr. Zé pelintra ?
 De chapéu branco na mão
 com gravata encarnada
 Mandando socar pilão
@@ -22322,12 +22743,12 @@ Mandando socar pilão
 (Toque: Samba)
 ```
 
-### 86. Quem quiser me ver
+### 85. Quem quiser me ver
 - **Toque:** Samba
 - **Vídeo:** [Se quiser me ver vai no cabaré](https://www.youtube.com/watch?v=gudvHaohgs4) (*Rosa de Xangô e Iemanjá - Topic*)
 
 ```text
-86 - Quem quiser me ver
+85 - Quem quiser me ver
 vai no cabaré (2x)
 que eu to sentado numa mesa
 rodeado de mulher (2x)
@@ -22335,56 +22756,56 @@ rodeado de mulher (2x)
 (Toque: Samba)
 ```
 
-### 87. Ela é malandra, malandrinha lá do cais
+### 86. Ela é malandra, malandrinha lá do cais
 - **Toque:** Samba
 - **Vídeo:** [Ela é Malandra,Malandrinha lá no cais... #axé #marianavalha #malandrinha #umbanda #juremasagrada #fy](https://www.youtube.com/watch?v=QTd_n6o6ET0) (*Rainha da Malandragem *)
 
 ```text
-87 - Ela é malandra, malandrinha lá do cais
+86 - Ela é malandra, malandrinha lá do cais
 quero ver você fazer, o que a navalha faz (2x)
 
 (Toque: Samba)
 ```
 
-### 88. Olha eu o Zé , olha eu Zé
+### 87. Olha eu o Zé , olha eu Zé
 - **Toque:** Barravento
 - **Vídeo:** [Ponto para Zé malandro | Música de terreiro (Nicolle)](https://www.youtube.com/watch?v=C_mwj7mr_O0) (*Nicolle Paulla*)
 
 ```text
-88 - Olha eu o Zé, olha eu Zé
+87 - Olha eu o Zé, olha eu Zé
 A minha vida como anda olha eu Zé
 (Quantas vezes quiser)
 
 (Toque: Barravento)
 ```
 
-### 89. Zé pelintra ele não vai no candomblé (2x
+### 88. Zé pelintra ele não vai no candomblé (2x
 - **Toque:** Samba
 - **Vídeo:** [Ponto de Zé Pilintra - Zé Pilintra Não Vai no Candomblé (Davi D' Oxóssi)](https://www.youtube.com/watch?v=R3Fv-wwgihE) (*Davi D' Oxóssi*)
 
 ```text
-89 - Zé pelintra ele não vai no candomblé (2x)
+88 - Zé pelintra ele não vai no candomblé (2x)
 se ele for … tem que ter mulher (4x)
 
 (Toque: Samba)
 ```
 
-### 90. Malandro com malandro , Marido e mulher
+### 89. Malandro com malandro , Marido e mulher
 - **Toque:** Samba
 - **Vídeo:** [Ponto De Zé Pelintra: Malandro Com Malandro Marido E Mulher (Legendado)](https://www.youtube.com/watch?v=m-a4opk6MVU) (*Maria Mulambo Rainha*)
 
 ```text
-90 - Malandro com malandro , Marido e mulher
+89 - Malandro com malandro , Marido e mulher
 Malandro com malandro , Zé pelintra é
 
 (Toque: Samba)
 ```
 
-### 91. MARIA NAVALHA
+### 90. MARIA NAVALHA
 - **Vídeo:** [Ela Traz uma navalha que corta o mal e a injustiça..❤️❤️💃✔️♠️♥️♦️♣️🎵 ( ponto de Maria Navalha )](https://www.youtube.com/watch?v=Zl1hLk3h7ak) (*Junior Freitas*)
 
 ```text
-91 - Ela traz uma navalha
+90 - Ela traz uma navalha
 Que corta o mal e a
 injustiça
 Protegida de Zé Pelintra
@@ -22413,11 +22834,11 @@ Junto com Zé Pilintra
 Para todo mal levar
 ```
 
-### 92. MARIA NAVALHA
+### 91. MARIA NAVALHA
 - **Vídeo:** [Ponto de Maria Navalha "Cuidado seu Zé"!!💃🎲](https://www.youtube.com/watch?v=PLWb4YRT0bY) (*Ikaro Ogãn OFC*)
 
 ```text
-92 - Cuidado, Cuidado
+91 - Cuidado, Cuidado
 Seu Zé
 Não Mexa com essa
 Mulher
@@ -22428,11 +22849,11 @@ Maria Navalha
 Bota pra quebrar
 ```
 
-### 93. PONTO INDIVIDUAL SEU ZÉ PELINTRA
+### 92. PONTO INDIVIDUAL SEU ZÉ PELINTRA
 - **Vídeo:** [Zé Pilintra - Seu Zé ,Feche A Porteira ,Cancelas E Tronqueiras♪](https://www.youtube.com/watch?v=xOD_OiZpbqc) (*pilintras bohemios*)
 
 ```text
-93 - Oi Zé feche a porteira,
+92 - Oi Zé feche a porteira,
 cancelas e tronqueiras
 Não deixe o mal entrar
 O galo já cantou lá na
@@ -22441,11 +22862,11 @@ Farofa na fundanga >
 Eu quero ver queimar>2x
 ```
 
-### 94. PONTO INDIVIDUAL SEU ZÉ PELINTRA
+### 93. PONTO INDIVIDUAL SEU ZÉ PELINTRA
 - **Vídeo:** [Malandro venha devagar](https://www.youtube.com/watch?v=H0zqUzVhyWc) (*Os Pagodeiros do Largo do Estácio - Topic*)
 
 ```text
-94 - Venha cá Seu Zé
+93 - Venha cá Seu Zé
 Venha me valer
 Sem a sua ajuda
 Eu não posso viver
@@ -22456,11 +22877,11 @@ Mas não se esquece de
 voltar
 ```
 
-### 95. ERÊ ZÉZINHO
+### 94. ERÊ ZÉZINHO
 - **Vídeo:** [Erê Zezinho - Zezinho chegou | Música feita por I.A para homenagear esse Erê maravilhoso.](https://www.youtube.com/watch?v=eICIVPbboLI) (*Coroa da Noite*)
 
 ```text
-95 - Erê êo>
+94 - Erê êo>
 Erê Zezinho chegou>2x
 Quando vem descendo em
 terra
@@ -22471,11 +22892,11 @@ Todo o povo desse lugar
 >2x
 ```
 
-### 96. PONTO INDIVIDUAL SEU ZÉ PELINTRA
+### 95. PONTO INDIVIDUAL SEU ZÉ PELINTRA
 - **Vídeo:** [CD Saravá Seu Zé Pelintra - Faixa 09 - Terno Branco](https://www.youtube.com/watch?v=J3bCtPoHoVc) (*Curimba Mãe Jurema*)
 
 ```text
-96 - Seu Zé Pelintra, Seu Zé
+95 - Seu Zé Pelintra, Seu Zé
 De terno branco e muito
 samba no pé
 Seu Zé Pelintra, Seu Zé

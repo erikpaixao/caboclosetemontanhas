@@ -190,8 +190,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE DEFUMAÇÃO",
     "number": 12,
     "title": "ABERTURA DA GIRA",
-    "toque": "",
-    "lyrics": "12 - Vou acender velas para São\nJorge>\nA ele eu quero agradecer>\nE vou plantar comigo\nninguém pode>\nPara que o mal>\nEu possa então vencer >2x\nOlho grande em mim não\npega>\nNão pega não>\nNão pega em quem tem fé>\nNo coração>2x\nOgum com sua espada\nSua capa encarnada\nMe dá sempre proteção\nQuem vai pela boa estrada\nNo fim desta caminhada\nEncontra em deus perdão\nLá, lá, lá, laia, laia, laia, lá\nVamos saudar são Jorge\ncavaleiro",
+    "toque": "Nagô",
+    "lyrics": "12 - Vou acender velas para São\nJorge>\nA ele eu quero agradecer>\nE vou plantar comigo\nninguém pode>\nPara que o mal>\nEu possa então vencer >2x\nOlho grande em mim não\npega>\nNão pega não>\nNão pega em quem tem fé>\nNo coração>2x\nOgum com sua espada\nSua capa encarnada\nMe dá sempre proteção\nQuem vai pela boa estrada\nNo fim desta caminhada\nEncontra em deus perdão\nLá, lá, lá, laia, laia, laia, lá\nVamos saudar são Jorge\ncavaleiro\n\n(Toque: Nagô)",
     "query": "ponto de umbanda DEFUMAÇÃO Vou acender velas para São Jorge",
     "video": {
       "id": "i8C2NxZSEA0",
@@ -207,8 +207,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE DEFUMAÇÃO",
     "number": 13,
     "title": "SAUDAÇÃO À ENGOMA DO PAI JACÓ",
-    "toque": "",
-    "lyrics": "13 - É um caminho de flores\nÉ um caminho de paz\nE ao som dos tambores\nAlegria ele traz\nPai Jacó traz axé pra sua\nengoma\nRisca ponto acende a vela\nPra firmar gira de umbanda\nEle é Pai Jacó >2x\nE na fé de Oxalá ele vem\ncurimbar\nPreto velho curimbeiro\nQuando baixa no terreiro\nVem trazer sua proteção\nEu quero ver ogan eu quero\nver>\nO couro do atabaque\nestremecer>2x",
+    "toque": "Congo",
+    "lyrics": "13 - É um caminho de flores\nÉ um caminho de paz\nE ao som dos tambores\nAlegria ele traz\nPai Jacó traz axé pra sua\nengoma\nRisca ponto acende a vela\nPra firmar gira de umbanda\nEle é Pai Jacó >2x\nE na fé de Oxalá ele vem\ncurimbar\nPreto velho curimbeiro\nQuando baixa no terreiro\nVem trazer sua proteção\nEu quero ver ogan eu quero\nver>\nO couro do atabaque\nestremecer>2x\n\n(Toque: Congo)",
     "query": "ponto de umbanda DEFUMAÇÃO É um caminho de flores É um caminho de paz",
     "video": {
       "id": "1q8aq6sI5pM",
@@ -224,8 +224,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE DEFUMAÇÃO",
     "number": 14,
     "title": "SAUDAÇÃO À ENGOMA DO PAI SERAFIM",
-    "toque": "",
-    "lyrics": "14 - Vamos saudar a curimba do\nterreiro\nQue com força anuncia que\no trabalho começou\nA voz da Umbanda é o\ncouro do atabaque\nQue em meus ouvidos\nbatem\nE diz que Deus me\nabençoou\nPai Serafim convocando\nnossos guias\nQue aqui chegam com\nalegria\nAbençoar nossos irmãos\nSom do atabaque\nimpulsiona a vibração>\nO Ogã passa pro couro>\nAs batidas do coração>2x",
+    "toque": "Nagô",
+    "lyrics": "14 - Vamos saudar a curimba do\nterreiro\nQue com força anuncia que\no trabalho começou\nA voz da Umbanda é o\ncouro do atabaque\nQue em meus ouvidos\nbatem\nE diz que Deus me\nabençoou\nPai Serafim convocando\nnossos guias\nQue aqui chegam com\nalegria\nAbençoar nossos irmãos\nSom do atabaque\nimpulsiona a vibração>\nO Ogã passa pro couro>\nAs batidas do coração>2x\n\n(Toque: Nagô)",
     "query": "ponto de umbanda DEFUMAÇÃO Vamos saudar a curimba do terreiro",
     "video": {
       "id": "yStu4Yd3kGE",
@@ -292,8 +292,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE DEFUMAÇÃO",
     "number": 18,
     "title": "SAUDAÇÃO ÀS SETE LINHAS",
-    "toque": "",
-    "lyrics": "18 - Rei da demanda é Ogum\nMegê Quem rola a pedra é\nXangô Kaô Flecha de\nOxóssi é certeira é\nE Oxalá é meu senhor\n7 linhas da Umbanda, 7\nlinhas pra vencer\nNa lei de Oxalá ninguém\npode perecer\nTem Oxum na cachoeira\nIemanjá Deusa do mar\nIansã pra defender\nPai Ogum pra demandar",
+    "toque": "Samba Cabula",
+    "lyrics": "18 - Rei da demanda é Ogum\nMegê Quem rola a pedra é\nXangô Kaô Flecha de\nOxóssi é certeira é\nE Oxalá é meu senhor\n7 linhas da Umbanda, 7\nlinhas pra vencer\nNa lei de Oxalá ninguém\npode perecer\nTem Oxum na cachoeira\nIemanjá Deusa do mar\nIansã pra defender\nPai Ogum pra demandar\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda DEFUMAÇÃO Rei da demanda é Ogum Megê Quem rola a pedra é",
     "video": {
       "id": "lPaqMtp3R5I",
@@ -394,7 +394,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 1,
     "title": "Deu meia-noite (Vir serrar madeira)",
-    "lyrics": "1 - Deu meia-noite, mandaram lhe chamar para vir serrar madeira,\nMandaram lhe chamar,\nExu.........., mandaram lhe chamar para vir serrar madeira,\nMandaram lhe chamar.",
+    "lyrics": "1 - Deu meia-noite, mandaram lhe chamar para vir serrar madeira,\nMandaram lhe chamar,\nExu.........., mandaram lhe chamar para vir serrar madeira,\nMandaram lhe chamar.\n\n(Toque: Nagô)",
     "query": "deu meia noite mandaram lhe chamar para vir serrar madeira ponto exu",
     "video": {
       "id": "XDBq6Q3_v_c",
@@ -405,7 +405,7 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Nagô"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
@@ -496,7 +496,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 7,
     "title": "Vocês que são filhos de pemba",
-    "lyrics": "7 - Vocês que são filhos de pemba,\nVocês que são filhos de fé,\nBate com a cabeça e peça a Zambi o que quiser.",
+    "lyrics": "7 - Vocês que são filhos de pemba,\nVocês que são filhos de fé,\nBate com a cabeça e peça a Zambi o que quiser.\n\n(Toque: Ijexá)",
     "query": "voces que sao filhos de pemba voces que sao filhos de fe bate com a cabeca",
     "video": {
       "id": "Ifoas48-9p8",
@@ -507,13 +507,13 @@ window.PONTOS_DATA = [
       "startFormatted": "00:00",
       "url": "https://www.youtube.com/watch?v=Ifoas48-9p8"
     },
-    "toque": ""
+    "toque": "Ijexá"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 8,
     "title": "Eparrey Iansã (Segura o seu arerê)",
-    "lyrics": "8 - Eparrey Iansã!\nIansã, Iansã, segura o seu arerê, Iansã;\nOh Iansã, Oh Iansã, segura o seu arerê;\nIansã, Iansã, segura o seu arerê, Iansã;\nOh Iansã, Oh Iansã, segura o seu arerê.",
+    "lyrics": "8 - Eparrey Iansã!\nIansã, Iansã, segura o seu arerê, Iansã;\nOh Iansã, Oh Iansã, segura o seu arerê;\nIansã, Iansã, segura o seu arerê, Iansã;\nOh Iansã, Oh Iansã, segura o seu arerê.\n\n(Toque: Samba Cabula)",
     "query": "iansa iansa segura o seu arere eparrey iansa ponto",
     "video": {
       "id": "6MMfuHxls6I",
@@ -524,13 +524,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 9,
     "title": "Ogunhê! Patacury Ogum (Coroa de Ouro é o Mariwô)",
-    "lyrics": "9 - Ogunhê!!!! Patacury Ogum!!!\nSe a sua coroa de ouro é o Mariwô,\nÉ um tato, é um tato, é um tato, a coroa de ouro é o Mariwô.",
+    "lyrics": "9 - Ogunhê!!!! Patacury Ogum!!!\nSe a sua coroa de ouro é o Mariwô,\nÉ um tato, é um tato, é um tato, a coroa de ouro é o Mariwô.\n\n(Toque: Ijexá)",
     "query": "se a sua coroa de ouro e o mariwo e um tato ogum ponto",
     "video": {
       "id": "IuuE0rItWps",
@@ -541,7 +541,7 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Ijexá"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
@@ -564,7 +564,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 11,
     "title": "Se encontrar um velho aí (Omolú)",
-    "lyrics": "11 - Se encontrar um velho aí,\nDê a bênção a ele, ele se chama Omolu,\nDê a bênção a ele (2x)",
+    "lyrics": "11 - Se encontrar um velho aí,\nDê a bênção a ele, ele se chama Omolu,\nDê a bênção a ele (2x)\n\n(Toque: Samba Cabula)",
     "query": "se encontrar um velho ai de a bencao a ele ele se chama omolu",
     "video": {
       "id": "ha1CMHn7_rE",
@@ -575,13 +575,13 @@ window.PONTOS_DATA = [
       "startFormatted": "00:00",
       "url": "https://www.youtube.com/watch?v=ha1CMHn7_rE"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 12,
     "title": "Eu abro a nossa gira",
-    "lyrics": "12 - Eu abro a nossa gira\nCom Deus e Nossa Senhora\nEu abro a nossa gira\nSambolê pemba de angola\nEu abro a nossa gira\nCom Deus e Nossa Senhora\nEu abro a nossa gira\nSambolê pemba de angola",
+    "lyrics": "12 - Eu abro a nossa gira\nCom Deus e Nossa Senhora\nEu abro a nossa gira\nSambolê pemba de angola\nEu abro a nossa gira\nCom Deus e Nossa Senhora\nEu abro a nossa gira\nSambolê pemba de angola\n\n(Toque: Ijexá)",
     "query": "eu abro a nossa gira com deus e nossa senhora sambole pemba de angola",
     "video": {
       "id": "dAiCTlJ0Loc",
@@ -592,13 +592,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Ijexá"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 13,
     "title": "Você quer ver a macumba ficar boa",
-    "lyrics": "13 - Você quer ver a macumba ficar boa\nÉ só cantar e bater palma que a macumba fica boa (2x)",
+    "lyrics": "13 - Você quer ver a macumba ficar boa\nÉ só cantar e bater palma que a macumba fica boa (2x)\n\n(Toque: Samba de Angola)",
     "query": "você quer ver a macumba ficar boa patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -610,13 +610,13 @@ window.PONTOS_DATA = [
       "start": 1486,
       "startFormatted": "24:46"
     },
-    "toque": ""
+    "toque": "Samba de Angola"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 14,
     "title": "Vamos bater a cabeça em nome de Pai Oxalá",
-    "lyrics": "14 - Vamos bater a cabeça,\nEm nome de Pai Oxalá (2x)\nPara saudar o nosso terreiro,\nPara saudar o nosso congá (2x)",
+    "lyrics": "14 - Vamos bater a cabeça,\nEm nome de Pai Oxalá (2x)\nPara saudar o nosso terreiro,\nPara saudar o nosso congá (2x)\n\n(Toque: Ijexá)",
     "query": "vamos bater a cabeça em nome de pai oxalá patrik na voz",
     "video": {
       "id": "-Ixi8vPQEfg",
@@ -628,7 +628,7 @@ window.PONTOS_DATA = [
       "trackNumber": 1,
       "url": "https://www.youtube.com/watch?v=-Ixi8vPQEfg"
     },
-    "toque": ""
+    "toque": "Ijexá"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
@@ -670,7 +670,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 17,
     "title": "Ô lhe corre gira, meu Deus do céu (A gente pede perdão)",
-    "lyrics": "17 - Ô lhe corre gira, meu Deus do céu, ô lhe corre gira (2x)\nA gente pede perdão, as almas pedem misericórdia,\nOs santos pedem a Deus a caridade (2x)",
+    "lyrics": "17 - Ô lhe corre gira, meu Deus do céu, ô lhe corre gira (2x)\nA gente pede perdão, as almas pedem misericórdia,\nOs santos pedem a Deus a caridade (2x)\n\n(Toque: Congo de Ouro)",
     "query": "ô lhe corre gira, meu deus do céu (a gente pede perdão) patrik na voz",
     "video": {
       "id": "-Ixi8vPQEfg",
@@ -682,13 +682,13 @@ window.PONTOS_DATA = [
       "trackNumber": 4,
       "url": "https://www.youtube.com/watch?v=-Ixi8vPQEfg&t=384s"
     },
-    "toque": ""
+    "toque": "Congo de Ouro"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 18,
     "title": "Meus irmãos de outro mundo (Pedido à Virgem da Conceição)",
-    "lyrics": "18 - Ô meus irmãos de outro mundo,\nTenham por mim compaixão,\nEu vou fazer um pedido\nÀ Virgem da Conceição (2x)",
+    "lyrics": "18 - Ô meus irmãos de outro mundo,\nTenham por mim compaixão,\nEu vou fazer um pedido\nÀ Virgem da Conceição (2x)\n\n(Toque: Samba Cabula)",
     "query": "meus irmãos de outro mundo (pedido à virgem da conceição) patrik na voz",
     "video": {
       "id": "-Ixi8vPQEfg",
@@ -700,13 +700,13 @@ window.PONTOS_DATA = [
       "trackNumber": 5,
       "url": "https://www.youtube.com/watch?v=-Ixi8vPQEfg&t=545s"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 19,
     "title": "Babá de Orixá, aê Babá (Palavra Divina)",
-    "lyrics": "19 - Babá de Orixá, aê Babá,\nAê Babalaô, Babalaô é de Orixá (2x)\nEle é Babá, mantém a palavra,\nPalavra divina, mantém a palavra (2x)",
+    "lyrics": "19 - Babá de Orixá, aê Babá,\nAê Babalaô, Babalaô é de Orixá (2x)\nEle é Babá, mantém a palavra,\nPalavra divina, mantém a palavra (2x)\n\n(Toque: Samba Cabula)",
     "query": "babá de orixá, aê babá (palavra divina) patrik na voz",
     "video": {
       "id": "-Ixi8vPQEfg",
@@ -718,7 +718,7 @@ window.PONTOS_DATA = [
       "trackNumber": 6,
       "url": "https://www.youtube.com/watch?v=-Ixi8vPQEfg&t=699s"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE ABERTURA DE GIRA",
@@ -962,8 +962,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 34,
     "title": "Adeus povo bom, Adeus",
-    "toque": "",
-    "lyrics": "34 - Adeus povo bom, Adeus\nAdeus que eu já vou embora\nPelas ondas do mar eu vim\nPelas ondas do mar que eu vou embora\n2x",
+    "toque": "Congo de Ouro",
+    "lyrics": "34 - Adeus povo bom, Adeus\nAdeus que eu já vou embora\nPelas ondas do mar eu vim\nPelas ondas do mar que eu vou embora\n2x\n\n(Toque: Congo de Ouro)",
     "query": "ponto de umbanda ABERTURA DE GIRA Adeus povo bom, Adeus Adeus que eu já vou embora",
     "video": {
       "id": "DiSQz0Xe6go",
@@ -1030,8 +1030,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 38,
     "title": "REZA A CURA",
-    "toque": "",
-    "lyrics": "38 - O meu cachimbo defuma>\nDefuma com as ervas da\nmata>2x\nLimpando as más\nenergias>\nClareando meus\npensamentos>2x\nErvas que benzem e\ncuram>\nHarmonizando\nsentimentos>2x\nPreto velho foi quem me\ncontou\nQue a sua cachimbada tem\nfé e amor\nAscende a sua fé e firmam\nas preces ao Pai Criador\nA fumaça que solta revela\nmensagens que conta as\nestrelas do céu\nE a força da cura que vem\nDa balança de meu São\nMiguel\nÉ o povo de Aruanda que\ntem o axé e sabe saravar\nTrabalha com a luz divina,\ngrande corrente de pai\nOxalá\nCaboclo flecheiro, senhor\nJuremeiro, seu Tupinambá\nToda corrente africana que\ntem a mandinga pro bem\nrenovar\nSaravá\nO meu cachimbo tem força\nTem força para me curar\nO meu cachimbo tem força\nTem força e proteção pra\ndar\nO meu cachimbo tem força,\ntem força\nTem força para me curar\nTem força e proteção pra\ndar",
+    "toque": "Congo",
+    "lyrics": "38 - O meu cachimbo defuma>\nDefuma com as ervas da\nmata>2x\nLimpando as más\nenergias>\nClareando meus\npensamentos>2x\nErvas que benzem e\ncuram>\nHarmonizando\nsentimentos>2x\nPreto velho foi quem me\ncontou\nQue a sua cachimbada tem\nfé e amor\nAscende a sua fé e firmam\nas preces ao Pai Criador\nA fumaça que solta revela\nmensagens que conta as\nestrelas do céu\nE a força da cura que vem\nDa balança de meu São\nMiguel\nÉ o povo de Aruanda que\ntem o axé e sabe saravar\nTrabalha com a luz divina,\ngrande corrente de pai\nOxalá\nCaboclo flecheiro, senhor\nJuremeiro, seu Tupinambá\nToda corrente africana que\ntem a mandinga pro bem\nrenovar\nSaravá\nO meu cachimbo tem força\nTem força para me curar\nO meu cachimbo tem força\nTem força e proteção pra\ndar\nO meu cachimbo tem força,\ntem força\nTem força para me curar\nTem força e proteção pra\ndar\n\n(Toque: Congo)",
     "query": "ponto de umbanda ABERTURA DE GIRA O meu cachimbo defuma Defuma com as ervas da",
     "video": {
       "id": "L9te8G-QEbY",
@@ -1047,8 +1047,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 39,
     "title": "HOJE TEM DENDÊ TEM FAROFA ATARÊ",
-    "toque": "",
-    "lyrics": "39 - { HOJE TEM DENDÊ TEM FAROFA ATARÊ\nNA ENCRUZILHADA O CALDEIRÃO VAI FERVER }\nBOTA FOGO NA FUNDANGA FIRMA PONTO FAZ FEITIÇO\nSE EXÚ É QUIMBADEIRO NINGUÉM TEM NADA COM ISSO\nSETE CRUZES, SETE FACAS, SETE TUMBAS NUM CRUZEIRO\nÉ MAGIA DE EXÚ QUE PROTEGE ESTE TERREIRO\n{ HOJE TEM DENDÊ TEM FAROFA ATARÊ\nNA ENCRUZILHADA O CALDEIRÃO VAI FERVER }\nMEIA NOITE O GALO CANTA NA ÁRVORE A CORUJA PIA\nA DONA DA MADRUGADA É RAINHA É POMBOGIRA\nRODA A SAIA NA CALUNGA FAZ TODO MUNDO DANÇAR\nÉ O AXÉ DAS POMBOGIRAS QUE PROTEGE ESTE LUGAR\n{ HOJE TEM DENDÊ TEM FAROFA ATARÊ\nNA ENCRUZILHADA O CALDEIRÃO VAI FERVER }",
+    "toque": "Samba Cabula",
+    "lyrics": "39 - { HOJE TEM DENDÊ TEM FAROFA ATARÊ\nNA ENCRUZILHADA O CALDEIRÃO VAI FERVER }\nBOTA FOGO NA FUNDANGA FIRMA PONTO FAZ FEITIÇO\nSE EXÚ É QUIMBADEIRO NINGUÉM TEM NADA COM ISSO\nSETE CRUZES, SETE FACAS, SETE TUMBAS NUM CRUZEIRO\nÉ MAGIA DE EXÚ QUE PROTEGE ESTE TERREIRO\n{ HOJE TEM DENDÊ TEM FAROFA ATARÊ\nNA ENCRUZILHADA O CALDEIRÃO VAI FERVER }\nMEIA NOITE O GALO CANTA NA ÁRVORE A CORUJA PIA\nA DONA DA MADRUGADA É RAINHA É POMBOGIRA\nRODA A SAIA NA CALUNGA FAZ TODO MUNDO DANÇAR\nÉ O AXÉ DAS POMBOGIRAS QUE PROTEGE ESTE LUGAR\n{ HOJE TEM DENDÊ TEM FAROFA ATARÊ\nNA ENCRUZILHADA O CALDEIRÃO VAI FERVER }\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA HOJE TEM DENDÊ TEM FAROFA ATARÊ NA ENCRUZILHADA O CALDEIRÃO VAI FERVER",
     "video": {
       "id": "_Lcp4t34omk",
@@ -1081,8 +1081,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 41,
     "title": "QUE GARGALHADA É ESSA NA PORTA DO CEMITÉRIO É CATACUMBA AVISANDO",
-    "toque": "",
-    "lyrics": "41 - QUE GARGALHADA É ESSA NA PORTA DO CEMITÉRIO É CATACUMBA AVISANDO\nQUE OS QUIUMBAS ESTÃO CHEGANDO PEDE LICENÇA A OMULU\nPRA NA CALUNGA ENTRAR COM AS FORÇAS DE IANSÃ OS EGUNS CARREGAR\nELA É GUARDIÃ ELA É QUIMBANDEIRA PROTEGE A CALUNGA\nE NÃO É DE BRINCADEIRA QUERO VER NA CALUNGA VOCÊ ENTRAR\nSEM PELA SETE CATACUMBA PASSAR",
+    "toque": "Samba Cabula",
+    "lyrics": "41 - QUE GARGALHADA É ESSA NA PORTA DO CEMITÉRIO É CATACUMBA AVISANDO\nQUE OS QUIUMBAS ESTÃO CHEGANDO PEDE LICENÇA A OMULU\nPRA NA CALUNGA ENTRAR COM AS FORÇAS DE IANSÃ OS EGUNS CARREGAR\nELA É GUARDIÃ ELA É QUIMBANDEIRA PROTEGE A CALUNGA\nE NÃO É DE BRINCADEIRA QUERO VER NA CALUNGA VOCÊ ENTRAR\nSEM PELA SETE CATACUMBA PASSAR\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA QUE GARGALHADA É ESSA NA PORTA DO CEMITÉRIO É CATACUMBA AVISANDO QUE OS QUIUMBAS ESTÃO CHE",
     "video": {
       "id": "okcYYWENHXA",
@@ -1098,8 +1098,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 42,
     "title": "ABERTURA DA GIRA",
-    "toque": "",
-    "lyrics": "42 - Com licença da Umbanda >\nPra Quimbanda eu vou\nvirar >2x\nVou chamar todos os Exus\n>\nPara todo mal levar >2x\nOi, dá licença ê >\nOi, dá licença a >\nOi dá licença ê >\nPra firmar nosso Congá\n>2x\nDesci, desci, a Umbanda\nme chamou >2x\nNa minha banda sou maior\n>\nOxalá ainda é maior >2x",
+    "toque": "Congo",
+    "lyrics": "42 - Com licença da Umbanda >\nPra Quimbanda eu vou\nvirar >2x\nVou chamar todos os Exus\n>\nPara todo mal levar >2x\nOi, dá licença ê >\nOi, dá licença a >\nOi dá licença ê >\nPra firmar nosso Congá\n>2x\nDesci, desci, a Umbanda\nme chamou >2x\nNa minha banda sou maior\n>\nOxalá ainda é maior >2x\n\n(Toque: Congo)",
     "query": "ponto de umbanda ABERTURA DE GIRA Com licença da Umbanda Pra Quimbanda eu vou",
     "video": {
       "id": "86KA0XHtUJ4",
@@ -1115,8 +1115,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 43,
     "title": "FIRMEZA DO ORIENTE",
-    "toque": "",
-    "lyrics": "43 - Agora vem neste Terreiro\nA Linha do Oriente\nTrazendo o poder dos\nastros\nDa lua e do sol poente\nVem meu Pai Zartu, Xamãs\ne Pai Ori\nDas mães do Oriente\nMãe Kuan Yin eu vi ali\nVem Mestres de cura,\nsabedoria e clarividência.\nManipulam os elementos\nEm sua alma, fé e essência",
+    "toque": "Samba Cabula",
+    "lyrics": "43 - Agora vem neste Terreiro\nA Linha do Oriente\nTrazendo o poder dos\nastros\nDa lua e do sol poente\nVem meu Pai Zartu, Xamãs\ne Pai Ori\nDas mães do Oriente\nMãe Kuan Yin eu vi ali\nVem Mestres de cura,\nsabedoria e clarividência.\nManipulam os elementos\nEm sua alma, fé e essência\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA Agora vem neste Terreiro A Linha do Oriente",
     "video": {
       "id": "u2jS8xlEpkI",
@@ -1132,8 +1132,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 44,
     "title": "ANJO DA GUARDA",
-    "toque": "",
-    "lyrics": "44 - Lá no céu uma luz brilhou\nAnjos no terreiro eu chamei\nOh Deus, Oh Deus\nComo brilha bonito >\nO anjo que está em mim\n>2x\nSe Oxalá permitir\nQue venha meu anjo\nMe guarde meu anjo\nMe abençoe meu anjo\nMeu anjo da guarda\nMe guarde meu anjo\nMe abençoe meu anjo\nMeu anjo de luz",
+    "toque": "Congo de Ouro",
+    "lyrics": "44 - Lá no céu uma luz brilhou\nAnjos no terreiro eu chamei\nOh Deus, Oh Deus\nComo brilha bonito >\nO anjo que está em mim\n>2x\nSe Oxalá permitir\nQue venha meu anjo\nMe guarde meu anjo\nMe abençoe meu anjo\nMeu anjo da guarda\nMe guarde meu anjo\nMe abençoe meu anjo\nMeu anjo de luz\n\n(Toque: Congo de Ouro)",
     "query": "ponto de umbanda ABERTURA DE GIRA Lá no céu uma luz brilhou Anjos no terreiro eu chamei",
     "video": {
       "id": "PS8-EMGBI70",
@@ -1149,8 +1149,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 45,
     "title": "PISA NA UMBANDA, PISA DEVAGAR",
-    "toque": "",
-    "lyrics": "45 - PISA NA UMBANDA, PISA DEVAGAR\nAFIRMA O PENSAMENTO QUE É PRA NÃO TOMBAR\nPORQUE MÃE SEREIA RAINHA DO MAR\nELA PEGA OS PENSAMENTOS EM QUALQUER LUGAR\nJESUS CRISTO TAMBÉM FOI TRAÍDO PRATICANDO A CARIDADE NO MUNDO PERDIDO",
+    "toque": "Samba Cabula",
+    "lyrics": "45 - PISA NA UMBANDA, PISA DEVAGAR\nAFIRMA O PENSAMENTO QUE É PRA NÃO TOMBAR\nPORQUE MÃE SEREIA RAINHA DO MAR\nELA PEGA OS PENSAMENTOS EM QUALQUER LUGAR\nJESUS CRISTO TAMBÉM FOI TRAÍDO PRATICANDO A CARIDADE NO MUNDO PERDIDO\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA PISA NA UMBANDA, PISA DEVAGAR AFIRMA O PENSAMENTO QUE É PRA NÃO TOMBAR",
     "video": {
       "id": "vQVOEZw8J1I",
@@ -1166,8 +1166,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 46,
     "title": "ESSA CASA TEM QUATRO CANTOS, CADA CANTO TEM UM SANTO",
-    "toque": "",
-    "lyrics": "46 - { ESSA CASA TEM QUATRO CANTOS, CADA CANTO TEM UM SANTO\nONDE MORA O CÁLICE BENTO E O DIVINO ESPÍRITO SANTO }\n{ TUM, TUM, TUM, OLHA LÁ JESUS QUEM É\nEU JURO POR DEUS E AS ALMAS O INIMIGO CAI E EU FICO EM PÉ }",
+    "toque": "Samba Cabula",
+    "lyrics": "46 - { ESSA CASA TEM QUATRO CANTOS, CADA CANTO TEM UM SANTO\nONDE MORA O CÁLICE BENTO E O DIVINO ESPÍRITO SANTO }\n{ TUM, TUM, TUM, OLHA LÁ JESUS QUEM É\nEU JURO POR DEUS E AS ALMAS O INIMIGO CAI E EU FICO EM PÉ }\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA ESSA CASA TEM QUATRO CANTOS, CADA CANTO TEM UM SANTO ONDE MORA O CÁLICE BENTO E O DIVINO E",
     "video": {
       "id": "YebLk6mXGNY",
@@ -1183,8 +1183,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 47,
     "title": "BAIXAI, BAIXAI, OH! VIRGEM DA CONCEIÇÃO",
-    "toque": "",
-    "lyrics": "47 - BAIXAI, BAIXAI, OH! VIRGEM DA CONCEIÇÃO\nMARIA IMACULADA PRA RETIRAR AS PERTURBAÇÕES\nSE TIVERES MÁGOAS DE ALGUÉM DESDE JÁ SEJA RETIRADA\nLEVANDO PRO MAR ADENTRO, PARA AS ONDAS DO MAR SAGRADO",
+    "toque": "Samba Cabula",
+    "lyrics": "47 - BAIXAI, BAIXAI, OH! VIRGEM DA CONCEIÇÃO\nMARIA IMACULADA PRA RETIRAR AS PERTURBAÇÕES\nSE TIVERES MÁGOAS DE ALGUÉM DESDE JÁ SEJA RETIRADA\nLEVANDO PRO MAR ADENTRO, PARA AS ONDAS DO MAR SAGRADO\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA BAIXAI, BAIXAI, OH! VIRGEM DA CONCEIÇÃO MARIA IMACULADA PRA RETIRAR AS PERTURBAÇÕES",
     "video": {
       "id": "FVXvp5lBLiY",
@@ -1200,8 +1200,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 48,
     "title": "BATE A CABEÇA",
-    "toque": "",
-    "lyrics": "48 - Bate a cabeça filhos de\nUmbanda >\nBate a cabeça filhos de fé\n>2x\nPra você que é filho de\npemba >\nPra você que é filho de fé\n>2x\nEntão bata essa cabeça >\nE peça a Deus o que quiser\n>2x",
+    "toque": "Samba Cabula",
+    "lyrics": "48 - Bate a cabeça filhos de\nUmbanda >\nBate a cabeça filhos de fé\n>2x\nPra você que é filho de\npemba >\nPra você que é filho de fé\n>2x\nEntão bata essa cabeça >\nE peça a Deus o que quiser\n>2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA Bate a cabeça filhos de Umbanda",
     "video": {
       "id": "rwy5hdsSDiA",
@@ -1217,8 +1217,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 49,
     "title": "DESCARREGA DESCARREGA ESSE FILHO TEM PRECISÃO",
-    "toque": "",
-    "lyrics": "49 - DESCARREGA DESCARREGA ESSE FILHO TEM PRECISÃO\nMADALENA VEM EM SOCORRO LIMPAR TODA OBCESSÃO\nOGUM JÁ ESTÁ DE RONDA EXU DE PRONTIDÃO\n{ LEVA PRO MAR PROFUNDO TODA DOR E AFLIÇÃO }",
+    "toque": "Samba Cabula",
+    "lyrics": "49 - DESCARREGA DESCARREGA ESSE FILHO TEM PRECISÃO\nMADALENA VEM EM SOCORRO LIMPAR TODA OBCESSÃO\nOGUM JÁ ESTÁ DE RONDA EXU DE PRONTIDÃO\n{ LEVA PRO MAR PROFUNDO TODA DOR E AFLIÇÃO }\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA DESCARREGA DESCARREGA ESSE FILHO TEM PRECISÃO MADALENA VEM EM SOCORRO LIMPAR TODA OBCESSÃO",
     "video": {
       "id": "1UkhgEkGQ5o",
@@ -1234,8 +1234,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 50,
     "title": "FILHO DO UNIVERSO",
-    "toque": "",
-    "lyrics": "50 - Você é filho do Universo\nIrmão das estrelas e árvores\nVocê merece estar aqui\nE mesmo que você\nNão possa compreender\nA Terra e o Universo vão\ncumprindo\nO seu destino",
+    "toque": "Samba Cabula",
+    "lyrics": "50 - Você é filho do Universo\nIrmão das estrelas e árvores\nVocê merece estar aqui\nE mesmo que você\nNão possa compreender\nA Terra e o Universo vão\ncumprindo\nO seu destino\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA Você é filho do Universo Irmão das estrelas e árvores",
     "video": {
       "id": "pYdjY9Ph9E0",
@@ -1251,8 +1251,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE ABERTURA DE GIRA",
     "number": 51,
     "title": "A LUZ DO CRISTO CLAREOU O MUNDO INTEIRO } (3 VEZES",
-    "toque": "",
-    "lyrics": "51 - { A LUZ DO CRISTO CLAREOU O MUNDO INTEIRO } (3 VEZES)\nMEU FILHO AFIRMA NO CRISTO PORQUE O CRISTO É VERDADEIRO",
+    "toque": "Samba Cabula",
+    "lyrics": "51 - { A LUZ DO CRISTO CLAREOU O MUNDO INTEIRO } (3 VEZES)\nMEU FILHO AFIRMA NO CRISTO PORQUE O CRISTO É VERDADEIRO\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda ABERTURA DE GIRA A LUZ DO CRISTO CLAREOU O MUNDO INTEIRO (3 VEZES) MEU FILHO AFIRMA NO CRISTO PORQUE O CRIS",
     "video": {
       "id": "432O2xKn1Ao",
@@ -1387,8 +1387,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE DESCARREGO",
     "number": 8,
     "title": "Ogum bateu na terra, num",
-    "toque": "",
-    "lyrics": "8 - Ogum bateu na terra, num\nraio de Xangô\nToda poeira que sobrou\nOxum pra Aruanda levou\nLevou, levou\nLicença de Oxóssi ela\nganhou\nNa onda de Iemanjá\nIansã pro barravento de\nOxalá\nTudo levou, levou, levou.",
+    "toque": "Samba Cabula",
+    "lyrics": "8 - Ogum bateu na terra, num\nraio de Xangô\nToda poeira que sobrou\nOxum pra Aruanda levou\nLevou, levou\nLicença de Oxóssi ela\nganhou\nNa onda de Iemanjá\nIansã pro barravento de\nOxalá\nTudo levou, levou, levou.\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda DESCARREGO Ogum bateu na terra, num raio de Xangô",
     "video": {
       "id": "M70uKp6W0-A",
@@ -1557,8 +1557,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OXALÁ",
     "number": 10,
     "title": "Oxalá, seus filhos lhe",
-    "toque": "",
-    "lyrics": "10 - Oxalá, seus filhos lhe\npedem auxílio\nVinde a eles ajudar\nDerramai vossos olhos\npiedosos A estes filhos de\nfé",
+    "toque": "Congo de Ouro",
+    "lyrics": "10 - Oxalá, seus filhos lhe\npedem auxílio\nVinde a eles ajudar\nDerramai vossos olhos\npiedosos A estes filhos de\nfé\n\n(Toque: Congo de Ouro)",
     "query": "ponto de umbanda OXALÁ Oxalá, seus filhos lhe pedem auxílio",
     "video": {
       "id": "X9Bgij80hJI",
@@ -1610,7 +1610,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 3,
     "title": "Ogum cavaleiro da lua (Só ele navega no mar)",
-    "lyrics": "3 - Ogum cavaleiro da lua\nSó ele navega no mar\nSó ele navega no mar (2x)\nSó ele navega no mar, sereia",
+    "lyrics": "3 - Ogum cavaleiro da lua\nSó ele navega no mar\nSó ele navega no mar (2x)\nSó ele navega no mar, sereia\n\n(Toque: Samba Cabula)",
     "query": "ogum cavaleiro da lua (só ele navega no mar) patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -1622,7 +1622,7 @@ window.PONTOS_DATA = [
       "start": 1147,
       "startFormatted": "19:07"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE OGUM",
@@ -2377,8 +2377,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 48,
     "title": "Eu sou descendente zulu",
-    "toque": "",
-    "lyrics": "48 - Eu sou descendente zulu\nSou um soldado de Ogum\nUm devoto dessa imensa\nLegião de Jorge\nEu sincretizado na fé\nSou carregado de axé\nE protegido por um\ncavaleiro nobre\nSim vou à igreja\nFestejar meu protetor\nE agradecer\nPor eu ser mais um\nvencedor\nNas lutas nas batalhas\nSim vou ao terreiro\nPra bater o meu tambor\nBato cabeça, firmo ponto\nsim senhor\nEu canto pra Ogum\nOgum, um guerreiro\nvalente\nQue cuida da gente que\nsofre demais\nOgum, ele vem de Aruanda\nEle vence demanda de\ngente que faz\nOgum, cavaleiro do céu\nescudeiro fiel mensageiro\nda paz\nOgum, ele nunca balança\nEle pega na lança\nEle mata o dragão\nOgum, é quem da\nconfiança\nPra uma criança virar um\nleão\nOgum, é um mar de\nesperança\nQue traz a bonança pro\nmeu coração\nOgum",
+    "toque": "Congo",
+    "lyrics": "48 - Eu sou descendente zulu\nSou um soldado de Ogum\nUm devoto dessa imensa\nLegião de Jorge\nEu sincretizado na fé\nSou carregado de axé\nE protegido por um\ncavaleiro nobre\nSim vou à igreja\nFestejar meu protetor\nE agradecer\nPor eu ser mais um\nvencedor\nNas lutas nas batalhas\nSim vou ao terreiro\nPra bater o meu tambor\nBato cabeça, firmo ponto\nsim senhor\nEu canto pra Ogum\nOgum, um guerreiro\nvalente\nQue cuida da gente que\nsofre demais\nOgum, ele vem de Aruanda\nEle vence demanda de\ngente que faz\nOgum, cavaleiro do céu\nescudeiro fiel mensageiro\nda paz\nOgum, ele nunca balança\nEle pega na lança\nEle mata o dragão\nOgum, é quem da\nconfiança\nPra uma criança virar um\nleão\nOgum, é um mar de\nesperança\nQue traz a bonança pro\nmeu coração\nOgum\n\n(Toque: Congo)",
     "query": "ponto de umbanda OGUM Eu sou descendente zulu Sou um soldado de Ogum",
     "video": {
       "id": "CA5U62s_p2w",
@@ -2411,8 +2411,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 50,
     "title": "Eu escrevi um pedido na",
-    "toque": "",
-    "lyrics": "50 - Eu escrevi um pedido na\nareia>\nPedindo a Zambi pra vim\nme socorrer>\nEu escrevi um pedido na\nareia>\nMas foi mãe d'água quem\nveio me valer>2x\nE foi nas ondas do mar\nQue entreguei os meus\nproblemas\nE aprendi a confiar\nQue todo mal não dura para\nsempre\nE que a paz é uma semente\nque precisa semear\nE no horizonte do mar tão\ninfinito>\nIemanjá me acolheu>\nE meu deu um mundo tão\nmais bonito>\nEu abri meu coração>\nEla me estendeu a mão>\nE entreguei meu caminhar\na Iemanjá>2x",
+    "toque": "Samba de Angola",
+    "lyrics": "50 - Eu escrevi um pedido na\nareia>\nPedindo a Zambi pra vim\nme socorrer>\nEu escrevi um pedido na\nareia>\nMas foi mãe d'água quem\nveio me valer>2x\nE foi nas ondas do mar\nQue entreguei os meus\nproblemas\nE aprendi a confiar\nQue todo mal não dura para\nsempre\nE que a paz é uma semente\nque precisa semear\nE no horizonte do mar tão\ninfinito>\nIemanjá me acolheu>\nE meu deu um mundo tão\nmais bonito>\nEu abri meu coração>\nEla me estendeu a mão>\nE entreguei meu caminhar\na Iemanjá>2x\n\n(Toque: Samba de Angola)",
     "query": "ponto de umbanda OGUM Eu escrevi um pedido na areia",
     "video": {
       "id": "5SSouGpbPcs",
@@ -2445,8 +2445,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 52,
     "title": "Saravá São Jorge, Ogum",
-    "toque": "",
-    "lyrics": "52 - Saravá São Jorge, Ogum-\nnhê-ô >\nSaravá Ogum, Ogum-nhê-ô\n>2x\nÔ-ô, ô-ô, Ogum-nhê-ô >4x\nSalve Ogum Akuan,\nOgum-nhê-ô\nSalve Ogum Yara, Ogum-\nnhê-ô\nSalve Ogum Naruê, Ogum-\nnhê-ô\nE Seu Beira Mar, Ogum-\nnhê-ô\nÔ-ô, ô-ô, Ogum-nhê-ô >4x\nSalve Ogum de Lei, Ogum-\nnhê-ô\nSalve Ogum Nagô, Ogum-\nnhê-ô\nSalve Ogum Megê, Ogum-\nnhê-ô\nE seu Matinata, Ogum-nhê-\nô\nÔ-ô, ô-ô, Ogum-nhê-ô >4x",
+    "toque": "Samba de Angola",
+    "lyrics": "52 - Saravá São Jorge, Ogum-\nnhê-ô >\nSaravá Ogum, Ogum-nhê-ô\n>2x\nÔ-ô, ô-ô, Ogum-nhê-ô >4x\nSalve Ogum Akuan,\nOgum-nhê-ô\nSalve Ogum Yara, Ogum-\nnhê-ô\nSalve Ogum Naruê, Ogum-\nnhê-ô\nE Seu Beira Mar, Ogum-\nnhê-ô\nÔ-ô, ô-ô, Ogum-nhê-ô >4x\nSalve Ogum de Lei, Ogum-\nnhê-ô\nSalve Ogum Nagô, Ogum-\nnhê-ô\nSalve Ogum Megê, Ogum-\nnhê-ô\nE seu Matinata, Ogum-nhê-\nô\nÔ-ô, ô-ô, Ogum-nhê-ô >4x\n\n(Toque: Samba de Angola)",
     "query": "ponto de umbanda OGUM Saravá São Jorge, Ogum- nhê-ô",
     "video": {
       "id": "qzk2n7cDVK0",
@@ -2479,8 +2479,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 54,
     "title": "O Sol brilha na cachoeira",
-    "toque": "",
-    "lyrics": "54 - O Sol brilha na cachoeira\nE a Lua brilha no mar\nLua reflete nela, e faz ela\ncantar\nSol aquece ela, a filha do\ncantuá\nSe a noite é das estrelas\nO dia faz a gente pensar\nQue a Lua é da sereia\nE o Sol pra quem cedo\nacordar\nOraieieu, Adociá\nOraieieu, mamãe Oxum,\nIemanjá\nOraieieu, Adociá, salve a\nsereia mãe Oxum do\ncantuá!",
+    "toque": "Congo de Ouro",
+    "lyrics": "54 - O Sol brilha na cachoeira\nE a Lua brilha no mar\nLua reflete nela, e faz ela\ncantar\nSol aquece ela, a filha do\ncantuá\nSe a noite é das estrelas\nO dia faz a gente pensar\nQue a Lua é da sereia\nE o Sol pra quem cedo\nacordar\nOraieieu, Adociá\nOraieieu, mamãe Oxum,\nIemanjá\nOraieieu, Adociá, salve a\nsereia mãe Oxum do\ncantuá!\n\n(Toque: Congo de Ouro)",
     "query": "ponto de umbanda OGUM O Sol brilha na cachoeira E a Lua brilha no mar",
     "video": {
       "id": "dj8Zt7Xh7eM",
@@ -2496,8 +2496,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 55,
     "title": "OGUM DO ORIENTE",
-    "toque": "",
-    "lyrics": "55 - Uma estrela clareou lá no\ncéu Uma estrela clareou lá\nno mar\nUma estrela clareou o\nmundo inteiro, meu Pai\nUma estrela tomou conta\ndo Congá\nE aí vem S. Ogum lá do\noriente\nCom sua espada vem\ncortando todo o mal\nE aqui estão os seus filhos\nda corrente, meu Pai >\nTrabalhando para o bem\ndeste Congá >2x",
+    "toque": "Samba Cabula",
+    "lyrics": "55 - Uma estrela clareou lá no\ncéu Uma estrela clareou lá\nno mar\nUma estrela clareou o\nmundo inteiro, meu Pai\nUma estrela tomou conta\ndo Congá\nE aí vem S. Ogum lá do\noriente\nCom sua espada vem\ncortando todo o mal\nE aqui estão os seus filhos\nda corrente, meu Pai >\nTrabalhando para o bem\ndeste Congá >2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda OGUM Uma estrela clareou lá no céu Uma estrela clareou lá",
     "video": {
       "id": "mfwlangtshA",
@@ -2615,8 +2615,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 62,
     "title": "Quando eu não tinha mais",
-    "toque": "",
-    "lyrics": "62 - Quando eu não tinha mais\nnada\nQuando eu chegava ao fim\nQuando eu não acreditava\nEu pedi meu pai Ogum\nPra vim aqui lutar por mim\nÔ lua de prata>\nClareia sobre mim>\nEu sou filho de Ogum >\nE não posso viver\nassim>2x",
+    "toque": "Samba Cabula",
+    "lyrics": "62 - Quando eu não tinha mais\nnada\nQuando eu chegava ao fim\nQuando eu não acreditava\nEu pedi meu pai Ogum\nPra vim aqui lutar por mim\nÔ lua de prata>\nClareia sobre mim>\nEu sou filho de Ogum >\nE não posso viver\nassim>2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda OGUM Quando eu não tinha mais nada",
     "video": {
       "id": "jPNYhlBpXOo",
@@ -2649,8 +2649,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 64,
     "title": "OGUM NARUÊ",
-    "toque": "",
-    "lyrics": "64 - Magia, magia que faz o\nmeu corpo tremer\nMagia, magia que chega\nem silêncio\nSem a gente ver\nÉ o Senhor Ogum\nÉ o rei da magia que vem\nnos socorrer\nÉ o Senhor Ogum\nQuem vence a magia é\nOgum Naruê Ogunhê",
+    "toque": "Samba de Angola",
+    "lyrics": "64 - Magia, magia que faz o\nmeu corpo tremer\nMagia, magia que chega\nem silêncio\nSem a gente ver\nÉ o Senhor Ogum\nÉ o rei da magia que vem\nnos socorrer\nÉ o Senhor Ogum\nQuem vence a magia é\nOgum Naruê Ogunhê\n\n(Toque: Samba de Angola)",
     "query": "ponto de umbanda OGUM Magia, magia que faz o meu corpo tremer",
     "video": {
       "id": "usjw7oer7i8",
@@ -2666,8 +2666,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OGUM",
     "number": 65,
     "title": "OGUM DE CARIRI",
-    "toque": "",
-    "lyrics": "65 - No horizonte raiou\nUma luz que veio aqui\nMeu Deus, Meu Deus,\nquem será?\nÉ Ogum de Cariri >4x\nSete dias da semana\nSete velas acendi\nRezei e fiz meu pedido\nAo Ogum de Cariri\nÉ Ogum de Cariri >4x",
+    "toque": "Samba de Angola",
+    "lyrics": "65 - No horizonte raiou\nUma luz que veio aqui\nMeu Deus, Meu Deus,\nquem será?\nÉ Ogum de Cariri >4x\nSete dias da semana\nSete velas acendi\nRezei e fiz meu pedido\nAo Ogum de Cariri\nÉ Ogum de Cariri >4x\n\n(Toque: Samba de Angola)",
     "query": "ponto de umbanda OGUM No horizonte raiou Uma luz que veio aqui",
     "video": {
       "id": "CvZ-dKAJls4",
@@ -3789,8 +3789,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IANSÃ",
     "number": 13,
     "title": "IANSÃ DE BALE",
-    "toque": "",
-    "lyrics": "13 - Meu pai, que barulho é\nesse>\nQue vem lá do\nbambuzal>2x\nÉ Iansã de Baile>\nOi dando o Ilá para\nguerrear>2x\nO seu bailar é como\nventania\nSeu grito e forte como um\ntrovão\nSarava bela Iansã\nE só Egun que fica no chão\nNa mão direita traz sua\nespada Na mão esquerda\nseu Patakoto\nCoroada com seu Adê\nFoi Omolu quem te\nconsagrou (ô, ô, ô, ô)\nMeu pai, que barulho é\nesse>\nQue vem lá do\nbambuzal>2x\nÉ Iansã de Baile>\nOi dando o Ilá para\nguerrear>2x\nTem o poder da feitiçaria\nNão teme nada, nem a\nninguém\nE guerreira e poderosa\nQuem leva as almas para o\nalém\nEla é rainha do meu Ilê\nQuem traz a força e nos dá\naxé\nVamos todos cantar juntos\nPara saudar Iansã com fé",
+    "toque": "Barravento",
+    "lyrics": "13 - Meu pai, que barulho é\nesse>\nQue vem lá do\nbambuzal>2x\nÉ Iansã de Baile>\nOi dando o Ilá para\nguerrear>2x\nO seu bailar é como\nventania\nSeu grito e forte como um\ntrovão\nSarava bela Iansã\nE só Egun que fica no chão\nNa mão direita traz sua\nespada Na mão esquerda\nseu Patakoto\nCoroada com seu Adê\nFoi Omolu quem te\nconsagrou (ô, ô, ô, ô)\nMeu pai, que barulho é\nesse>\nQue vem lá do\nbambuzal>2x\nÉ Iansã de Baile>\nOi dando o Ilá para\nguerrear>2x\nTem o poder da feitiçaria\nNão teme nada, nem a\nninguém\nE guerreira e poderosa\nQuem leva as almas para o\nalém\nEla é rainha do meu Ilê\nQuem traz a força e nos dá\naxé\nVamos todos cantar juntos\nPara saudar Iansã com fé\n\n(Toque: Barravento)",
     "query": "ponto de umbanda IANSÃ Meu pai, que barulho é esse",
     "video": {
       "id": "JjOJm7pbPxk",
@@ -3925,8 +3925,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IANSÃ",
     "number": 21,
     "title": "Em sete linhas de Umbanda",
-    "toque": "",
-    "lyrics": "21 - Em sete linhas de Umbanda\nTem uma força maior\nO nosso pai Oxalá\nSalve nosso protetor\nNo seu reino iluminado\nExiste paz e amor\nOxalá meu pai, Oxalá meu\npai Quem tem sua proteção\nBalança mais não cai\nOxalá meu pai, Oxalá meu\npai\nA sua força é maior\nFilho de Umbanda não cai",
+    "toque": "Congo de Ouro",
+    "lyrics": "21 - Em sete linhas de Umbanda\nTem uma força maior\nO nosso pai Oxalá\nSalve nosso protetor\nNo seu reino iluminado\nExiste paz e amor\nOxalá meu pai, Oxalá meu\npai Quem tem sua proteção\nBalança mais não cai\nOxalá meu pai, Oxalá meu\npai\nA sua força é maior\nFilho de Umbanda não cai\n\n(Toque: Congo de Ouro)",
     "query": "ponto de umbanda IANSÃ Em sete linhas de Umbanda Tem uma força maior",
     "video": {
       "id": "IekmUaCIZnc",
@@ -4044,8 +4044,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IANSÃ",
     "number": 28,
     "title": "Mas olha o vento",
-    "toque": "",
-    "lyrics": "28 - Mas olha o vento >3x\nOlha o vento virou >2x\nVentou, ai que ventania\n>2x\nIansã é a virgem mãe >\nSanta Bárbara é a nossa\nguia >2x",
+    "toque": "Samba Cabula",
+    "lyrics": "28 - Mas olha o vento >3x\nOlha o vento virou >2x\nVentou, ai que ventania\n>2x\nIansã é a virgem mãe >\nSanta Bárbara é a nossa\nguia >2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda IANSÃ Mas olha o vento Olha o vento virou",
     "video": {
       "id": "CS3VuIrWnck",
@@ -4078,8 +4078,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IANSÃ",
     "number": 30,
     "title": "Oiá tete oiá tete Oiá  2x",
-    "toque": "",
-    "lyrics": "30 - Oiá tete oiá tete Oiá > 2x\nO que é que eu dou pra\nIansã\nO que é que eu dou pra\nminha Oiá",
+    "toque": "Congo",
+    "lyrics": "30 - Oiá tete oiá tete Oiá > 2x\nO que é que eu dou pra\nIansã\nO que é que eu dou pra\nminha Oiá\n\n(Toque: Congo)",
     "query": "ponto de umbanda IANSÃ Oiá tete oiá tete Oiá 2x O que é que eu dou pra",
     "video": {
       "id": "buLr-_V5w40",
@@ -4095,8 +4095,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IANSÃ",
     "number": 31,
     "title": "Deim, deim, mas elas vão",
-    "toque": "",
-    "lyrics": "31 - Deim, deim, mas elas vão\nbeirando mar >2x\nIansã já vai embora\nE elas vão beirando mar",
+    "toque": "Barra",
+    "lyrics": "31 - Deim, deim, mas elas vão\nbeirando mar >2x\nIansã já vai embora\nE elas vão beirando mar\n\n(Toque: Barra)",
     "query": "ponto de umbanda IANSÃ Deim, deim, mas elas vão beirando mar",
     "video": {
       "id": "Zwkl6yKUqO0",
@@ -4112,8 +4112,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IANSÃ",
     "number": 32,
     "title": "Oh, Iansã menina",
-    "toque": "",
-    "lyrics": "32 - Oh, Iansã menina\nÉ do cabelo longos\nSua espada é de prata\nSua coroa é de ouro",
+    "toque": "Samba Cabula",
+    "lyrics": "32 - Oh, Iansã menina\nÉ do cabelo longos\nSua espada é de prata\nSua coroa é de ouro\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda IANSÃ Oh, Iansã menina É do cabelo longos",
     "video": {
       "id": "R8ofsRUqmnQ",
@@ -4129,8 +4129,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IANSÃ",
     "number": 33,
     "title": "O vento que te trouxe",
-    "toque": "",
-    "lyrics": "33 - O vento que te trouxe\nÉ que te leva para o mar\nAuê, auê, auê\nMamãe Iansã",
+    "toque": "Samba Cabula",
+    "lyrics": "33 - O vento que te trouxe\nÉ que te leva para o mar\nAuê, auê, auê\nMamãe Iansã\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda IANSÃ O vento que te trouxe É que te leva para o mar",
     "video": {
       "id": "tNzCfXPN7Jg",
@@ -4452,8 +4452,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OXUM",
     "number": 19,
     "title": "Nuvem de poeira d’água",
-    "toque": "",
-    "lyrics": "19 - Nuvem de poeira d’água >\nQue sai da cascata da\nDeusa Oxum >2x\nBeleza pura, limpa e\ncristalina\nEssa Deusa menina\nCom perfume da flor\nEncanto doce da natureza\nInspira riqueza, vaidade e\namor, ora aieiêo\nNuvem de poeira... >2x\nQuando se banha na beira\ndo rio O sol irradia energia\ne calor Dona do ouro\nDeusa poderosa\nPedra preciosa cheia de\nesplendor, ora aieiêo",
+    "toque": "Ijexá",
+    "lyrics": "19 - Nuvem de poeira d’água >\nQue sai da cascata da\nDeusa Oxum >2x\nBeleza pura, limpa e\ncristalina\nEssa Deusa menina\nCom perfume da flor\nEncanto doce da natureza\nInspira riqueza, vaidade e\namor, ora aieiêo\nNuvem de poeira... >2x\nQuando se banha na beira\ndo rio O sol irradia energia\ne calor Dona do ouro\nDeusa poderosa\nPedra preciosa cheia de\nesplendor, ora aieiêo\n\n(Toque: Ijexá)",
     "query": "ponto de umbanda OXUM Nuvem de poeira d’água Que sai da cascata da",
     "video": {
       "id": "57HxdXlxAtc",
@@ -4486,8 +4486,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OXUM",
     "number": 21,
     "title": "PONTOS INDIVIDUAIS OXUM MENINA",
-    "toque": "",
-    "lyrics": "21 - Brilhou a estrela matutina\nRolaram pedras de Xangô\nQuem será essa menina\nQue a Lua iluminou\nCanta no clarão da Lua\nDança no calor do Sol\nTodo o ouro se ilumina\nPra saudar Oxum menina\nOxum é mãe maior\nSaravá Oxum menina\nOxum é mãe maior\nSaravá\nÔ, Ô\nOxum aiêiêô>4x",
+    "toque": "Ijexá",
+    "lyrics": "21 - Brilhou a estrela matutina\nRolaram pedras de Xangô\nQuem será essa menina\nQue a Lua iluminou\nCanta no clarão da Lua\nDança no calor do Sol\nTodo o ouro se ilumina\nPra saudar Oxum menina\nOxum é mãe maior\nSaravá Oxum menina\nOxum é mãe maior\nSaravá\nÔ, Ô\nOxum aiêiêô>4x\n\n(Toque: Ijexá)",
     "query": "ponto de umbanda OXUM Brilhou a estrela matutina Rolaram pedras de Xangô",
     "video": {
       "id": "XwcdBSN4Ecw",
@@ -4537,8 +4537,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OXUM",
     "number": 24,
     "title": "Mãe d’água sereia odoiá",
-    "toque": "",
-    "lyrics": "24 - Mãe d’água sereia odoiá\nIara venha nos valer\nIara mãe d’água odoiá\nOiáee\nSereia venha nos valer\nOnde fica o outro lado >\nOra aieieô >\nOnde é o lado de lá >\nOra aieieô> 2x",
+    "toque": "Samba Cabula",
+    "lyrics": "24 - Mãe d’água sereia odoiá\nIara venha nos valer\nIara mãe d’água odoiá\nOiáee\nSereia venha nos valer\nOnde fica o outro lado >\nOra aieieô >\nOnde é o lado de lá >\nOra aieieô> 2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda OXUM Mãe d’água sereia odoiá Iara venha nos valer",
     "video": {
       "id": "YXdaM-3EAy8",
@@ -4554,8 +4554,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OXUM",
     "number": 25,
     "title": "O sobrado de mamãe é de",
-    "toque": "",
-    "lyrics": "25 - O sobrado de mamãe é de\nbaixo d´água>2x\nÉ de baixo da água, por\ncima da areia\nTêm ouro, tem prata>\nTem diamante que nos\nalumêia>2x",
+    "toque": "Samba Cabula",
+    "lyrics": "25 - O sobrado de mamãe é de\nbaixo d´água>2x\nÉ de baixo da água, por\ncima da areia\nTêm ouro, tem prata>\nTem diamante que nos\nalumêia>2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda OXUM O sobrado de mamãe é de baixo d´água",
     "video": {
       "id": "fNrYmerQu94",
@@ -4571,8 +4571,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OXUM",
     "number": 26,
     "title": "Cinda mamãe o cindé",
-    "toque": "",
-    "lyrics": "26 - Cinda mamãe o cindé>\nOlha cinda é da Cobra\ncoral>\nCinda o mamãe o cindé>\nOlha cinda como cinda\né>2x",
+    "toque": "Samba Cabula",
+    "lyrics": "26 - Cinda mamãe o cindé>\nOlha cinda é da Cobra\ncoral>\nCinda o mamãe o cindé>\nOlha cinda como cinda\né>2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda OXUM Cinda mamãe o cindé Olha cinda é da Cobra",
     "video": {
       "id": "2p90kDFZpqM",
@@ -4588,8 +4588,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OXUM",
     "number": 27,
     "title": "Mamãe Oxum",
-    "toque": "",
-    "lyrics": "27 - Mamãe Oxum\nSalve a banda da senhora\nMamãe Oxum\nAieiê já vai embora",
+    "toque": "Samba Cabula",
+    "lyrics": "27 - Mamãe Oxum\nSalve a banda da senhora\nMamãe Oxum\nAieiê já vai embora\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda OXUM Mamãe Oxum Salve a banda da senhora",
     "video": {
       "id": "PZgm4Hitx-Q",
@@ -4605,7 +4605,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IEMANJÁ",
     "number": 1,
     "title": "No fundo do mar tem pedra (Onde mora Iemanjá)",
-    "lyrics": "1 - No fundo do mar tem pedra\nDebaixo da pedra tem areia\nOnde mora Iemanjá, minha mãe, minha sereia\nTem areia, tem areia, tem areia, no fundo do mar tem areia",
+    "lyrics": "1 - No fundo do mar tem pedra\nDebaixo da pedra tem areia\nOnde mora Iemanjá, minha mãe, minha sereia\nTem areia, tem areia, tem areia, no fundo do mar tem areia\n\n(Toque: Samba Cabula)",
     "query": "no fundo do mar tem pedra (onde mora iemanjá) patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -4617,13 +4617,13 @@ window.PONTOS_DATA = [
       "start": 401,
       "startFormatted": "06:41"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE IEMANJÁ",
     "number": 2,
     "title": "Oh é mamãe quem cuida de mim (Sereia dança na areia)",
-    "lyrics": "2 - Oh é mamãe quem cuida de mim\nOh é mamãe que de mim sabe cuidar\nOh é mamãe que dança na areia, que dança\nE mora no fundo do mar\nSereia, sereia, dança na areia, mora no fundo do mar\n(Autoral Mestre Marisco)",
+    "lyrics": "2 - Oh é mamãe quem cuida de mim\nOh é mamãe que de mim sabe cuidar\nOh é mamãe que dança na areia, que dança\nE mora no fundo do mar\nSereia, sereia, dança na areia, mora no fundo do mar\n(Autoral Mestre Marisco)\n\n(Toque: Samba Cabula)",
     "query": "oh é mamãe quem cuida de mim (sereia dança na areia) patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -4635,13 +4635,13 @@ window.PONTOS_DATA = [
       "start": 171,
       "startFormatted": "02:51"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE IEMANJÁ",
     "number": 3,
     "title": "Eu estava na beira da praia vendo o balanço do mar (Iemanjá)",
-    "lyrics": "3 - Eu estava na beira da praia\nVendo o balanço do mar (2x)\nVi o retrato de Iemanjá na areia,\nComo é lindo o canto da Mamãe Sereia",
+    "lyrics": "3 - Eu estava na beira da praia\nVendo o balanço do mar (2x)\nVi o retrato de Iemanjá na areia,\nComo é lindo o canto da Mamãe Sereia\n\n(Toque: Ijexá)",
     "query": "eu estava na beira da praia vendo o balanço do mar (iemanjá) patrik na voz",
     "video": {
       "id": "vpzsggd5lkg",
@@ -4652,7 +4652,7 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Ijexá"
   },
   {
     "category": "PONTOS DE IEMANJÁ",
@@ -4930,8 +4930,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IEMANJÁ",
     "number": 20,
     "title": "PENA BRANCA",
-    "toque": "",
-    "lyrics": "20 - Que lindo brado\nEu ouvi naquela aldeia\nNaquela aldeia numa noite\nde luar\nEra um caboclo que vinha\nchegando\nCom sua flecha, seu\nbodoque\nE seu cocar\nMas ele veio num clarão da\nlua Iluminado por Pai\nOxalá\nEle é caboclo, ele é\nguerreiro\nEle é Pena Branca\nEle é o rei do panaiá",
+    "toque": "Samba Cabula",
+    "lyrics": "20 - Que lindo brado\nEu ouvi naquela aldeia\nNaquela aldeia numa noite\nde luar\nEra um caboclo que vinha\nchegando\nCom sua flecha, seu\nbodoque\nE seu cocar\nMas ele veio num clarão da\nlua Iluminado por Pai\nOxalá\nEle é caboclo, ele é\nguerreiro\nEle é Pena Branca\nEle é o rei do panaiá\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda IEMANJÁ Que lindo brado Eu ouvi naquela aldeia",
     "video": {
       "id": "1hGvTRSV8QE",
@@ -4947,8 +4947,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IEMANJÁ",
     "number": 21,
     "title": "MATA VIRGEM",
-    "toque": "",
-    "lyrics": "21 - Seu Mata Virgem vem\nchegando agora\nEle vem para trabalhar\nSeu Mata Virgem vem de\nAruanda>\nFirmar seu ponto nesse\nCongá>2x\nEle vem com a força da\nJurema\nEle vem do seu Juremá\nSeu Mata Virgem chegou\nagora>\nE vai a todos abençoar>2x",
+    "toque": "Ijexá",
+    "lyrics": "21 - Seu Mata Virgem vem\nchegando agora\nEle vem para trabalhar\nSeu Mata Virgem vem de\nAruanda>\nFirmar seu ponto nesse\nCongá>2x\nEle vem com a força da\nJurema\nEle vem do seu Juremá\nSeu Mata Virgem chegou\nagora>\nE vai a todos abençoar>2x\n\n(Toque: Ijexá)",
     "query": "ponto de umbanda IEMANJÁ Seu Mata Virgem vem chegando agora",
     "video": {
       "id": "XB2cFzx62bc",
@@ -4964,8 +4964,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IEMANJÁ",
     "number": 22,
     "title": "MATA VIRGEM",
-    "toque": "",
-    "lyrics": "22 - Caboclo da mata virgem>\nDa mata serrada>\nLá na Juremá>2x\nQuem manda na mata é\nOxossi>\nQuem manda no céu é\nOxalá>2x\nOkê, caboclo, quero ver\ngirar>\nQuero ver caboclo de\nUmbanda arriar>2x",
+    "toque": "Samba Cabula",
+    "lyrics": "22 - Caboclo da mata virgem>\nDa mata serrada>\nLá na Juremá>2x\nQuem manda na mata é\nOxossi>\nQuem manda no céu é\nOxalá>2x\nOkê, caboclo, quero ver\ngirar>\nQuero ver caboclo de\nUmbanda arriar>2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda IEMANJÁ Caboclo da mata virgem Da mata serrada",
     "video": {
       "id": "gOwjqu8_pbg",
@@ -4981,8 +4981,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IEMANJÁ",
     "number": 23,
     "title": "FOLHA VERDE",
-    "toque": "",
-    "lyrics": "23 - Seu Folha Verde\nVem descendo a serra\nSeu Folha Verde vem do\nJuremá\nSeu Folha Verde com seu\ncapacete\nNa Aruanda, oi pisa na\nUmbanda ê ê",
+    "toque": "Samba Cabula",
+    "lyrics": "23 - Seu Folha Verde\nVem descendo a serra\nSeu Folha Verde vem do\nJuremá\nSeu Folha Verde com seu\ncapacete\nNa Aruanda, oi pisa na\nUmbanda ê ê\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda IEMANJÁ Seu Folha Verde Vem descendo a serra",
     "video": {
       "id": "-RFLznR2ee8",
@@ -4998,8 +4998,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IEMANJÁ",
     "number": 24,
     "title": "PONTOS INDIVIDUAIS FLECHA DE OURO",
-    "toque": "",
-    "lyrics": "24 - Caboclo vai, Caboclo vem\n>\nCaboclo Flecha de Ouro é\nquem vem >2x\nMas ele é o caboclo da\nmata >\nÉ Flecha de Ouro que vem\n>2x",
+    "toque": "Samba Cabula",
+    "lyrics": "24 - Caboclo vai, Caboclo vem\n>\nCaboclo Flecha de Ouro é\nquem vem >2x\nMas ele é o caboclo da\nmata >\nÉ Flecha de Ouro que vem\n>2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda IEMANJÁ Caboclo vai, Caboclo vem Caboclo Flecha de Ouro é",
     "video": {
       "id": "o08tWDO8l8k",
@@ -5015,8 +5015,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IEMANJÁ",
     "number": 25,
     "title": "PENA BRANCA",
-    "toque": "",
-    "lyrics": "25 - Seu Pena Branca puxa a\ncurimba\nSua banda mandou chamar\nTrabalha Seu Pena Branca\nPra todo o mal de seus\nfilhos levar",
+    "toque": "Samba Cabula",
+    "lyrics": "25 - Seu Pena Branca puxa a\ncurimba\nSua banda mandou chamar\nTrabalha Seu Pena Branca\nPra todo o mal de seus\nfilhos levar\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda IEMANJÁ Seu Pena Branca puxa a curimba",
     "video": {
       "id": "-ZxmwWBOrHQ",
@@ -5032,8 +5032,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE IEMANJÁ",
     "number": 26,
     "title": "A onda do mar rolou",
-    "toque": "",
-    "lyrics": "26 - A onda do mar rolou>\nA onda do mar rolou>2x\nOs filhos de Iemanjá>\nA onda do mar levou>2x",
+    "toque": "Ijexá",
+    "lyrics": "26 - A onda do mar rolou>\nA onda do mar rolou>2x\nOs filhos de Iemanjá>\nA onda do mar levou>2x\n\n(Toque: Ijexá)",
     "query": "ponto de umbanda IEMANJÁ A onda do mar rolou A onda do mar rolou",
     "video": {
       "id": "8u90J1IzZ7M",
@@ -5202,8 +5202,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE NANÃ",
     "number": 10,
     "title": "NANÃ BURUQUE",
-    "toque": "",
-    "lyrics": "10 - Me lava Nanã me lava>\nCom suas águas Nanã\nsagradas>2x\nLave meus olhos para que\neu possa ver\nA luz divina dos meus\nguias a me proteger\nLave meus ouvidos para\nque eu possa ouvir\nOs ensinamentos de bons\ncaminhos a seguir\nLave minha boca para que\neu possa dizer\nMensagens de amor a quem\nprecisa receber\nLave Nanã o meu coração\nencha ele de alegria>\nE retire a aflição..>2x\nO Nanã Buruquê\nAs suas águas me dão\nforças pra vencer\nO Nanã Buruquê\nQuero em sua águas uma\nbenção receber",
+    "toque": "Samba Cabula",
+    "lyrics": "10 - Me lava Nanã me lava>\nCom suas águas Nanã\nsagradas>2x\nLave meus olhos para que\neu possa ver\nA luz divina dos meus\nguias a me proteger\nLave meus ouvidos para\nque eu possa ouvir\nOs ensinamentos de bons\ncaminhos a seguir\nLave minha boca para que\neu possa dizer\nMensagens de amor a quem\nprecisa receber\nLave Nanã o meu coração\nencha ele de alegria>\nE retire a aflição..>2x\nO Nanã Buruquê\nAs suas águas me dão\nforças pra vencer\nO Nanã Buruquê\nQuero em sua águas uma\nbenção receber\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda NANÃ Me lava Nanã me lava Com suas águas Nanã",
     "video": {
       "id": "dLKRyS8uNO8",
@@ -5264,6 +5264,23 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00",
       "url": "https://www.youtube.com/watch?v=gGG6iQEf-Hw"
+    }
+  },
+  {
+    "category": "PONTOS DE NANÃ",
+    "number": 14,
+    "title": "Sou de Nanã Ewá (Cordeiro de Nanã)",
+    "toque": "Ijexá",
+    "lyrics": "14 - [refrão]\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\n[/refrão]\n\nFui chamado de cordeiro, mas não sou cordeiro não\nPreferi ficar calado que falar e levar não\nO meu silêncio é uma singela oração\nA minha santa de fé\n\nMeu cantar (meu cantar)\nVibram as forças que sustentam o meu viver (meu viver)\nMeu cantar (meu cantar)\nÉ um apelo que eu faço a Nanã ê\n\n[refrão]\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\n[/refrão]\n\nO que peço no momento é silêncio e atenção\nQuero contar o sofrimento que eu passei sem razão\nO meu lamento se criou na escravidão\nQue forçado passei\n\nEu chorei (eu chorei)\nSofri as duras dores da humilhação (humilhação)\nMas ganhei, pois eu trazia Nanã ê no coração\n\n[refrão]\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\nSou de Nanã, euá, euá, euá, ê\n[/refrão]\n\n(Toque: Ijexá)",
+    "query": "sou de nanã eua atabaque",
+    "video": {
+      "id": "l5A2VCcjql4",
+      "title": "Sou de Nanã Ewá",
+      "channel": "Vitorinha de Oxum",
+      "length": "3:10",
+      "start": 0,
+      "startFormatted": "00:00",
+      "url": "https://www.youtube.com/watch?v=l5A2VCcjql4"
     }
   },
   {
@@ -5562,8 +5579,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OBALUAÊ / OMOLU",
     "number": 18,
     "title": "PONTO DO SEU OMOLU",
-    "toque": "",
-    "lyrics": "18 - Ele é um velho é muito\nvelho>\nEle carrega as palhas na\nmão >2x\nEle veio do céu, pra dentro\nda terra\nÉ força sagrada, que nos\ngoverna\nOrixá das palhas\nOrixá da dor\nOrixá da cura\nOrixá do amor\nEle é um velho, é muito\nvelho>\nEle carrega as palhas na\nmão>2x\nVou fazer um tapete de\ndoború.\nPara oferecer a Seu Omulu.\nE na casa santa vou\nentregar\nVou pedir a proteção deste\ngrande Orixá\nEle é um velho, é muito\nvelho>\nEle carrega as palhas na\nmão>2x",
+    "toque": "Samba Cabula",
+    "lyrics": "18 - Ele é um velho é muito\nvelho>\nEle carrega as palhas na\nmão >2x\nEle veio do céu, pra dentro\nda terra\nÉ força sagrada, que nos\ngoverna\nOrixá das palhas\nOrixá da dor\nOrixá da cura\nOrixá do amor\nEle é um velho, é muito\nvelho>\nEle carrega as palhas na\nmão>2x\nVou fazer um tapete de\ndoború.\nPara oferecer a Seu Omulu.\nE na casa santa vou\nentregar\nVou pedir a proteção deste\ngrande Orixá\nEle é um velho, é muito\nvelho>\nEle carrega as palhas na\nmão>2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda OBALUAÊ Ele é um velho é muito velho",
     "video": {
       "id": "F8hqSR5e0cE",
@@ -5579,8 +5596,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE OBALUAÊ / OMOLU",
     "number": 19,
     "title": "Um passarinho cantava",
-    "toque": "",
-    "lyrics": "19 - Um passarinho cantava\nE de repente ele voou, voou\nMas era um velho\ncaminhando pela estrada >\nSeu Omolu, atotô >2x",
+    "toque": "Ijexá",
+    "lyrics": "19 - Um passarinho cantava\nE de repente ele voou, voou\nMas era um velho\ncaminhando pela estrada >\nSeu Omolu, atotô >2x\n\n(Toque: Ijexá)",
     "query": "ponto de umbanda OBALUAÊ Um passarinho cantava E de repente ele voou, voou",
     "video": {
       "id": "GQOcsPphHEI",
@@ -5613,7 +5630,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 1,
     "title": "Eu vou chamar os meus caboclos na aldeia pra trabalhar",
-    "lyrics": "1 - Eu vou chamar os meus caboclos na aldeia para trabalhar,\nJanaína canta na areia e a sereia no fundo do mar,\nMacumba êêêê,\nMacumba êêêá (2x)",
+    "lyrics": "1 - Eu vou chamar os meus caboclos na aldeia para trabalhar,\nJanaína canta na areia e a sereia no fundo do mar,\nMacumba êêêê,\nMacumba êêêá (2x)\n\n(Toque: Samba Cabula)",
     "query": "eu vou chamar os meus caboclos na aldeia pra trabalhar patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -5625,13 +5642,13 @@ window.PONTOS_DATA = [
       "start": 137,
       "startFormatted": "02:17"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 2,
     "title": "Chamei minha Cabocla de Pena (Força da Jurema)",
-    "lyrics": "2 - Chamei minha Cabocla de Pena\nChamei lá das matas pra ela trabalhar\nPra ver a força que a Jurema tem\nPra ver a força que a Jurema dá",
+    "lyrics": "2 - Chamei minha Cabocla de Pena\nChamei lá das matas pra ela trabalhar\nPra ver a força que a Jurema tem\nPra ver a força que a Jurema dá\n\n(Toque: Congo de Ouro)",
     "query": "chamei minha cabocla de pena (força da jurema) patrik na voz",
     "video": {
       "id": "8z7I-07JdUk",
@@ -5642,13 +5659,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Congo de Ouro"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 3,
     "title": "Ô caboclo tô chamando, que demora é essa",
-    "lyrics": "3 - Caboclo tô chamando, que demora é essa?\nTava lá no mato atirando flecha (2x)",
+    "lyrics": "3 - Caboclo tô chamando, que demora é essa?\nTava lá no mato atirando flecha (2x)\n\n(Toque: Samba Cabula)",
     "query": "ô caboclo tô chamando, que demora é essa patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -5660,13 +5677,13 @@ window.PONTOS_DATA = [
       "start": 844,
       "startFormatted": "14:04"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 4,
     "title": "Aê terra boa, terra de São Benedito",
-    "lyrics": "4 - Aê terra boa, terra de São Benedito,\nTerra onde eu sambei nela,\nChamei os caboclos comigo",
+    "lyrics": "4 - Aê terra boa, terra de São Benedito,\nTerra onde eu sambei nela,\nChamei os caboclos comigo\n\n(Toque: Samba Cabula)",
     "query": "aê terra boa, terra de são benedito patrik na voz",
     "video": {
       "id": "doc0ge_ThGo",
@@ -5678,7 +5695,7 @@ window.PONTOS_DATA = [
       "start": 429,
       "startFormatted": "07:09"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -5752,7 +5769,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 9,
     "title": "Eu fui ao mar levar presente a mamãe sereia",
-    "lyrics": "9 - Eu fui ao mar levar presente a mamãe sereia,\nEu fui no mar levar presente a mamãe sereia,\nEncontrei Sete Montanhas ajoelhado na areia,\nEle implorava, ele pedia,\nPara que todos seus filhos,\nTivessem paz e harmonia.\nEle implorava, ele pedia,\nPara que todos seus filhos,\nTivessem paz e harmonia.",
+    "lyrics": "9 - Eu fui ao mar levar presente a mamãe sereia,\nEu fui no mar levar presente a mamãe sereia,\nEncontrei Sete Montanhas ajoelhado na areia,\nEle implorava, ele pedia,\nPara que todos seus filhos,\nTivessem paz e harmonia.\nEle implorava, ele pedia,\nPara que todos seus filhos,\nTivessem paz e harmonia.\n\n(Toque: Samba Cabula)",
     "query": "eu fui ao mar levar presente a mamae sereia encontrei sete montanhas",
     "video": {
       "id": "a4AWJAgDSoo",
@@ -5763,7 +5780,7 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -5820,7 +5837,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 13,
     "title": "Rompe Mato quando brada",
-    "lyrics": "13 - Rompe Mato quando brada,\nNa aldeia ele dá sinal,\nRompe Mato quando brada,\nNa aldeia ele dá sinal,\nNa aldeia, na aldeia,\nNa aldeia de seu Rompe mato,\nNa aldeia.\nNa aldeia, na aldeia,\nNa aldeia de seu Rompe mato,\nNa aldeia.",
+    "lyrics": "13 - Rompe Mato quando brada,\nNa aldeia ele dá sinal,\nRompe Mato quando brada,\nNa aldeia ele dá sinal,\nNa aldeia, na aldeia,\nNa aldeia de seu Rompe mato,\nNa aldeia.\nNa aldeia, na aldeia,\nNa aldeia de seu Rompe mato,\nNa aldeia.\n\n(Toque: Nagô)",
     "query": "rompe mato quando brada na aldeia ele da sinal ponto caboclo",
     "video": {
       "id": "zPgBXoQ35t0",
@@ -5831,7 +5848,7 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Nagô"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -5907,7 +5924,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 18,
     "title": "Caça, caça no Canindé (Mutalambô)",
-    "lyrics": "18 - Caça, caça no Canindé,\nUla ê, ula ô,\nCaça, caça no Canindé,\nOxóssi é Mutalambô.",
+    "lyrics": "18 - Caça, caça no Canindé,\nUla ê, ula ô,\nCaça, caça no Canindé,\nOxóssi é Mutalambô.\n\n(Toque: Samba Cabula)",
     "query": "caca caca no caninde oxossi e mutalambo ponto caboclo",
     "video": {
       "id": "rf_pSwFqhzI",
@@ -5918,13 +5935,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 19,
     "title": "Tambor, ê tambor, ô vai buscar",
-    "lyrics": "19 - Tambor, ê tambor, ô vai buscar,\nQuem mora longe tambor,\nTambor, ê tambor, ô vai buscar,\nQuem mora longe tambor,\nLá nas matas da Jurema,\nOnde Oxossi, já bradou,\nOh vai buscar quem mora longe tambor.",
+    "lyrics": "19 - Tambor, ê tambor, ô vai buscar,\nQuem mora longe tambor,\nTambor, ê tambor, ô vai buscar,\nQuem mora longe tambor,\nLá nas matas da Jurema,\nOnde Oxossi, já bradou,\nOh vai buscar quem mora longe tambor.\n\n(Toque: Samba Cabula)",
     "query": "tambor e tambor o vai buscar quem mora longe tambor caboclo",
     "video": {
       "id": "_dhIDkEh6OQ",
@@ -5935,13 +5952,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 20,
     "title": "Ele é caboclo, ele é flecheiro",
-    "lyrics": "20 - Caboclo índio desceu a serra,\nPara saudar seus filhos de Olorum (2x)\nSe ele é caboclo, ele é flecheiro (Tumba na calunga)\nÉ laçador de feiticeiro (Tumba na calunga)\nSe o índio já chegou (Tumba na calunga)\nE seu congá já saravou (Tumba na calunga)",
+    "lyrics": "20 - Caboclo índio desceu a serra,\nPara saudar seus filhos de Olorum (2x)\nSe ele é caboclo, ele é flecheiro (Tumba na calunga)\nÉ laçador de feiticeiro (Tumba na calunga)\nSe o índio já chegou (Tumba na calunga)\nE seu congá já saravou (Tumba na calunga)\n\n(Toque: Samba Cabula)",
     "query": "ele e caboclo ele e flecheiro bumba na calunga amansador de feiticeiro",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -5953,13 +5970,13 @@ window.PONTOS_DATA = [
       "start": 814,
       "startFormatted": "13:34"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 21,
     "title": "Seu Mata virgem quando vem (Cobra Coral)",
-    "lyrics": "21 - Seu Mata virgem quando vem,\nNa aldeia, ele traz na cinta uma cobra coral,\nSeu Mata virgem quando vem,\nNa aldeia, ele traz na cinta uma cobra coral,\nÔ é uma cobra coral,\nÔ é uma cobra coral,",
+    "lyrics": "21 - Seu Mata virgem quando vem,\nNa aldeia, ele traz na cinta uma cobra coral,\nSeu Mata virgem quando vem,\nNa aldeia, ele traz na cinta uma cobra coral,\nÔ é uma cobra coral,\nÔ é uma cobra coral,\n\n(Toque: Nagô)",
     "query": "seu mata virgem quando vem traz na cinta uma cobra coral",
     "video": {
       "id": "hYq4kfUz_EM",
@@ -5970,13 +5987,13 @@ window.PONTOS_DATA = [
       "startFormatted": "00:00",
       "url": "https://www.youtube.com/watch?v=hYq4kfUz_EM"
     },
-    "toque": ""
+    "toque": "Nagô"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 22,
     "title": "Caboclo é sambangolê",
-    "lyrics": "22 - Caboclo é sambangolê,\nCaboclo é sambangolá,\nCaboclo é sambangolê,\nCaboclo é sambangolá,\nAuê, auê, auê, caboclo é sambangolá.",
+    "lyrics": "22 - Caboclo é sambangolê,\nCaboclo é sambangolá,\nCaboclo é sambangolê,\nCaboclo é sambangolá,\nAuê, auê, auê, caboclo é sambangolá.\n\n(Toque: Congo de Ouro)",
     "query": "caboclo e sambangole caboclo e sambangola aue caboclo ponto",
     "video": {
       "id": "UI08Mf1Madg",
@@ -5987,13 +6004,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Congo de Ouro"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 23,
     "title": "Caboclo, caboclo, ele é filho da Guiné",
-    "lyrics": "23 - Caboclo, caboclo, ele é filho da Guiné (2x)\nMas se seu pai é rei,\nPríncipe ele é (2x)",
+    "lyrics": "23 - Caboclo, caboclo, ele é filho da Guiné (2x)\nMas se seu pai é rei,\nPríncipe ele é (2x)\n\n(Toque: Samba Cabula)",
     "query": "caboclo caboclo ele e filho da guine se seu pai e rei ele e principe e",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -6005,7 +6022,7 @@ window.PONTOS_DATA = [
       "start": 354,
       "startFormatted": "05:54"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -6028,7 +6045,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 25,
     "title": "Olha a cobra coral caboclo (Arranca Toco)",
-    "lyrics": "25 - Olha a cobra coral, caboclo (2x)\nEle é filho da Jurema,\nNeto de Arranca Toco, caboclo.",
+    "lyrics": "25 - Olha a cobra coral, caboclo (2x)\nEle é filho da Jurema,\nNeto de Arranca Toco, caboclo.\n\n(Toque: Alujá)",
     "query": "olha a cobra coral caboclo ele e filho da jurema neto de arranca toco",
     "video": {
       "id": "jLAq8wmbKU0",
@@ -6039,7 +6056,7 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Alujá"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -6114,7 +6131,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 30,
     "title": "Oh índio, índio Aymoré (Mata Virgem)",
-    "lyrics": "30 - oh índio, oh índio, índio aymoré,\noh índio, índio aymoré,\nseu mata virgem é um índio,\níndio aymoré\noh índio, oh índio, índio aymoré,",
+    "lyrics": "30 - oh índio, oh índio, índio aymoré,\noh índio, índio aymoré,\nseu mata virgem é um índio,\níndio aymoré\noh índio, oh índio, índio aymoré,\n\n(Toque: Samba Cabula)",
     "query": "oh indio oh indio indio aymore seu mata virgem e um indio",
     "video": {
       "id": "p7uSkXoy-Kk",
@@ -6125,13 +6142,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 31,
     "title": "Tamandaré, Tamandaré odé",
-    "lyrics": "31 - Tamandaré, Tamandaré, Tamandaré,\nTamandaré, Tamandaré Odé,\nTamandaré é feiticeiro,\nTamandaré Odé.",
+    "lyrics": "31 - Tamandaré, Tamandaré, Tamandaré,\nTamandaré, Tamandaré Odé,\nTamandaré é feiticeiro,\nTamandaré Odé.\n\n(Toque: Samba Cabula)",
     "query": "tamandare tamandare tamandare ode tamandare e feiticeiro caboclo",
     "video": {
       "id": "Ac9hSXfLhps",
@@ -6142,13 +6159,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 32,
     "title": "Eu dei um tiro na sapucaia",
-    "lyrics": "32 - Eu dei um tiro na sapucaia,\nNão há caboclo valente\nQue não caia (2x)",
+    "lyrics": "32 - Eu dei um tiro na sapucaia,\nNão há caboclo valente\nQue não caia (2x)\n\n(Toque: Samba Cabula)",
     "query": "eu dei um tiro na sapucaia nao ha caboclo valente que nao caia ponto",
     "video": {
       "id": "bBBsZBc-674",
@@ -6159,13 +6176,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 33,
     "title": "Seu Pena Verde chegou com a caça na ponta da flecha",
-    "lyrics": "33 - Seu Pena Verde chegou com a caça na ponta da flecha\nEle é caçador, guerreiro bravo caçador\nNa fé do Pai Maior, Seu Pena Verde por aqui chegou",
+    "lyrics": "33 - Seu Pena Verde chegou com a caça na ponta da flecha\nEle é caçador, guerreiro bravo caçador\nNa fé do Pai Maior, Seu Pena Verde por aqui chegou\n\n(Toque: Samba Cabula)",
     "query": "seu pena verde chegou com a caça na ponta da flecha patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -6177,13 +6194,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 34,
     "title": "Caboclinho da Mata Virgem, manda força aqui pra nós",
-    "lyrics": "34 - Caboclinho da Mata Virgem, manda força aqui pra nós (2x)\nSe ele é caboclo bom, êêêê,\nManda força aqui pra nós (2x)",
+    "lyrics": "34 - Caboclinho da Mata Virgem, manda força aqui pra nós (2x)\nSe ele é caboclo bom, êêêê,\nManda força aqui pra nós (2x)\n\n(Toque: Samba Cabula)",
     "query": "caboclinho da mata virgem, manda força aqui pra nós patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -6195,13 +6212,13 @@ window.PONTOS_DATA = [
       "start": 84,
       "startFormatted": "01:24"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 35,
     "title": "A Jurema mandou perguntar se na mata não tem caboclo",
-    "lyrics": "35 - A Jurema mandou perguntar se na mata não tem caboclo\nSai, sai, sai Seu Caboclo, saia de cima do toco",
+    "lyrics": "35 - A Jurema mandou perguntar se na mata não tem caboclo\nSai, sai, sai Seu Caboclo, saia de cima do toco\n\n(Toque: Samba Cabula)",
     "query": "a jurema mandou perguntar se na mata não tem caboclo patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -6213,13 +6230,13 @@ window.PONTOS_DATA = [
       "start": 279,
       "startFormatted": "04:39"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 36,
     "title": "Seu Cobra Coral plantou um pé de aroeira",
-    "lyrics": "36 - Seu Cobra Coral plantou um pé de aroeira,\nUm pé de aroeira, um pé de aroeira,\nPra firmar seu ponto no clarão da lua cheia,\nUm pé de aroeira, um pé de aroeira.",
+    "lyrics": "36 - Seu Cobra Coral plantou um pé de aroeira,\nUm pé de aroeira, um pé de aroeira,\nPra firmar seu ponto no clarão da lua cheia,\nUm pé de aroeira, um pé de aroeira.\n\n(Toque: Congo)",
     "query": "seu cobra coral plantou um pé de aroeira patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -6231,13 +6248,13 @@ window.PONTOS_DATA = [
       "start": 420,
       "startFormatted": "07:00"
     },
-    "toque": ""
+    "toque": "Congo"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 37,
     "title": "Entrei na mata pra ver Sultão (Sultão das Matas)",
-    "lyrics": "37 - Entrei na mata pra ver Sultão\nMe deparei com o caboclo valentão\nSultão das Matas êêêêêê\nSeu Juremeiro êêêêááá",
+    "lyrics": "37 - Entrei na mata pra ver Sultão\nMe deparei com o caboclo valentão\nSultão das Matas êêêêêê\nSeu Juremeiro êêêêááá\n\n(Toque: Samba Cabula)",
     "query": "entrei na mata pra ver sultão (sultão das matas) patrik na voz",
     "video": {
       "id": "doc0ge_ThGo",
@@ -6249,13 +6266,13 @@ window.PONTOS_DATA = [
       "start": 183,
       "startFormatted": "03:03"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 38,
     "title": "Lá na mata kiô kiô (Oxóssi é o Rei das Matas)",
-    "lyrics": "38 - Lá na mata kiô kiô\nLá na mata kiô kiô\nLá na mata kiô kiô\nOxóssi é o rei das matas\nÉ vencedor de demanda\nÉ orixá consagrado e coroado na nossa Umbanda",
+    "lyrics": "38 - Lá na mata kiô kiô\nLá na mata kiô kiô\nLá na mata kiô kiô\nOxóssi é o rei das matas\nÉ vencedor de demanda\nÉ orixá consagrado e coroado na nossa Umbanda\n\n(Toque: Samba Cabula)",
     "query": "lá na mata kiô kiô (oxóssi é o rei das matas) patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -6267,13 +6284,13 @@ window.PONTOS_DATA = [
       "start": 620,
       "startFormatted": "10:20"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 39,
     "title": "Eu fui pra mata caçar (Senhor Oxóssi foi quem me ajudou)",
-    "lyrics": "39 - Eu fui pra mata caçar\nA caça me enganou\nFiquei perdido nas matas\nSenhor Oxóssi foi quem me ajudou",
+    "lyrics": "39 - Eu fui pra mata caçar\nA caça me enganou\nFiquei perdido nas matas\nSenhor Oxóssi foi quem me ajudou\n\n(Toque: Congo de Ouro)",
     "query": "eu fui pra mata caçar (senhor oxóssi foi quem me ajudou) patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -6285,13 +6302,13 @@ window.PONTOS_DATA = [
       "start": 686,
       "startFormatted": "11:26"
     },
-    "toque": ""
+    "toque": "Congo de Ouro"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 40,
     "title": "O senhor caçador não atire em mim",
-    "lyrics": "40 - O senhor caçador não atire em mim,\nNão atire em mim, não atire no homem (2x)",
+    "lyrics": "40 - O senhor caçador não atire em mim,\nNão atire em mim, não atire no homem (2x)\n\n(Toque: Samba Cabula)",
     "query": "o senhor caçador não atire em mim patrik na voz",
     "video": {
       "id": "doc0ge_ThGo",
@@ -6303,13 +6320,13 @@ window.PONTOS_DATA = [
       "start": 148,
       "startFormatted": "02:28"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 41,
     "title": "Meu tambor bateu na aldeia (Reino do Sete Flechas)",
-    "lyrics": "41 - Meu tambor bateu na aldeia\nBateu nas ondas do mar\nEu venho atirando a minha flecha\nDo reino do Sete Flechas\nSou índio, sou Jurema",
+    "lyrics": "41 - Meu tambor bateu na aldeia\nBateu nas ondas do mar\nEu venho atirando a minha flecha\nDo reino do Sete Flechas\nSou índio, sou Jurema\n\n(Toque: Samba Cabula)",
     "query": "meu tambor bateu na aldeia (reino do sete flechas) patrik na voz",
     "video": {
       "id": "doc0ge_ThGo",
@@ -6321,13 +6338,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 42,
     "title": "Seu Sete Flechas lá na mata ele é o rei",
-    "lyrics": "42 - Seu Sete Flechas lá na mata ele é o rei,\nÉ o rei lá na mata, ele é o Tatá (2x)\nLá na mata sua flecha zoa (2x)\nZoa quando sobe, quando desce ela mata (2x)",
+    "lyrics": "42 - Seu Sete Flechas lá na mata ele é o rei,\nÉ o rei lá na mata, ele é o Tatá (2x)\nLá na mata sua flecha zoa (2x)\nZoa quando sobe, quando desce ela mata (2x)\n\n(Toque: Samba Cabula)",
     "query": "seu sete flechas lá na mata ele é o rei patrik na voz",
     "video": {
       "id": "doc0ge_ThGo",
@@ -6339,13 +6356,13 @@ window.PONTOS_DATA = [
       "start": 96,
       "startFormatted": "01:36"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 43,
     "title": "Sultão das Matas coroou Araribóia na floresta",
-    "lyrics": "43 - Sultão das Matas coroou\nAraribóia na floresta,\nEle é caboclo, ele é guerreiro (flecheiro)\nE toda mata está em festa (2x)",
+    "lyrics": "43 - Sultão das Matas coroou\nAraribóia na floresta,\nEle é caboclo, ele é guerreiro (flecheiro)\nE toda mata está em festa (2x)\n\n(Toque: Congo de Ouro)",
     "query": "sultão das matas coroou araribóia na floresta patrik na voz",
     "video": {
       "id": "doc0ge_ThGo",
@@ -6357,13 +6374,13 @@ window.PONTOS_DATA = [
       "start": 259,
       "startFormatted": "04:19"
     },
-    "toque": ""
+    "toque": "Congo de Ouro"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 44,
     "title": "Meu caboclo que mora na beira da praia (Caboclo Beira-Mar)",
-    "lyrics": "44 - Meu caboclo que mora na beira da praia\nSe banha na água salgada pra purificar\nÉ o Caboclo Beira-Mar\nÉ o Caboclo a Beira-Mar",
+    "lyrics": "44 - Meu caboclo que mora na beira da praia\nSe banha na água salgada pra purificar\nÉ o Caboclo Beira-Mar\nÉ o Caboclo a Beira-Mar\n\n(Toque: Samba Cabula)",
     "query": "meu caboclo que mora na beira da praia (caboclo beira-mar) patrik na voz",
     "video": {
       "id": "doc0ge_ThGo",
@@ -6375,7 +6392,7 @@ window.PONTOS_DATA = [
       "start": 307,
       "startFormatted": "05:07"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -6399,7 +6416,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 46,
     "title": "Eu flechei lá na mata (Onça perigosa)",
-    "lyrics": "46 - Eu flechei, flechei lá na mata, flechei\nUma onça perigosa lá na mata flechei",
+    "lyrics": "46 - Eu flechei, flechei lá na mata, flechei\nUma onça perigosa lá na mata flechei\n\n(Toque: Samba Cabula)",
     "query": "eu flechei lá na mata (onça perigosa) patrik na voz",
     "video": {
       "id": "doc0ge_ThGo",
@@ -6411,13 +6428,13 @@ window.PONTOS_DATA = [
       "start": 596,
       "startFormatted": "09:56"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 47,
     "title": "Debaixo da samambaia, perto do pé de ipê",
-    "lyrics": "47 - Debaixo da samambaia, perto do pé de ipê\nEu vi o caboclo atirando, mas ele atirava sem ninguém ver\nVoou, voou, voou, a sua flecha voou",
+    "lyrics": "47 - Debaixo da samambaia, perto do pé de ipê\nEu vi o caboclo atirando, mas ele atirava sem ninguém ver\nVoou, voou, voou, a sua flecha voou\n\n(Toque: Samba Cabula)",
     "query": "debaixo da samambaia, perto do pé de ipê patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -6429,13 +6446,13 @@ window.PONTOS_DATA = [
       "start": 30,
       "startFormatted": "00:30"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 48,
     "title": "Eu sou forte como o vento (Rouxinol)",
-    "lyrics": "48 - Eu sou forte como o vento\nSou pesado como as águas\nSou eu Rouxinol, ando pela madrugada",
+    "lyrics": "48 - Eu sou forte como o vento\nSou pesado como as águas\nSou eu Rouxinol, ando pela madrugada\n\n(Toque: Congo)",
     "query": "eu sou forte como o vento (rouxinol) patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -6447,13 +6464,13 @@ window.PONTOS_DATA = [
       "start": 114,
       "startFormatted": "01:54"
     },
-    "toque": ""
+    "toque": "Congo"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 49,
     "title": "Tava no mato caçando meu passarinho",
-    "lyrics": "49 - Tava no mato\nTava no mato, tava bem escondidinho\nTava no mato, tava no mato caçando meu passarinho\nVem ver caboclo, vem caboclo, a sua aldeia não bambeia",
+    "lyrics": "49 - Tava no mato\nTava no mato, tava bem escondidinho\nTava no mato, tava no mato caçando meu passarinho\nVem ver caboclo, vem caboclo, a sua aldeia não bambeia\n\n(Toque: Samba Cabula)",
     "query": "tava no mato caçando meu passarinho patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -6465,13 +6482,13 @@ window.PONTOS_DATA = [
       "start": 552,
       "startFormatted": "09:12"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 50,
     "title": "Mata, ô mata medonha",
-    "lyrics": "50 - Mata, ôôô mata medonha,\nMata, ôôô mata medonha,\nMata medonha, meu Deus, eu vou passar nela (2x)",
+    "lyrics": "50 - Mata, ôôô mata medonha,\nMata, ôôô mata medonha,\nMata medonha, meu Deus, eu vou passar nela (2x)\n\n(Toque: Samba Cabula)",
     "query": "mata, ô mata medonha patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -6483,7 +6500,7 @@ window.PONTOS_DATA = [
       "start": 608,
       "startFormatted": "10:08"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -6507,7 +6524,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 52,
     "title": "Caboclo índio eu sou peregrino (Seu Avaré)",
-    "lyrics": "52 - Caboclo índio eu sou peregrino,\nSeu Avaré, eu sou filho dele,\nQue haja força na terra e no mar,\nPrepara o terreiro que eu quero trabalhar (2x)",
+    "lyrics": "52 - Caboclo índio eu sou peregrino,\nSeu Avaré, eu sou filho dele,\nQue haja força na terra e no mar,\nPrepara o terreiro que eu quero trabalhar (2x)\n\n(Toque: Samba Cabula)",
     "query": "caboclo índio eu sou peregrino (seu avaré) patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -6519,13 +6536,13 @@ window.PONTOS_DATA = [
       "start": 724,
       "startFormatted": "12:04"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 53,
     "title": "Zum zum zum, não bota fogo na mata",
-    "lyrics": "53 - Zuuuu, zuuuu, ôôôô, ôôôô!\nNão bota fogo na mata, que na mata tem morador,\nRisca o ponto, firma o ponto, Seu Folha Seca chegou!\nÔôôô, zuuuu!",
+    "lyrics": "53 - Zuuuu, zuuuu, ôôôô, ôôôô!\nNão bota fogo na mata, que na mata tem morador,\nRisca o ponto, firma o ponto, Seu Folha Seca chegou!\nÔôôô, zuuuu!\n\n(Toque: Samba Cabula)",
     "query": "zum zum zum, não bota fogo na mata patrik na voz",
     "video": {
       "id": "TpuKkNkCX1I",
@@ -6537,13 +6554,13 @@ window.PONTOS_DATA = [
       "start": 1755,
       "startFormatted": "29:15"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 54,
     "title": "Eu convidei a Cabocla Jurema",
-    "lyrics": "54 - Eu convidei a Cabocla Jurema,\nPra comigo ir passear (lá no Juremá),\nMas ela veio colhendo lírio,\nSó para ver a volta que o mundo dá (2x)",
+    "lyrics": "54 - Eu convidei a Cabocla Jurema,\nPra comigo ir passear (lá no Juremá),\nMas ela veio colhendo lírio,\nSó para ver a volta que o mundo dá (2x)\n\n(Toque: Samba Cabula)",
     "query": "eu convidei a cabocla jurema patrik na voz",
     "video": {
       "id": "EEwrNPyZm8w",
@@ -6554,7 +6571,7 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -7002,7 +7019,7 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 81,
     "title": "Ho! Que lindo laranjal (Subida)",
-    "lyrics": "81 - Ho! Que lindo laranjal,\nHó! Que belo Jacutá,\nHo! Que lindo laranjal,\nHó! Que belo Jacutá,\nAté os passarinhos choram,\nSeu Oxossi o rei das matas se despede e vai embora.\nAté os passarinhos choram,\nSeu Oxossi o rei das matas se despede e vai embora.",
+    "lyrics": "81 - Ho! Que lindo laranjal,\nHó! Que belo Jacutá,\nHo! Que lindo laranjal,\nHó! Que belo Jacutá,\nAté os passarinhos choram,\nSeu Oxossi o rei das matas se despede e vai embora.\nAté os passarinhos choram,\nSeu Oxossi o rei das matas se despede e vai embora.\n\n(Toque: Congo)",
     "query": "ho que lindo laranjal ho que belo jacuta ate os passarinhos choram subida",
     "video": {
       "id": "yYJNk5FiDfs",
@@ -7013,13 +7030,13 @@ window.PONTOS_DATA = [
       "startFormatted": "00:00",
       "url": "https://www.youtube.com/watch?v=yYJNk5FiDfs"
     },
-    "toque": ""
+    "toque": "Congo"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 82,
     "title": "Os caboclos vão embora (Cidade da Jurema) (Subida)",
-    "lyrics": "82 - Os caboclos vão embora,\nPara a cidade da Jurema,\nBom Jesus já lhes chamou,\nPara a cidade da Jurema,\nMas eles vão ser coroados,\nNa cidade da Jurema,\nCom a coroa de Arerê,\nNa cidade da Jurema.",
+    "lyrics": "82 - Os caboclos vão embora,\nPara a cidade da Jurema,\nBom Jesus já lhes chamou,\nPara a cidade da Jurema,\nMas eles vão ser coroados,\nNa cidade da Jurema,\nCom a coroa de Arerê,\nNa cidade da Jurema.\n\n(Toque: Samba Cabula)",
     "query": "os caboclos vao embora para a cidade da jurema bom jesus ja lhe chamou",
     "video": {
       "id": "vhahDSgzG1s",
@@ -7030,13 +7047,13 @@ window.PONTOS_DATA = [
       "startFormatted": "00:00",
       "url": "https://www.youtube.com/watch?v=vhahDSgzG1s"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 83,
     "title": "Olha os caboclos passou por aqui (Aruanda de Nossa Senhora da Glória) (Subida)",
-    "lyrics": "83 - O meu caboclo passou por aqui\nE sua bênção aqui deixou,\nEles vão embora, meu Deus, eles vão embora,\nVão pra Aruanda com Nossa Senhora da Glória (2x)",
+    "lyrics": "83 - O meu caboclo passou por aqui\nE sua bênção aqui deixou,\nEles vão embora, meu Deus, eles vão embora,\nVão pra Aruanda com Nossa Senhora da Glória (2x)\n\n(Toque: Congo)",
     "query": "olha os caboclos passou por aqui (aruanda de nossa senhora da glória) patrik na voz",
     "video": {
       "id": "lLQFaRelfZ8",
@@ -7048,13 +7065,13 @@ window.PONTOS_DATA = [
       "start": 0,
       "startFormatted": "00:00"
     },
-    "toque": ""
+    "toque": "Congo"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 84,
     "title": "Vai caboclo, vai pra sua aldeia (Subida)",
-    "lyrics": "84 - Vai caboclo, vai pra sua aldeia, caboclo vai\nE os passarinhos vão cantando alegre\nVão pra mata virgem para ver seus pais",
+    "lyrics": "84 - Vai caboclo, vai pra sua aldeia, caboclo vai\nE os passarinhos vão cantando alegre\nVão pra mata virgem para ver seus pais\n\n(Toque: Samba Cabula)",
     "query": "vai caboclo, vai pra sua aldeia patrik na voz",
     "video": {
       "id": "lLQFaRelfZ8",
@@ -7066,13 +7083,13 @@ window.PONTOS_DATA = [
       "start": 89,
       "startFormatted": "01:29"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 85,
     "title": "Olha os caboclos vão embora (Quando eles voltar) (Subida)",
-    "lyrics": "85 - Olha os caboclos vão embora\nVão pra sua cidade lá no Juremá\nA bênção pra seus filhos deixa, embora com saudades eles vão ao lar\nAdeus, adeus, até o dia quando eles voltar\nAdeus, adeus, até o dia quando volta os Orixás",
+    "lyrics": "85 - Olha os caboclos vão embora\nVão pra sua cidade lá no Juremá\nA bênção pra seus filhos deixa, embora com saudades eles vão ao lar\nAdeus, adeus, até o dia quando eles voltar\nAdeus, adeus, até o dia quando volta os Orixás\n\n(Toque: Samba Cabula)",
     "query": "olha os caboclos vão embora (quando eles voltar) patrik na voz",
     "video": {
       "id": "lLQFaRelfZ8",
@@ -7084,13 +7101,13 @@ window.PONTOS_DATA = [
       "start": 188,
       "startFormatted": "03:08"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 86,
     "title": "O vento ventou lá nas matas (Folhas caíram no chão) (Subida)",
-    "lyrics": "86 - O vento ventou lá nas matas,\nAs folhas caíram no chão (2x)\nO vento ventou, as folhas caíram,\nCaboclo vai pegar folha do chão (2x)",
+    "lyrics": "86 - O vento ventou lá nas matas,\nAs folhas caíram no chão (2x)\nO vento ventou, as folhas caíram,\nCaboclo vai pegar folha do chão (2x)\n\n(Toque: Congo)",
     "query": "o vento ventou lá nas matas (folhas caíram no chão) patrik na voz",
     "video": {
       "id": "lLQFaRelfZ8",
@@ -7102,13 +7119,13 @@ window.PONTOS_DATA = [
       "start": 341,
       "startFormatted": "05:41"
     },
-    "toque": ""
+    "toque": "Congo"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 87,
     "title": "Caboclo pega sua flecha, pega seu bodoque, o galo já cantou (Subida)",
-    "lyrics": "87 - Caboclo pega sua flecha,\nPega o seu bodoque, o galo já cantou,\nSe o galo já cantou na Aruanda,\nOxalá te chama, vai pra sua banda (2x)",
+    "lyrics": "87 - Caboclo pega sua flecha,\nPega o seu bodoque, o galo já cantou,\nSe o galo já cantou na Aruanda,\nOxalá te chama, vai pra sua banda (2x)\n\n(Toque: Congo)",
     "query": "caboclo pega sua flecha, pega seu bodoque, o galo já cantou patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -7120,13 +7137,13 @@ window.PONTOS_DATA = [
       "start": 908,
       "startFormatted": "15:08"
     },
-    "toque": ""
+    "toque": "Congo"
   },
   {
     "category": "PONTOS DE CABOCLOS",
     "number": 88,
     "title": "Quando o atabaque zoa, filhos de Umbanda choram (Subida)",
-    "lyrics": "88 - Quando o atabaque zoa, filhos de Umbanda choram\nAdeus, adeus meus filhos,\nTodos os caboclos vão embora",
+    "lyrics": "88 - Quando o atabaque zoa, filhos de Umbanda choram\nAdeus, adeus meus filhos,\nTodos os caboclos vão embora\n\n(Toque: Samba Cabula)",
     "query": "quando o atabaque zoa, filhos de umbanda choram patrik na voz",
     "video": {
       "id": "j0AeBXFEzL4",
@@ -7138,7 +7155,7 @@ window.PONTOS_DATA = [
       "start": 1088,
       "startFormatted": "18:08"
     },
-    "toque": ""
+    "toque": "Samba Cabula"
   },
   {
     "category": "PONTOS DE CABOCLOS",
@@ -7348,8 +7365,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 101,
     "title": "A lua ilumina o meu caminhar",
-    "toque": "",
-    "lyrics": "101 - A lua ilumina o meu caminhar\nCanto e danço Jongo até o sol raiar\n2x\nRompendo o silêncio da noite\nEcoa o som do candongueiro\nO negro esquece o açoite\nDançando o Jongo no terreiro\nQuanto axé que a lua traz\nQuanto axé\nE o negro vislumbra\nO seu canto de fé\nClareia o caxambú clareia\nClareia o candongueiro a lua.\n2x",
+    "toque": "Congo de Ouro",
+    "lyrics": "101 - A lua ilumina o meu caminhar\nCanto e danço Jongo até o sol raiar\n2x\nRompendo o silêncio da noite\nEcoa o som do candongueiro\nO negro esquece o açoite\nDançando o Jongo no terreiro\nQuanto axé que a lua traz\nQuanto axé\nE o negro vislumbra\nO seu canto de fé\nClareia o caxambú clareia\nClareia o candongueiro a lua.\n2x\n\n(Toque: Congo de Ouro)",
     "query": "ponto de umbanda CABOCLOS A lua ilumina o meu caminhar Canto e danço Jongo até o sol raiar",
     "video": {
       "id": "74075U3A1CQ",
@@ -7586,8 +7603,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 115,
     "title": "Levanta Nego quero ver seu corpo inteiro",
-    "toque": "",
-    "lyrics": "115 - Levanta Nego quero ver seu corpo inteiro\n2x\nQuero ver se tu tem marca\ndo tempo do cativeiro\n2x\nLevanta Nego quero ver seu corpo inteiro\n2x\nQuero ver se tu tem marca\ndo tempo do cativeiro\n2x\nLa la ilê La La ilá\n2x\nLae Lae Lae La Lae\nLa la ilá\n(2x)\nJONGO",
+    "toque": "Samba Cabula",
+    "lyrics": "115 - Levanta Nego quero ver seu corpo inteiro\n2x\nQuero ver se tu tem marca\ndo tempo do cativeiro\n2x\nLevanta Nego quero ver seu corpo inteiro\n2x\nQuero ver se tu tem marca\ndo tempo do cativeiro\n2x\nLa la ilê La La ilá\n2x\nLae Lae Lae La Lae\nLa la ilá\n(2x)\nJONGO\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Levanta Nego quero ver seu corpo inteiro Quero ver se tu tem marca",
     "video": {
       "id": "XdXlFjLj_Vg",
@@ -8232,8 +8249,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 153,
     "title": "Eu vou abrir meu jongo ê",
-    "toque": "",
-    "lyrics": "153 - Eu vou abrir meu jongo ê\nEu vou abrir meu jongo á\n2x\nPrimeiro eu peço a licença\nPra rainha lá do mar\nPra saudar a Romaria\nEu vou abrir meu jongo ê",
+    "toque": "Samba",
+    "lyrics": "153 - Eu vou abrir meu jongo ê\nEu vou abrir meu jongo á\n2x\nPrimeiro eu peço a licença\nPra rainha lá do mar\nPra saudar a Romaria\nEu vou abrir meu jongo ê\n\n(Toque: Samba)",
     "query": "ponto de umbanda CABOCLOS Eu vou abrir meu jongo ê Eu vou abrir meu jongo á",
     "video": {
       "id": "On9w2MyFK9c",
@@ -8317,8 +8334,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 158,
     "title": "Já plantei café de meia",
-    "toque": "",
-    "lyrics": "158 - Já plantei café de meia\nJá plantei canavial\nCafé de meia não dá lucro ai meu Deus do céu\nCanavial cachaça dá\n(Quantas vezes quiser)\nJONGO",
+    "toque": "Samba Cabula",
+    "lyrics": "158 - Já plantei café de meia\nJá plantei canavial\nCafé de meia não dá lucro ai meu Deus do céu\nCanavial cachaça dá\n(Quantas vezes quiser)\nJONGO\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Já plantei café de meia Já plantei canavial",
     "video": {
       "id": "SDc8fk6lHwY",
@@ -8351,8 +8368,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 160,
     "title": "Oh gente nasci na Angola",
-    "toque": "",
-    "lyrics": "160 - Oh gente nasci na Angola\nAngola quem me criou\nEu sou nego de Moçambique\nai meu Deus do céu\nEu sou nego sim senhor\n(Quantas vezes quiser)",
+    "toque": "Samba Cabula",
+    "lyrics": "160 - Oh gente nasci na Angola\nAngola quem me criou\nEu sou nego de Moçambique\nai meu Deus do céu\nEu sou nego sim senhor\n(Quantas vezes quiser)\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Oh gente nasci na Angola Angola quem me criou",
     "video": {
       "id": "irxXEgMi3lc",
@@ -8487,8 +8504,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 168,
     "title": "Pisei na pedra lisa",
-    "toque": "",
-    "lyrics": "168 - Pisei na pedra lisa\nTrupiquei na capituba\nQuando o machado não corta\nCacumbu também derruba\nLe le le le…\n2x\nLe le le le…\n2x",
+    "toque": "Congo de Ouro",
+    "lyrics": "168 - Pisei na pedra lisa\nTrupiquei na capituba\nQuando o machado não corta\nCacumbu também derruba\nLe le le le…\n2x\nLe le le le…\n2x\n\n(Toque: Congo de Ouro)",
     "query": "ponto de umbanda CABOCLOS Pisei na pedra lisa Trupiquei na capituba",
     "video": {
       "id": "cCtw5nKTHyk",
@@ -8742,8 +8759,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 183,
     "title": "Com tanto pau no mato Embaúba e Coronel",
-    "toque": "",
-    "lyrics": "183 - Com tanto pau no mato\nA Embaúba é Coronel\nAeee\nA Embaúba é Coronel\n(Quantas vezes quiser)",
+    "toque": "Samba Cabula",
+    "lyrics": "183 - Com tanto pau no mato\nA Embaúba é Coronel\nAeee\nA Embaúba é Coronel\n(Quantas vezes quiser)\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Com tanto pau no mato A Embaúba é Coronel",
     "video": {
       "id": "jyDLRGpM2N0",
@@ -8861,8 +8878,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 190,
     "title": "CABOCLO LANCEIRO (Doce perfume do mel de)",
-    "toque": "",
-    "lyrics": "190 - Doce perfume do mel de\nabelha>\nVamos saudar Caboclo da\npele vermelha>\nOkê Arô Caboclo\nLanceiro>\nOxossí nos envie esse\ngrande guerreiro>2x\nCheiro de sangue pairava\nno ar\nA caça estava próxima, o\ncaboclo a procurar\nNa cachoeira, o rastro se\nesvaía\nCaboclo farejava e a presa\ncorria\nAtira sua lança, com a\nmaior velocidade\nPara conseguir seu pão, não\npara fazer maldade\nMas se preciso for, como\ntodo guerreiro\nDispara sua mandinga pra\nderrubar feiticeiro\nDoce perfume do mel de\nabelha>\nVamos saudar Caboclo da\npele vermelha>\nOkê Arô Caboclo\nLanceiro>\nOxossí nos envie esse\ngrande guerreiro>2x\nVem das Matas de Oxossí,\nVem das Águas de Oxum\nQuem a ele pedir, não\nsofrera mal algum\nPela justiça divina vem\ngirar no meu terreiro\nAtabaque bate forte, chama\nCaboclo Lanceiro\nDoce perfume do mel de\nabelha>\nVamos saudar Caboclo da\npele vermelha>\nOkê Arô Caboclo\nLanceiro>\nOxossí nos envie esse\ngrande guerreiro>2x\nInvoca sua Águia Dourada,\nfazendo uma oração\nPede proteção as matas, pra\nquem tem bom coração\nMensageiro de Oxossí,\nfirma seu ponto aqui\nSão Sebastião Guerreiro\nvenha cá nos acudir",
+    "toque": "Samba Cabula",
+    "lyrics": "190 - Doce perfume do mel de\nabelha>\nVamos saudar Caboclo da\npele vermelha>\nOkê Arô Caboclo\nLanceiro>\nOxossí nos envie esse\ngrande guerreiro>2x\nCheiro de sangue pairava\nno ar\nA caça estava próxima, o\ncaboclo a procurar\nNa cachoeira, o rastro se\nesvaía\nCaboclo farejava e a presa\ncorria\nAtira sua lança, com a\nmaior velocidade\nPara conseguir seu pão, não\npara fazer maldade\nMas se preciso for, como\ntodo guerreiro\nDispara sua mandinga pra\nderrubar feiticeiro\nDoce perfume do mel de\nabelha>\nVamos saudar Caboclo da\npele vermelha>\nOkê Arô Caboclo\nLanceiro>\nOxossí nos envie esse\ngrande guerreiro>2x\nVem das Matas de Oxossí,\nVem das Águas de Oxum\nQuem a ele pedir, não\nsofrera mal algum\nPela justiça divina vem\ngirar no meu terreiro\nAtabaque bate forte, chama\nCaboclo Lanceiro\nDoce perfume do mel de\nabelha>\nVamos saudar Caboclo da\npele vermelha>\nOkê Arô Caboclo\nLanceiro>\nOxossí nos envie esse\ngrande guerreiro>2x\nInvoca sua Águia Dourada,\nfazendo uma oração\nPede proteção as matas, pra\nquem tem bom coração\nMensageiro de Oxossí,\nfirma seu ponto aqui\nSão Sebastião Guerreiro\nvenha cá nos acudir\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Doce perfume do mel de abelha",
     "video": {
       "id": "2DmJJqjFTnY",
@@ -8878,8 +8895,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 191,
     "title": "HOMENAGEM AOS ORIXÁS",
-    "toque": "",
-    "lyrics": "191 - Tantas batalhas venci\nMuitas ainda vou enfrentar\nMuitas vezes vou cair\nMas sempre vou levantar\nMeu escudo é minha fé\nMinha espada é Orixá\nTenho meu corpo fechado\nNas rezas do Jacutá\nQuando eu caí meu pai\nOgum me levantou\nQuando eu sofri mamãe\nOxum me amparou\nMe vi perdido Exu veio me\nguiar\nEstava com fome Oxóssi\nme ensinou caçar\nFui humilhado e Xangô me\ndefendeu\nFui perseguido Oyá com os\nventos me escondeu\nCaí doente Omulu quem\nme curou\nEstava sujo Iemanjá quem\nme banhou\nEu vi a morte mas Nanã lhe\nafastou\nCuidou de mim e o meu\npranto ela secou\nDesesperado vi minha fé\nvacilar\nFui renovado com as\npalavras de Oxalá\nSe eu fosse só já não estaria\nmais aqui\nMeu Orixá quem me\najudou a persistir\nNa noite escura nos\ncaminhos me guiou\nE na Umbanda retribuo o\nseu amor\nPor isso Orei Orei Orei\nClamei ao Rei, Oxalá, o pai\nQue lhe dê forças\nNos caminhos pelo mundo\nDesistir da religião jamais\nPedi a Ogum\nPai Guerreiro e Protetor\nQue dê coragem ao filho\nredentor\nPorque a Umbanda é a\ncoisa mais bonita\nQue Oxalá Criou",
+    "toque": "Samba Cabula",
+    "lyrics": "191 - Tantas batalhas venci\nMuitas ainda vou enfrentar\nMuitas vezes vou cair\nMas sempre vou levantar\nMeu escudo é minha fé\nMinha espada é Orixá\nTenho meu corpo fechado\nNas rezas do Jacutá\nQuando eu caí meu pai\nOgum me levantou\nQuando eu sofri mamãe\nOxum me amparou\nMe vi perdido Exu veio me\nguiar\nEstava com fome Oxóssi\nme ensinou caçar\nFui humilhado e Xangô me\ndefendeu\nFui perseguido Oyá com os\nventos me escondeu\nCaí doente Omulu quem\nme curou\nEstava sujo Iemanjá quem\nme banhou\nEu vi a morte mas Nanã lhe\nafastou\nCuidou de mim e o meu\npranto ela secou\nDesesperado vi minha fé\nvacilar\nFui renovado com as\npalavras de Oxalá\nSe eu fosse só já não estaria\nmais aqui\nMeu Orixá quem me\najudou a persistir\nNa noite escura nos\ncaminhos me guiou\nE na Umbanda retribuo o\nseu amor\nPor isso Orei Orei Orei\nClamei ao Rei, Oxalá, o pai\nQue lhe dê forças\nNos caminhos pelo mundo\nDesistir da religião jamais\nPedi a Ogum\nPai Guerreiro e Protetor\nQue dê coragem ao filho\nredentor\nPorque a Umbanda é a\ncoisa mais bonita\nQue Oxalá Criou\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Tantas batalhas venci Muitas ainda vou enfrentar",
     "video": {
       "id": "wxGMN5Cod7o",
@@ -8895,8 +8912,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 192,
     "title": "HOMENAGEM AOS ORIXÁS",
-    "toque": "",
-    "lyrics": "192 - Penso no dia que logo vai\nnascer\nE o meu peito se enche de\nemoção\nA esperança invade o meu\nser\nEu sou feliz e gosto de\nviver\nPela beleza dos raios da\nmanhã\nEu te saúdo Mamãe Iansã\nPela grandeza das ondas do\nmar\nMe abençoe Mamãe\nIemanjá\nA mata virgem tem seu\nsemeador\nEle é Oxóssi Okê Okê Arô!\nNa cachoeira eu vou me\nrefazer\nNas águas claras de Oxum\nai ie ie\nSe a injustiça faz guerra de\npoder\nValha-me a espada de\nOgum, Ogunhê\nNão há doença que venha\nme vencer\nSou protegido (a) de\nObaluaê\nEu sou de Paz\nMas sou um lutador\nA minha lei quem dita é\nXangô\nA alegria já tem inspiração\nNa inocência de Cosme e\nDamião\nNão tenho medo\nVou ter medo de que?\nTenho ao meu lado Nanã\nBuruquê\nE essa luz que vem de\nOxalá\nTenho certeza vai me\niluminar\nPenso no dia que logo vai\nnascer\nE o meu peito se enche de\nemoção\nE essa luz que vem de\nOxalá\nTenho certeza, vai me\niluminar!",
+    "toque": "Samba Cabula",
+    "lyrics": "192 - Penso no dia que logo vai\nnascer\nE o meu peito se enche de\nemoção\nA esperança invade o meu\nser\nEu sou feliz e gosto de\nviver\nPela beleza dos raios da\nmanhã\nEu te saúdo Mamãe Iansã\nPela grandeza das ondas do\nmar\nMe abençoe Mamãe\nIemanjá\nA mata virgem tem seu\nsemeador\nEle é Oxóssi Okê Okê Arô!\nNa cachoeira eu vou me\nrefazer\nNas águas claras de Oxum\nai ie ie\nSe a injustiça faz guerra de\npoder\nValha-me a espada de\nOgum, Ogunhê\nNão há doença que venha\nme vencer\nSou protegido (a) de\nObaluaê\nEu sou de Paz\nMas sou um lutador\nA minha lei quem dita é\nXangô\nA alegria já tem inspiração\nNa inocência de Cosme e\nDamião\nNão tenho medo\nVou ter medo de que?\nTenho ao meu lado Nanã\nBuruquê\nE essa luz que vem de\nOxalá\nTenho certeza vai me\niluminar\nPenso no dia que logo vai\nnascer\nE o meu peito se enche de\nemoção\nE essa luz que vem de\nOxalá\nTenho certeza, vai me\niluminar!\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Penso no dia que logo vai nascer",
     "video": {
       "id": "a_g6i-4F5wQ",
@@ -8912,8 +8929,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 193,
     "title": "MARIA, MARIA",
-    "toque": "",
-    "lyrics": "193 - Maria, Maria é um dom,\numa certa magia\nUma força que nos alerta\nUma mulher que merece\nviver e amar\nComo outra qualquer do\nplaneta\nMaria, Maria é o som, é a\ncor, é o suor\nÉ a dose mais forte e lenta\nDe uma gente que ri\nquando deve chorar\nE não vive, apenas aguenta\nMas é preciso ter força, é\npreciso ter raça\nÉ preciso ter gana sempre\nQuem traz no corpo a\nmarca\nMaria, Maria mistura a dor\ne a alegria\nMas é preciso ter manha, é\npreciso ter graça\nÉ preciso ter sonho sempre\nQuem traz na pele essa\nmarca\nPossui a estranha mania de\nter fé na vida\nMas é preciso ter força, é\npreciso ter raça\nÉ preciso ter gana sempre\nQuem traz no corpo a\nmarca\nMaria, Maria mistura a dor\ne a alegria\nMas é preciso ter manha, é\npreciso ter graça\nÉ preciso ter sonho sempre\nQuem traz na pele essa\nmarca\nPossui a estranha mania de\nter fé na vida",
+    "toque": "Samba Cabula",
+    "lyrics": "193 - Maria, Maria é um dom,\numa certa magia\nUma força que nos alerta\nUma mulher que merece\nviver e amar\nComo outra qualquer do\nplaneta\nMaria, Maria é o som, é a\ncor, é o suor\nÉ a dose mais forte e lenta\nDe uma gente que ri\nquando deve chorar\nE não vive, apenas aguenta\nMas é preciso ter força, é\npreciso ter raça\nÉ preciso ter gana sempre\nQuem traz no corpo a\nmarca\nMaria, Maria mistura a dor\ne a alegria\nMas é preciso ter manha, é\npreciso ter graça\nÉ preciso ter sonho sempre\nQuem traz na pele essa\nmarca\nPossui a estranha mania de\nter fé na vida\nMas é preciso ter força, é\npreciso ter raça\nÉ preciso ter gana sempre\nQuem traz no corpo a\nmarca\nMaria, Maria mistura a dor\ne a alegria\nMas é preciso ter manha, é\npreciso ter graça\nÉ preciso ter sonho sempre\nQuem traz na pele essa\nmarca\nPossui a estranha mania de\nter fé na vida\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Maria, Maria é um dom, uma certa magia",
     "video": {
       "id": "ZoILq0KdgZc",
@@ -8929,8 +8946,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 194,
     "title": "A GRANDE LUZ",
-    "toque": "",
-    "lyrics": "194 - Existe até gente grande\nCom medo da escuridão\nTambém existe pessoas\nQuerendo uma explicação\nOxóssi Orixá das matas\nÉ o mesmo São Sebastião\nIemanjá é a Nossa >\nSenhora da Conceição >2x\nA Igreja tem os seus Santos\nA Umbanda seus Orixás\nAs duas se sincretizam\nAs duas pregam a paz\nO mesmo Deus numa\nIgreja\nÉ Zambi, Obatalá\nApenas mudando o nome >\nJesus Cristo é Oxalá >2x\nNa bondade de Sant’Ana\nUm bom umbandista crê\nNa figura veneranda\nDa Mãe Nanã-Buruquê\nMudando até no espaço\nO laço que não se vê\nTemos São Bartolomeu >\nOrixá Oxum Maré >2x\nSe alguém que está me\nescutando\nAinda sente temor\nPermita que lhe esclareça\nQue a Umbanda é paz e\namor\nAmor que rejuvenesço\nEssa força superior\nÉ a grande luz que nos guia\n>\nÉ o nosso Criador >2x",
+    "toque": "Samba Cabula",
+    "lyrics": "194 - Existe até gente grande\nCom medo da escuridão\nTambém existe pessoas\nQuerendo uma explicação\nOxóssi Orixá das matas\nÉ o mesmo São Sebastião\nIemanjá é a Nossa >\nSenhora da Conceição >2x\nA Igreja tem os seus Santos\nA Umbanda seus Orixás\nAs duas se sincretizam\nAs duas pregam a paz\nO mesmo Deus numa\nIgreja\nÉ Zambi, Obatalá\nApenas mudando o nome >\nJesus Cristo é Oxalá >2x\nNa bondade de Sant’Ana\nUm bom umbandista crê\nNa figura veneranda\nDa Mãe Nanã-Buruquê\nMudando até no espaço\nO laço que não se vê\nTemos São Bartolomeu >\nOrixá Oxum Maré >2x\nSe alguém que está me\nescutando\nAinda sente temor\nPermita que lhe esclareça\nQue a Umbanda é paz e\namor\nAmor que rejuvenesço\nEssa força superior\nÉ a grande luz que nos guia\n>\nÉ o nosso Criador >2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Existe até gente grande Com medo da escuridão",
     "video": {
       "id": "md9T3PWue7o",
@@ -8946,8 +8963,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 195,
     "title": "REZA DO VENTO",
-    "toque": "",
-    "lyrics": "195 - Sopra o vento, sopra o\nvento\nSinta o vento te soprar\nAbre a porta do teu ser\nDeixa esse vento entrar\nÉ o sopro da verdade\nÉ o som de oxalá\nOuça o vento, ouça o vento\nOuça vento entoar\nEsse assovio doce\nCom as benção de Yemanjá\nÉ o canto da verdade\nO amor de oxalá...\nEsse vento foi ao norte\nEsse vento veio ao sul\nEsse vento foi ao leste\nEsse vento a oeste\nEsteve nas montanhas\nbrancas\nNos cabelos de Jesus\nÉ o rezo do pai velho\nNa espada de Ogum\nEsse vento reza o mar\nEsse vento reza a terra\nEsse vento reza o sol\nEsse vento reza a lua\nÉ o ôm do soberano\nQue balança o céu azul\nEsse vento vem lembrando\nQue nós todos somos um",
+    "toque": "Samba Cabula",
+    "lyrics": "195 - Sopra o vento, sopra o\nvento\nSinta o vento te soprar\nAbre a porta do teu ser\nDeixa esse vento entrar\nÉ o sopro da verdade\nÉ o som de oxalá\nOuça o vento, ouça o vento\nOuça vento entoar\nEsse assovio doce\nCom as benção de Yemanjá\nÉ o canto da verdade\nO amor de oxalá...\nEsse vento foi ao norte\nEsse vento veio ao sul\nEsse vento foi ao leste\nEsse vento a oeste\nEsteve nas montanhas\nbrancas\nNos cabelos de Jesus\nÉ o rezo do pai velho\nNa espada de Ogum\nEsse vento reza o mar\nEsse vento reza a terra\nEsse vento reza o sol\nEsse vento reza a lua\nÉ o ôm do soberano\nQue balança o céu azul\nEsse vento vem lembrando\nQue nós todos somos um\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Sopra o vento, sopra o vento",
     "video": {
       "id": "eHGoSaFh2jk",
@@ -8963,8 +8980,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 196,
     "title": "Quando os caboclos",
-    "toque": "",
-    "lyrics": "196 - Quando os caboclos\nTrazem as folhas da jurema\nE os Pretos Velhos trazem\narruda e guiné\nEles vêm trabalhar na lei de\nUmbanda >\nTem licença de Aruanda >\nPra salvar a quem tem fé\n>2x\nO sabiá canta alegre na\npalmeira E Xangô lá na\npedreira\nOs seus filhos vem salvar\nMeu Pai Ogum\nempunhando a sua espada\nManda um toque de\nalvorada\nToda linha vai chegar\nMeu pai Oxóssi cavaleiro\nde Aruanda\nVem trazendo a sua banda\nCaçador já vai chegar\nMãe Iansã vem trazendo a\nventania\nMãe Oxum a calmaria\nE Iemanjá as ondas do mar\nPai Oxalá abençoe o\nmundo inteiro\nIluminai esse terreiro\nPara os trabalhos começar",
+    "toque": "Samba Cabula",
+    "lyrics": "196 - Quando os caboclos\nTrazem as folhas da jurema\nE os Pretos Velhos trazem\narruda e guiné\nEles vêm trabalhar na lei de\nUmbanda >\nTem licença de Aruanda >\nPra salvar a quem tem fé\n>2x\nO sabiá canta alegre na\npalmeira E Xangô lá na\npedreira\nOs seus filhos vem salvar\nMeu Pai Ogum\nempunhando a sua espada\nManda um toque de\nalvorada\nToda linha vai chegar\nMeu pai Oxóssi cavaleiro\nde Aruanda\nVem trazendo a sua banda\nCaçador já vai chegar\nMãe Iansã vem trazendo a\nventania\nMãe Oxum a calmaria\nE Iemanjá as ondas do mar\nPai Oxalá abençoe o\nmundo inteiro\nIluminai esse terreiro\nPara os trabalhos começar\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Quando os caboclos Trazem as folhas da jurema",
     "video": {
       "id": "mv59BzoCloI",
@@ -8980,8 +8997,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 197,
     "title": "Quando a lua dormiu",
-    "toque": "",
-    "lyrics": "197 - Quando a lua dormiu\nO sol raiando a esperança\nsurgiu Eu caminhei >\nPra mata que meu Pai é rei\n>2x Sol no céu passeando\nEu na mata a caminhar\nFolhas verdes sombreando\nNão deixando o sol passar\nSombras que vão se\nformando Pelas terras de\nGuará\nPelas matas vão guiando\nEsse filho de Oxalá\nEu vou lá >\nPra ver o meu caboclo\nGuará >2x\nDe repente o sol dormiu\nToda mata escureceu\nCom a lua que surgiu\nSeu Guará apareceu\nEm suave Ave Maria\nQue no céu o anjo cantou\nSeu Guará de lá descia\nCom a noite que chegou\nEu chorei >\nQuando seu Guará me\nabençoou >2x",
+    "toque": "Samba Cabula",
+    "lyrics": "197 - Quando a lua dormiu\nO sol raiando a esperança\nsurgiu Eu caminhei >\nPra mata que meu Pai é rei\n>2x Sol no céu passeando\nEu na mata a caminhar\nFolhas verdes sombreando\nNão deixando o sol passar\nSombras que vão se\nformando Pelas terras de\nGuará\nPelas matas vão guiando\nEsse filho de Oxalá\nEu vou lá >\nPra ver o meu caboclo\nGuará >2x\nDe repente o sol dormiu\nToda mata escureceu\nCom a lua que surgiu\nSeu Guará apareceu\nEm suave Ave Maria\nQue no céu o anjo cantou\nSeu Guará de lá descia\nCom a noite que chegou\nEu chorei >\nQuando seu Guará me\nabençoou >2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Quando a lua dormiu O sol raiando a esperança",
     "video": {
       "id": "R6MkN-Lh_Tg",
@@ -8997,8 +9014,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 198,
     "title": "SOL DO ORIENTE",
-    "toque": "",
-    "lyrics": "198 - O sol do Oriente é\nvermelho>\nE o fogo sagrado também>\nSão 7 raios de luz>\nQue guardam a Terra e\nalém>2x\nJoão Batista vem\nanunciando\nMestre Arimateia está para\nchegar\nSaint Germain trouxe o\nconhecimento\nE Pai Ori a cura milenar\nO povo Hindu vem\ncantando baixo\nUm mantra a Shiva e a\nOxalá\nPachamama trás a força\nInca\nO Egito antigo já está nesse\nCongá\nErva que cura de meu pai\nOxossí\nOxum canto no Nilo e no\nRio Jordão\nOgum e Ares juntam suas\nespadas\nMagia divina está na união",
+    "toque": "Samba Cabula",
+    "lyrics": "198 - O sol do Oriente é\nvermelho>\nE o fogo sagrado também>\nSão 7 raios de luz>\nQue guardam a Terra e\nalém>2x\nJoão Batista vem\nanunciando\nMestre Arimateia está para\nchegar\nSaint Germain trouxe o\nconhecimento\nE Pai Ori a cura milenar\nO povo Hindu vem\ncantando baixo\nUm mantra a Shiva e a\nOxalá\nPachamama trás a força\nInca\nO Egito antigo já está nesse\nCongá\nErva que cura de meu pai\nOxossí\nOxum canto no Nilo e no\nRio Jordão\nOgum e Ares juntam suas\nespadas\nMagia divina está na união\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS O sol do Oriente é vermelho",
     "video": {
       "id": "-LOR7PBbVDM",
@@ -9014,8 +9031,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 199,
     "title": "PONTOS INDIVIDUAIS CABOCLO SETE PEDREIRAS",
-    "toque": "",
-    "lyrics": "199 - Por detrás daquela serra >\nTem uma linda cachoeira\n>2x\nÉ de meu Pai Xangô >\nÉ de Xangô Sete Pedreiras\n>2x\nFoi água nascendo na fonte\ne espinho na flor!\nDo seu medo escondido\nnasceu a coragem de ser\nvencedor\nPunhal na mão, no peito\num escudo mais fiel\nDe quem na terra concebeu\no céu!\nSão sete pedreiras que ele\naprendeu a quebrar\nNa faísca da fúria, no raio\nda chuva à luz do luar!\nLavou o corpo com o vinho\namargo do suor\nE fez do próprio bem, de\ntodos os males, talvez o\nmenor!",
+    "toque": "Barra",
+    "lyrics": "199 - Por detrás daquela serra >\nTem uma linda cachoeira\n>2x\nÉ de meu Pai Xangô >\nÉ de Xangô Sete Pedreiras\n>2x\nFoi água nascendo na fonte\ne espinho na flor!\nDo seu medo escondido\nnasceu a coragem de ser\nvencedor\nPunhal na mão, no peito\num escudo mais fiel\nDe quem na terra concebeu\no céu!\nSão sete pedreiras que ele\naprendeu a quebrar\nNa faísca da fúria, no raio\nda chuva à luz do luar!\nLavou o corpo com o vinho\namargo do suor\nE fez do próprio bem, de\ntodos os males, talvez o\nmenor!\n\n(Toque: Barra)",
     "query": "ponto de umbanda CABOCLOS Por detrás daquela serra Tem uma linda cachoeira",
     "video": {
       "id": "5Xh5XDpDxmA",
@@ -9031,8 +9048,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 200,
     "title": "CABOCLA INDAIÁ (Indaiá, o Indaiá)",
-    "toque": "",
-    "lyrics": "200 - Indaiá, o Indaiá >\nComo vai a areia, como vai\na areia >\nComo vai o mar >2x\nIndaiá é quem me diz\nO momento que dá pé\nEu sair no meu veleiro\nSem perigo da maré\nQuando canta a mãe sereia\nNão quer que ninguém se\nesconda\nÉ sinal de tempo bom >\nJanaína vem na onda >2x\nIndaiá, o Indaiá... >2x\nQuando quero navegar\nEu consulto Indaiá\nÉ a mãe das caboclinhas\nNos domínios de Iemanjá\nEla vem com a magia\nDa família encantada\nNa estrela que se vê >\nAo romper da madrugada\n>2x",
+    "toque": "Samba Cabula",
+    "lyrics": "200 - Indaiá, o Indaiá >\nComo vai a areia, como vai\na areia >\nComo vai o mar >2x\nIndaiá é quem me diz\nO momento que dá pé\nEu sair no meu veleiro\nSem perigo da maré\nQuando canta a mãe sereia\nNão quer que ninguém se\nesconda\nÉ sinal de tempo bom >\nJanaína vem na onda >2x\nIndaiá, o Indaiá... >2x\nQuando quero navegar\nEu consulto Indaiá\nÉ a mãe das caboclinhas\nNos domínios de Iemanjá\nEla vem com a magia\nDa família encantada\nNa estrela que se vê >\nAo romper da madrugada\n>2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Indaiá, o Indaiá Como vai a areia, como vai",
     "video": {
       "id": "5BQFiVsvwG4",
@@ -9065,8 +9082,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 202,
     "title": "CABOCLO SETE CACHOEIRAS (A pedra rola)",
-    "toque": "",
-    "lyrics": "202 - A pedra rola\nLá do alto da pedreira\nVem descendo a cachoeira\nVem pra dentro do Congá\nEle é Xangô\nÉ seu Sete Cachoeiras\nCom força da cachoeira\nVem seus filhos ajudar\nSua machada\nTraz a força do trovão\nÉ seu Sete Cachoeiras\nDando a sua proteção\nSua falange\nEle traz lá da pedreira\nCom água da cachoeira\nOs seus filhos vêm curar\nEle é caboclo>\nJusticeiro de Aruanda >\nVem trazendo a sua banda>\nPara firmar seu jacutá> 2x",
+    "toque": "Samba Cabula",
+    "lyrics": "202 - A pedra rola\nLá do alto da pedreira\nVem descendo a cachoeira\nVem pra dentro do Congá\nEle é Xangô\nÉ seu Sete Cachoeiras\nCom força da cachoeira\nVem seus filhos ajudar\nSua machada\nTraz a força do trovão\nÉ seu Sete Cachoeiras\nDando a sua proteção\nSua falange\nEle traz lá da pedreira\nCom água da cachoeira\nOs seus filhos vêm curar\nEle é caboclo>\nJusticeiro de Aruanda >\nVem trazendo a sua banda>\nPara firmar seu jacutá> 2x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS A pedra rola Lá do alto da pedreira",
     "video": {
       "id": "QOAOWm5xTCk",
@@ -9082,8 +9099,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 203,
     "title": "CABOCLA RAIO DE SOL (Aquela linda moça, aquela)",
-    "toque": "",
-    "lyrics": "203 - Aquela linda moça, aquela\nlinda cabocla>2x\nIansã desce do reino pra\ntrazer raio de sol>2x\nLinda cabocla que desceu\nnesse terreiro>\nLinda cabocla com sua\nflecha no congá>2x\nRaio de sol minha linda\ncabocla>\nRaio de sol venha nos\nsaravá>2x\nCom sua flecha minha mãe\nvem me valer>\nPorque ela é, é Oya\neparrei>2x\nMe descarregue minha mãe\ncom sua flecha>\nE todo mal no seu vento vai\nlevar>2x\nEparrei ôô Bela Oya>4x",
+    "toque": "Samba Cabula",
+    "lyrics": "203 - Aquela linda moça, aquela\nlinda cabocla>2x\nIansã desce do reino pra\ntrazer raio de sol>2x\nLinda cabocla que desceu\nnesse terreiro>\nLinda cabocla com sua\nflecha no congá>2x\nRaio de sol minha linda\ncabocla>\nRaio de sol venha nos\nsaravá>2x\nCom sua flecha minha mãe\nvem me valer>\nPorque ela é, é Oya\neparrei>2x\nMe descarregue minha mãe\ncom sua flecha>\nE todo mal no seu vento vai\nlevar>2x\nEparrei ôô Bela Oya>4x\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Aquela linda moça, aquela linda cabocla",
     "video": {
       "id": "J-SGXIrmyt0",
@@ -9099,8 +9116,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 204,
     "title": "PONTOS DE LINHA DAS CABOCLAS",
-    "toque": "",
-    "lyrics": "204 - Eu vi no alto da serra >\nCabocla jurema >\nDando o seu brado de\nguerra >\nQuio, quio >\nDentro da mata seu brado\necoou >2x\nCom seu arco e sua flecha\nE a sua lança até raiar\nJurema dava o seu brado de\nguerra\nAnunciando que ia caçar\nSete luas se passaram\nQuando a Jurema voltou\nToda a caça que ela trazia\nAo cacique entregou\nE ele tão alegre\nCantou em seu louvor\nOoo Jurema >\nLinda caçadora\nBela cabocla de pena",
+    "toque": "Samba Cabula",
+    "lyrics": "204 - Eu vi no alto da serra >\nCabocla jurema >\nDando o seu brado de\nguerra >\nQuio, quio >\nDentro da mata seu brado\necoou >2x\nCom seu arco e sua flecha\nE a sua lança até raiar\nJurema dava o seu brado de\nguerra\nAnunciando que ia caçar\nSete luas se passaram\nQuando a Jurema voltou\nToda a caça que ela trazia\nAo cacique entregou\nE ele tão alegre\nCantou em seu louvor\nOoo Jurema >\nLinda caçadora\nBela cabocla de pena\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Eu vi no alto da serra Cabocla jurema",
     "video": {
       "id": "VrEpO292l18",
@@ -9116,8 +9133,8 @@ window.PONTOS_DATA = [
     "category": "PONTOS DE CABOCLOS",
     "number": 205,
     "title": "GUARACI",
-    "toque": "",
-    "lyrics": "205 - Eu vi brilhar, eu vi >\nNo meio da mata eu vi >\nA pena de prata do Caboclo\nGuaraci >2x\nO seu arco é de ouro do sol\nSua flecha é o raio da lua\nGuardião da floresta real\nSentinela da mata que é sua\nEle é filho da dona do rio\nE se benze com a erva que\nqueima\nBebe água da casca do pé\nde arueira\nE licor de Jurema\nQuiô, quiô, quiô, quiera\nSeu Guaraci vigia a mata\nSeu Guaraci domina a fera",
+    "toque": "Samba Cabula",
+    "lyrics": "205 - Eu vi brilhar, eu vi >\nNo meio da mata eu vi >\nA pena de prata do Caboclo\nGuaraci >2x\nO seu arco é de ouro do sol\nSua flecha é o raio da lua\nGuardião da floresta real\nSentinela da mata que é sua\nEle é filho da dona do rio\nE se benze com a erva que\nqueima\nBebe água da casca do pé\nde arueira\nE licor de Jurema\nQuiô, quiô, quiô, quiera\nSeu Guaraci vigia a mata\nSeu Guaraci domina a fera\n\n(Toque: Samba Cabula)",
     "query": "ponto de umbanda CABOCLOS Eu vi brilhar, eu vi No meio da mata eu vi",
     "video": {
       "id": "_lCJ2X7Rg-s",
