@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="pt-BR">
+
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -9,7 +10,9 @@
   <title>Pontos Cantados do Terreiro & Playlist</title>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Outfit:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link
+    href="https://fonts.googleapis.com/css2?family=Cinzel:wght@600;700;800&family=Outfit:wght@300;400;500;600;700&display=swap"
+    rel="stylesheet">
   <style>
     :root {
       --bg-primary: #0e120f;
@@ -447,6 +450,19 @@
       color: var(--text-muted);
     }
 
+    .ponto-toque-badge {
+      font-size: 0.68rem;
+      padding: 0.15rem 0.55rem;
+      border-radius: 4px;
+      background: var(--accent-emerald-dim);
+      color: var(--accent-emerald);
+      border: 1px solid rgba(16, 185, 129, 0.35);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 0.25rem;
+    }
+
     .ponto-item-title {
       font-size: 0.9rem;
       font-weight: 600;
@@ -617,7 +633,7 @@
         display: inline-flex;
       }
 
-      .brand > span {
+      .brand>span {
         display: none;
       }
 
@@ -713,18 +729,22 @@
       width: 6px;
       height: 6px;
     }
+
     ::-webkit-scrollbar-track {
       background: var(--bg-primary);
     }
+
     ::-webkit-scrollbar-thumb {
       background: rgba(212, 175, 55, 0.25);
       border-radius: 4px;
     }
+
     ::-webkit-scrollbar-thumb:hover {
       background: var(--accent-gold);
     }
   </style>
 </head>
+
 <body>
 
   <header>
@@ -736,27 +756,34 @@
         <span>🌿</span>
         <div>
           <h1>Pontos Cantados do Terreiro</h1>
-          <p>543 Pontos cantados e transcritos (Terreiro + Patrik na Voz + Pontos de Umbanda Oficial)</p>
+          <p id="headerSubtitle">1974 Pontos cantados e transcritos (Terreiro + Cadernos de Pontos + Patrik na Voz +
+            Pontos de Umbanda Oficial)</p>
         </div>
       </div>
     </div>
     <div class="playlist-buttons">
-      <a href="https://www.youtube.com/c/TAMBORDOMEUPOVO/videos" target="_blank" class="btn btn-gold" title="Abrir Canal Oficial Patrik na Voz (Tambor do Meu Povo) no YouTube">
+      <a href="https://www.youtube.com/c/TAMBORDOMEUPOVO/videos" target="_blank" class="btn btn-gold"
+        title="Abrir Canal Oficial Patrik na Voz (Tambor do Meu Povo) no YouTube">
         🥁 Patrik na Voz
       </a>
-      <a href="https://www.youtube.com/@pontosdeumbandaoficial/playlists" target="_blank" class="btn btn-gold" title="Abrir Playlists do Canal Pontos de Umbanda Oficial no YouTube">
+      <a href="https://www.youtube.com/@pontosdeumbandaoficial/playlists" target="_blank" class="btn btn-gold"
+        title="Abrir Playlists do Canal Pontos de Umbanda Oficial no YouTube">
         🎶 Pontos de Umbanda Oficial
       </a>
-      <a href="https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG_ASvPHfT2NgwMzExMjAyNg" target="_blank" class="btn" title="Abrir Playlist Original de 69 Pontos no YouTube">
+      <a href="https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG_ASvPHfT2NgwMzExMjAyNg" target="_blank" class="btn"
+        title="Abrir Playlist Original de 69 Pontos no YouTube">
         ▶️ Playlist Terreiro (69)
       </a>
-      <a href="https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG2GJe2ZsujXEyODEwMjAyNg" target="_blank" class="btn" title="Abrir Playlist de Abertura de Gira no YouTube">
+      <a href="https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG2GJe2ZsujXEyODEwMjAyNg" target="_blank" class="btn"
+        title="Abrir Playlist de Abertura de Gira no YouTube">
         🚪 Abertura de Gira
       </a>
-      <a href="https://www.youtube.com/watch?v=KZYlZOteyeI&list=TLGGbbkwZont2u0yODEwMjAyNg" target="_blank" class="btn" title="Abrir Playlist de Caboclos e Subida no YouTube">
+      <a href="https://www.youtube.com/watch?v=KZYlZOteyeI&list=TLGGbbkwZont2u0yODEwMjAyNg" target="_blank" class="btn"
+        title="Abrir Playlist de Caboclos e Subida no YouTube">
         🏹 Caboclos & Subida
       </a>
-      <a href="https://www.youtube.com/watch?v=rQDf1ZtG0r0&list=TLGGoIxLZgliTTUwMzExMjAyNg" target="_blank" class="btn" title="Abrir Playlist de Boiadeiro no YouTube">
+      <a href="https://www.youtube.com/watch?v=rQDf1ZtG0r0&list=TLGGoIxLZgliTTUwMzExMjAyNg" target="_blank" class="btn"
+        title="Abrir Playlist de Boiadeiro no YouTube">
         🤠 Boiadeiro
       </a>
     </div>
@@ -779,47 +806,54 @@
           <span id="playlistSubmenuIcon">▼</span>
         </button>
         <div class="submenu-links" id="playlistSubmenuLinks">
-          <a href="https://www.youtube.com/c/TAMBORDOMEUPOVO/videos" target="_blank">🥁 Canal Patrik na Voz - Tambor do Meu Povo</a>
-          <a href="https://www.youtube.com/@pontosdeumbandaoficial/playlists" target="_blank">🎶 Canal Pontos de Umbanda Oficial (Playlists)</a>
-          <a href="https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG_ASvPHfT2NgwMzExMjAyNg" target="_blank">▶️ Playlist Terreiro (69 Pontos)</a>
-          <a href="https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG2GJe2ZsujXEyODEwMjAyNg" target="_blank">🚪 Abertura de Gira (19)</a>
-          <a href="https://www.youtube.com/watch?v=KZYlZOteyeI&list=TLGGbbkwZont2u0yODEwMjAyNg" target="_blank">🏹 Caboclos & Subida (29)</a>
-          <a href="https://www.youtube.com/watch?v=rQDf1ZtG0r0&list=TLGGoIxLZgliTTUwMzExMjAyNg" target="_blank">🤠 Boiadeiro (21)</a>
+          <a href="https://www.youtube.com/c/TAMBORDOMEUPOVO/videos" target="_blank">🥁 Canal Patrik na Voz - Tambor do
+            Meu Povo</a>
+          <a href="https://www.youtube.com/@pontosdeumbandaoficial/playlists" target="_blank">🎶 Canal Pontos de Umbanda
+            Oficial (Playlists)</a>
+          <a href="https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG_ASvPHfT2NgwMzExMjAyNg" target="_blank">▶️
+            Playlist Terreiro (69 Pontos)</a>
+          <a href="https://www.youtube.com/watch?v=DPOvYhxZ3Yk&list=TLGG2GJe2ZsujXEyODEwMjAyNg" target="_blank">🚪
+            Abertura de Gira (19)</a>
+          <a href="https://www.youtube.com/watch?v=KZYlZOteyeI&list=TLGGbbkwZont2u0yODEwMjAyNg" target="_blank">🏹
+            Caboclos & Subida (29)</a>
+          <a href="https://www.youtube.com/watch?v=rQDf1ZtG0r0&list=TLGGoIxLZgliTTUwMzExMjAyNg" target="_blank">🤠
+            Boiadeiro (21)</a>
         </div>
       </div>
 
       <div class="sidebar-controls">
         <div class="search-box">
           <span class="search-icon">🔍</span>
-          <input type="text" id="searchInput" class="search-input" placeholder="Buscar ponto, número ou letra...">
+          <input type="text" id="searchInput" class="search-input"
+            placeholder="Buscar ponto, número, toque ou letra...">
         </div>
-                <div class="filter-tabs">
-          <button class="tab-btn active" data-filter="all">Todos (541)</button>
-          <button class="tab-btn" data-filter="defumacao">🌿 Defumação (8)</button>
-          <button class="tab-btn" data-filter="abertura">🚪 Abertura (19)</button>
-          <button class="tab-btn" data-filter="descarrego">⚡ Descarrego (2)</button>
-          <button class="tab-btn" data-filter="oxala">🕊️ Oxalá (6)</button>
-          <button class="tab-btn" data-filter="ogum">⚔️ Ogum (26)</button>
-          <button class="tab-btn" data-filter="oxossi">🏹 Oxóssi (8)</button>
-          <button class="tab-btn" data-filter="xango">🪓 Xangô (20)</button>
-          <button class="tab-btn" data-filter="iansa">🌩️ Iansã (7)</button>
-          <button class="tab-btn" data-filter="oxum">💛 Oxum (8)</button>
-          <button class="tab-btn" data-filter="iemanja">🌊 Iemanjá (10)</button>
-          <button class="tab-btn" data-filter="nana">💜 Nanã (5)</button>
-          <button class="tab-btn" data-filter="obaluae">🍿 Obaluaê (11)</button>
-          <button class="tab-btn" data-filter="caboclos">🪶 Caboclo (90)</button>
-          <button class="tab-btn" data-filter="boiadeiro">🤠 Boiadeiro (34)</button>
-          <button class="tab-btn" data-filter="pretovelho">📿 Preto Velho (43)</button>
-          <button class="tab-btn" data-filter="baiano">🥥 Baiano (19)</button>
-          <button class="tab-btn" data-filter="marinheiro">⚓ Marinheiro (16)</button>
-          <button class="tab-btn" data-filter="ciganos">💃 Ciganos (9)</button>
-          <button class="tab-btn" data-filter="ere">🍬 Ibejada (15)</button>
-          <button class="tab-btn" data-filter="malandro">🎲 Malandro (30)</button>
-          <button class="tab-btn" data-filter="exu">🔱 Exu (92)</button>
-          <button class="tab-btn" data-filter="pombagira">🌹 Pombagira (59)</button>
-          <button class="tab-btn" data-filter="capoeira">🪘 Capoeira (6)</button>
-          <button class="tab-btn" data-filter="patrik">🥁 Patrik na Voz (144)</button>
-          <button class="tab-btn" data-filter="pdu">🎶 Pontos de Umbanda (351)</button>
+        <div class="filter-tabs">
+          <button class="tab-btn active" data-filter="all">Todos (1974)</button>
+          <button class="tab-btn" data-filter="defumacao">🌿 Defumação (23)</button>
+          <button class="tab-btn" data-filter="abertura">🚪 Abertura (51)</button>
+          <button class="tab-btn" data-filter="descarrego">⚡ Descarrego (8)</button>
+          <button class="tab-btn" data-filter="oxala">🕊️ Oxalá (10)</button>
+          <button class="tab-btn" data-filter="ogum">⚔️ Ogum (76)</button>
+          <button class="tab-btn" data-filter="oxossi">🏹 Oxóssi (16)</button>
+          <button class="tab-btn" data-filter="xango">🪓 Xangô (26)</button>
+          <button class="tab-btn" data-filter="iansa">🌩️ Iansã (33)</button>
+          <button class="tab-btn" data-filter="oxum">💛 Oxum (27)</button>
+          <button class="tab-btn" data-filter="iemanja">🌊 Iemanjá (26)</button>
+          <button class="tab-btn" data-filter="nana">💜 Nanã (13)</button>
+          <button class="tab-btn" data-filter="obaluae">🍿 Obaluaê (20)</button>
+          <button class="tab-btn" data-filter="caboclos">🪶 Caboclo (325)</button>
+          <button class="tab-btn" data-filter="boiadeiro">🤠 Boiadeiro (106)</button>
+          <button class="tab-btn" data-filter="pretovelho">📿 Preto Velho (157)</button>
+          <button class="tab-btn" data-filter="baiano">🥥 Baiano (94)</button>
+          <button class="tab-btn" data-filter="marinheiro">⚓ Marinheiro (47)</button>
+          <button class="tab-btn" data-filter="ciganos">💃 Ciganos (54)</button>
+          <button class="tab-btn" data-filter="ere">🍬 Ibejada (73)</button>
+          <button class="tab-btn" data-filter="malandro">🎲 Malandro (96)</button>
+          <button class="tab-btn" data-filter="exu">🔱 Exu (341)</button>
+          <button class="tab-btn" data-filter="pombagira">🌹 Pombagira (317)</button>
+          <button class="tab-btn" data-filter="capoeira">🪘 Capoeira (35)</button>
+          <button class="tab-btn" data-filter="patrik">🥁 Patrik na Voz (151)</button>
+          <button class="tab-btn" data-filter="pdu">🎶 Pontos de Umbanda (359)</button>
         </div>
       </div>
 
@@ -838,14 +872,17 @@
             <span class="mobile-quick-bar-cat" id="mobileQuickCat">Categoria</span>
             <span class="mobile-quick-bar-title" id="mobileQuickTitle">Selecione um ponto</span>
           </div>
-          <button class="btn btn-gold" id="quickOpenDrawerBtn" style="padding: 0.45rem 0.75rem; font-size: 0.8rem; white-space: nowrap;">
+          <button class="btn btn-gold" id="quickOpenDrawerBtn"
+            style="padding: 0.45rem 0.75rem; font-size: 0.8rem; white-space: nowrap;">
             📋 Trocar Ponto
           </button>
         </div>
-        
+
         <div class="player-card">
           <div class="video-wrapper">
-            <iframe id="videoIframe" src="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            <iframe id="videoIframe" src=""
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
           </div>
           <div class="player-nav">
             <div class="player-info">
@@ -863,7 +900,10 @@
         <div class="lyrics-card">
           <div class="lyrics-header">
             <div>
-              <span id="badgeCategory" class="ponto-cat-badge">Categoria</span>
+              <div style="display:flex;align-items:center;gap:0.5rem;flex-wrap:wrap;">
+                <span id="badgeCategory" class="ponto-cat-badge">Categoria</span>
+                <span id="badgeToque" class="ponto-toque-badge" style="display:none;">🪘 Toque</span>
+              </div>
               <h2 id="lyricsTitle">Letra do Ponto</h2>
             </div>
             <button class="btn" id="copyBtn">📋 Copiar Letra</button>
@@ -895,6 +935,8 @@
     const lyricsTitle = document.getElementById('lyricsTitle');
     const lyricsText = document.getElementById('lyricsText');
     const badgeCategory = document.getElementById('badgeCategory');
+    const badgeToque = document.getElementById('badgeToque');
+    const headerSubtitle = document.getElementById('headerSubtitle');
     const mobileQuickCat = document.getElementById('mobileQuickCat');
     const mobileQuickTitle = document.getElementById('mobileQuickTitle');
     const prevBtn = document.getElementById('prevBtn');
@@ -935,7 +977,7 @@
       playlistSubmenuIcon.textContent = isOpen ? '▲' : '▼';
     });
 
-            const categoryMeta = {
+    const categoryMeta = {
       'PONTOS DE DEFUMAÇÃO': { icon: '🌿', label: 'Pontos de Defumação', short: 'Defumação', filterKey: 'defumacao' },
       'PONTOS DE ABERTURA DE GIRA': { icon: '🚪', label: 'Abertura de Gira', short: 'Abertura', filterKey: 'abertura' },
       'PONTOS DE DESCARREGO': { icon: '⚡', label: 'Pontos de Descarrego', short: 'Descarrego', filterKey: 'descarrego' },
@@ -986,7 +1028,8 @@
           const matchTitle = p.title.toLowerCase().includes(query);
           const matchLyrics = p.lyrics.toLowerCase().includes(query);
           const matchNum = p.number.toString().includes(query);
-          if (!matchTitle && !matchLyrics && !matchNum) return;
+          const matchToque = (p.toque || '').toLowerCase().includes(query);
+          if (!matchTitle && !matchLyrics && !matchNum && !matchToque) return;
         }
 
         filteredIndices.push(idx);
@@ -1035,11 +1078,12 @@
 
           const chName = (p.video && p.video.channel) ? p.video.channel : '';
           const chBadge = chName.toLowerCase().includes('patrik') ? '🥁 Patrik • ' : (chName === 'Pontos de Umbanda' ? '🎶 PDU • ' : '');
+          const toqueBadge = p.toque ? ` • 🪘 ${p.toque}` : '';
           const startBadge = (p.video && p.video.start > 0) ? ` • ⏱️ ${p.video.startFormatted}` : '';
           item.innerHTML = `
             <div class="ponto-item-header">
               <span class="ponto-num">Ponto ${p.number}</span>
-              <span class="ponto-cat-badge">${chBadge}${meta.short}${startBadge}</span>
+              <span class="ponto-cat-badge">${chBadge}${meta.short}${toqueBadge}${startBadge}</span>
             </div>
             <div class="ponto-item-title">${p.title}</div>
             <div class="ponto-item-snippet">${firstLine}</div>
@@ -1071,16 +1115,24 @@
 
       currentTitle.textContent = `${p.number} - ${p.title}`;
       badgeCategory.textContent = p.category;
+      if (p.toque) {
+        badgeToque.textContent = `🪘 Toque: ${p.toque}`;
+        badgeToque.style.display = 'inline-flex';
+      } else {
+        badgeToque.style.display = 'none';
+      }
       lyricsTitle.textContent = `${p.category} - Ponto ${p.number}`;
       lyricsText.textContent = p.lyrics;
 
-      mobileQuickCat.textContent = `${meta.short} • Ponto ${p.number}`;
+      const quickToque = p.toque ? ` • 🪘 ${p.toque}` : '';
+      mobileQuickCat.textContent = `${meta.short} • Ponto ${p.number}${quickToque}`;
       mobileQuickTitle.textContent = p.title;
 
       if (p.video) {
         const startSec = p.video.start || 0;
         const startInfo = startSec > 0 ? ` | ⏱️ Início do ponto: ${p.video.startFormatted}` : '';
-        currentMeta.textContent = `Canal: ${p.video.channel || 'YouTube'} | Duração: ${p.video.length || '-'}${startInfo}`;
+        const toqueInfo = p.toque ? ` | 🪘 Toque: ${p.toque}` : '';
+        currentMeta.textContent = `Canal: ${p.video.channel || 'YouTube'} | Duração: ${p.video.length || '-'}${toqueInfo}${startInfo}`;
         const startParam = startSec > 0 ? `&start=${startSec}` : '';
         const autoPlayParam = fromUserClick ? '&autoplay=1' : '';
         videoIframe.src = `https://www.youtube.com/embed/${p.video.id}?rel=0${startParam}${autoPlayParam}`;
@@ -1164,6 +1216,9 @@
     // Initialize: carrega os dados de pontos_com_videos.json (com fallback imediato para window.PONTOS_DATA em file://)
     function initWithData(data) {
       pontosData = data;
+      if (headerSubtitle) {
+        headerSubtitle.textContent = `${pontosData.length} Pontos cantados e transcritos (Terreiro + Cadernos de Pontos + Patrik na Voz + Pontos de Umbanda Oficial)`;
+      }
       updateTabCounts();
       filteredIndices = pontosData.map((_, i) => i);
       renderList();
@@ -1183,4 +1238,5 @@
       });
   </script>
 </body>
+
 </html>
